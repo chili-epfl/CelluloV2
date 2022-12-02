@@ -1,0 +1,4 @@
+<map id="Cellulo::CelluloRobot" name="Cellulo::CelluloRobot">
+<area shape="rect" id="node2" href="$group__comm.html#classCellulo_1_1CelluloBluetooth" title="Object that communicates with one Cellulo robot over Bluetooth. " alt="" coords="9,155,175,181"/>
+<area shape="rect" id="node3" href="$group__zone.html#classCellulo_1_1CelluloZoneClient" title="Describes an object with a physical pose (e.g a robot) that may interact with Cellulo zones..." alt="" coords="5,80,179,107"/>
+</map>

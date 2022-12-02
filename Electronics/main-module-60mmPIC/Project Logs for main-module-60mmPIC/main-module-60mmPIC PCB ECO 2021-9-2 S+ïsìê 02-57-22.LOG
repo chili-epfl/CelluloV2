@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=5V Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-5
+Removed Pin From Net: NetName=GND Pin=J2-6
+Removed Pin From Net: NetName=GND Pin=J2-7
+Removed Pin From Net: NetName=GND Pin=J2-8
+Removed Pin From Net: NetName=GND Pin=J2-9
+Removed Pin From Net: NetName=GND Pin=J2-10
+Removed Pin From Net: NetName=GND Pin=J2-11
+Removed Member From Class: ClassName=power Member=C2
+Removed Member From Class: ClassName=U_main UI Member=C4
+Removed Member From Class: ClassName=interconnect Member=J2
+Change Component Designator: OldDesignator=IC3 NewDesignator=IC2
+Change Component Designator: OldDesignator=IC4 NewDesignator=IC3
+Change Component Designator: OldDesignator=IC5 NewDesignator=IC4
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=J5 NewDesignator=J4
+Change Component Designator: OldDesignator=J6 NewDesignator=J5
+Change Component Designator: OldDesignator=J7 NewDesignator=J6
+Change Component Designator: OldDesignator=J8 NewDesignator=J7
+Change Component Designator: OldDesignator=J9 NewDesignator=J8
+Change Component Designator: OldDesignator=P2 NewDesignator=P1
+Change Component Designator: OldDesignator=P3 NewDesignator=P2
+Change Component Designator: OldDesignator=P4 NewDesignator=P3
+Change Component Designator: OldDesignator=P5 NewDesignator=P4
+Change Net Name : Old Net Name=NetIC3_8 New Net Name=NetIC2_8
+Change Net Name : Old Net Name=NetIC3_10 New Net Name=NetIC2_10
+Change Net Name : Old Net Name=NetIC3_27 New Net Name=NetIC2_27
+Change Net Name : Old Net Name=NetIC4_1 New Net Name=NetIC3_1
+Change Net Name : Old Net Name=NetIC4_2 New Net Name=NetIC3_2
+Change Net Name : Old Net Name=NetIC4_3 New Net Name=NetIC3_3
+Change Net Name : Old Net Name=NetIC4_4 New Net Name=NetIC3_4
+Change Net Name : Old Net Name=NetIC4_5 New Net Name=NetIC3_5
+Change Net Name : Old Net Name=NetIC4_17 New Net Name=NetIC3_17
+Change Net Name : Old Net Name=NetIC5_27 New Net Name=NetIC4_27
+Change Net Name : Old Net Name=NetJ3_1 New Net Name=NetJ2_1
+Change Net Name : Old Net Name=NetJ4_2 New Net Name=NetJ3_2
+Change Net Name : Old Net Name=NetJ4_3 New Net Name=NetJ3_3
+Change Net Name : Old Net Name=NetJ4_4 New Net Name=NetJ3_4
+Change Net Name : Old Net Name=NetJ4_5 New Net Name=NetJ3_5
+Change Net Name : Old Net Name=NetJ4_6 New Net Name=NetJ3_6
+Change Net Name : Old Net Name=NetJ4_8 New Net Name=NetJ3_8
+Added Member To Class: ClassName=ESP32 Member=Component C1 GRM1885C1H101JA01D
+Added Member To Class: ClassName=ESP32 Member=Component C2 GRM1885C1H101JA01D
+Added Member To Class: ClassName=power Member=Component C4 CAP 22uF 6.3V 1206(3216)
+Added Member To Class: ClassName=power Member=Component C5 GRM188R60J106ME47D
+Added Member To Class: ClassName=power Member=Component C6 C1206C104K1RACTU
+Added Member To Class: ClassName=power Member=Component C7 GRM155R60J475ME47D
+Added Member To Class: ClassName=power Member=Component C8 GRM155R60J475ME47D
+Added Member To Class: ClassName=MCU Member=Component C15 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C16 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C17 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C18 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C19 0.1uF
+Added Member To Class: ClassName=U_main UI Member=Component C30 10nF
+Added Member To Class: ClassName=interconnect Member=Component P1 811-S1-006-30-015101
+Added Member To Class: ClassName=ESP32 Member=Component P2 Header 2
+Added Member To Class: ClassName=ESP32 Member=Component P3 LED_strip
+Added Member To Class: ClassName=MCU Member=Component P4 Connector 5
+Added Member To Class: ClassName=U_optics Member=Component Q5 BSS138BK
+Added Member To Class: ClassName=ESP32 Member=Component R1 ERJ-3EKF1001V
+Added Member To Class: ClassName=ESP32 Member=Component R2 ERJ-3EKF1001V
+Added Member To Class: ClassName=power Member=Component R3 ERJ-3EKF2004V
+Added Member To Class: ClassName=power Member=Component R4 ERJ-3EKF2004V
+Added Member To Class: ClassName=power Member=Component R5 ERJ-3EKF2203V
+Added Member To Class: ClassName=power Member=Component R6 ERJ-3EKF2203V
+Added Member To Class: ClassName=MCU Member=Component R15 1K5
+Added Member To Class: ClassName=MCU Member=Component R17 10K
+Added Member To Class: ClassName=MCU Member=Component R18 Unpopulated
+Added Member To Class: ClassName=MCU Member=Component R19 10K
+Added Member To Class: ClassName=U_optics Member=Component R20 1K
+Added Member To Class: ClassName=U_optics Member=Component R21 1K
+Added Member To Class: ClassName=U_optics Member=Component R22 10K

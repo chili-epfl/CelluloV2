@@ -1,0 +1,41 @@
+Added Pin To Net: NetName=NetIC4_20 Pin=U1-40
+Added Pin To Net: NetName=PIXEL_WR Pin=U1-42
+Added Pin To Net: NetName=NetIC4_21 Pin=U1-124
+Added Pin To Net: NetName=NetIC4_25 Pin=U1-136
+Added Pin To Net: NetName=NetIC4_24 Pin=U1-140
+Added Pin To Net: NetName=NetIC4_15 Pin=IC4-15
+Added Pin To Net: NetName=NetIC4_15 Pin=U1-117
+Added Net: Name=NetIC4_15
+Added Pin To Net: NetName=NetIC4_16 Pin=IC4-16
+Added Pin To Net: NetName=NetIC4_16 Pin=U1-4
+Added Net: Name=NetIC4_16
+Added Pin To Net: NetName=NetIC4_17 Pin=IC4-17
+Added Pin To Net: NetName=NetIC4_17 Pin=U1-5
+Added Net: Name=NetIC4_17
+Added Pin To Net: NetName=NetIC4_18 Pin=IC4-18
+Added Pin To Net: NetName=NetIC4_18 Pin=U1-111
+Added Net: Name=NetIC4_18
+Added Pin To Net: NetName=NetIC4_19 Pin=IC4-19
+Added Pin To Net: NetName=NetIC4_19 Pin=U1-113
+Added Net: Name=NetIC4_19
+Added Pin To Net: NetName=NetIC4_41 Pin=IC4-41
+Added Pin To Net: NetName=NetIC4_41 Pin=U1-3
+Added Net: Name=NetIC4_41
+Added Pin To Net: NetName=NetIC4_42 Pin=IC4-42
+Added Pin To Net: NetName=NetIC4_42 Pin=U1-99
+Added Net: Name=NetIC4_42
+Added Pin To Net: NetName=NetIC4_43 Pin=IC4-43
+Added Pin To Net: NetName=NetIC4_43 Pin=U1-98
+Added Net: Name=NetIC4_43
+Added Pin To Net: NetName=NetIC4_44 Pin=IC4-44
+Added Pin To Net: NetName=NetIC4_44 Pin=U1-97
+Added Net: Name=NetIC4_44
+Added Pin To Net: NetName=NetIC4_45 Pin=IC4-45
+Added Pin To Net: NetName=NetIC4_45 Pin=U1-96
+Added Net: Name=NetIC4_45
+Added Member To Class: ClassName=motor Member=Component U? BD6210HFP-TR
+Added Member To Class: ClassName=motor Member=Component U? BD6210HFP-TR
+Added Room: Name=ESP32
+Added Room: Name=motor
+Added Room: Name=Optics
+Added Room: Name=stm32F7

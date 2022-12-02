@@ -1,0 +1,69 @@
+Removed Member From Class: ClassName=ESP32 Member=K1
+Removed Member From Class: ClassName=ESP32 Member=K2
+Removed Member From Class: ClassName=ESP32 Member=K3
+Removed Member From Class: ClassName=ESP32 Member=K4
+Removed Member From Class: ClassName=ESP32 Member=K5
+Removed Member From Class: ClassName=ESP32 Member=K6
+Added Component: Designator=J3(PIN1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J4(PIN1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J5(PIN1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J6(PIN1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J7(PIN1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J8(PIN1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=GND Pin=J2-7
+Added Pin To Net: NetName=GND Pin=J2-8
+Added Pin To Net: NetName=GND Pin=J2-9
+Added Pin To Net: NetName=GND Pin=J2-10
+Added Pin To Net: NetName=GND Pin=J2-11
+Added Pin To Net: NetName=NetMD1_30 Pin=U3-29
+Added Pin To Net: NetName=NetMD1_37 Pin=U3-31
+Added Pin To Net: NetName=NetMD1_29 Pin=U3-32
+Added Pin To Net: NetName=NetMD1_31 Pin=U3-90
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=MD1-24
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=MD1-26
+Added Net: Name=NetJ4_1
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_1 Pin=MD1-14
+Added Net: Name=NetJ5_1
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_1 Pin=MD1-16
+Added Net: Name=NetJ6_1
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ7_1 Pin=MD1-13
+Added Net: Name=NetJ7_1
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Pin To Net: NetName=NetJ8_1 Pin=MD1-23
+Added Net: Name=NetJ8_1
+Added Member To Class: ClassName=ESP32 Member=Component J3 Socket
+Added Member To Class: ClassName=ESP32 Member=Component J4 Socket
+Added Member To Class: ClassName=ESP32 Member=Component J5 Socket
+Added Member To Class: ClassName=ESP32 Member=Component J6 Socket
+Added Member To Class: ClassName=ESP32 Member=Component J7 Socket
+Added Member To Class: ClassName=ESP32 Member=Component J8 Socket
+Added Room: Name=ESP32
+Added Room: Name=interconnect
+Added Room: Name=Optics
+Added Room: Name=power
+Added Room: Name=stm32F7

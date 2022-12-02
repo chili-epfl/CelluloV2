@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=R10 Old Footprint=RESC1608X55X30ML15T15 New Footprint=RESC1608X55X30NL15T15
+Change Component Comment : Designator=R10 Old Comment=ERJ-3EKF1204V New Comment=ERJ-3EKF2004V
+Change Managed Component Library Link : Designator=R10 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=C9A7FC97-5B8C-4541-99C8-88FA4E47A6B3 New ItemGUID=C081A076-AE18-4A31-9B5A-8BA2D94828DF Old RevisionGUID=87B9E5F4-EBF7-4977-BA3A-DA2CEC12A987 New RevisionGUID=66C9C686-33E1-4ECB-80B5-575916EB87A5
+Change component parameters: Designator = "R10" ("R10"); Footprint = "RESC1608X55X30ML15T15"; UniqueID = "\QXEQFBWU\WASAJXFO" ("\QXEQFBWU\WASAJXFO")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-3EKF2004V"; VariantName = "[No Variations]"

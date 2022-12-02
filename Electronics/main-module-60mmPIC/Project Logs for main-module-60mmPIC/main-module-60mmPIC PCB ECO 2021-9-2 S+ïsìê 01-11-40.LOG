@@ -1,0 +1,323 @@
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=A3V3 Pin=C4-2
+Removed Pin From Net: NetName=A3V3 Pin=C5-2
+Removed Pin From Net: NetName=3V3 Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=3V3 Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=3V3 Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=3V3 Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=3V3 Pin=C17-1
+Removed Pin From Net: NetName=GND Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=A3V3 Pin=C20-1
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=GND Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Pin From Net: NetName=GND Pin=C25-2
+Removed Pin From Net: NetName=GND Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Pin From Net: NetName=GND Pin=C29-1
+Removed Pin From Net: NetName=3V3 Pin=C29-2
+Removed Pin From Net: NetName=3V3 Pin=IC1-1
+Removed Pin From Net: NetName=3V3 Pin=IC1-6
+Removed Pin From Net: NetName=GND Pin=IC1-7
+Removed Pin From Net: NetName=GND Pin=IC1-9
+Removed Pin From Net: NetName=GND Pin=IC1-11
+Removed Pin From Net: NetName=GND Pin=IC1-12
+Removed Pin From Net: NetName=GND Pin=IC1-13
+Removed Pin From Net: NetName=3V3 Pin=IC1-14
+Removed Pin From Net: NetName=GND Pin=IC1-23
+Removed Pin From Net: NetName=3V3 Pin=IC1-28
+Removed Pin From Net: NetName=GND Pin=IC1-29
+Removed Pin From Net: NetName=GND Pin=IC1-30
+Removed Pin From Net: NetName=GND Pin=IC1-31
+Removed Pin From Net: NetName=GND Pin=IC1-33
+Removed Pin From Net: NetName=GND Pin=IC1-34
+Removed Pin From Net: NetName=A3V3 Pin=IC1-35
+Removed Pin From Net: NetName=GND Pin=IC1-38
+Removed Pin From Net: NetName=A3V3 Pin=IC1-39
+Removed Pin From Net: NetName=A3V3 Pin=IC1-40
+Removed Pin From Net: NetName=PIXEL_WR Pin=IC1-46
+Removed Pin From Net: NetName=GND Pin=IC1-48
+Removed Pin From Net: NetName=NetMD1_29 Pin=P2-1
+Removed Pin From Net: NetName=NetMD1_30 Pin=P2-2
+Removed Pin From Net: NetName=NetMD1_31 Pin=P2-3
+Removed Pin From Net: NetName=NetMD1_37 Pin=P2-4
+Removed Pin From Net: NetName=3V3 Pin=P3-3
+Removed Pin From Net: NetName=GND Pin=P3-4
+Removed Pin From Net: NetName=3V3 Pin=R1-2
+Removed Pin From Net: NetName=3V3 Pin=R2-2
+Removed Pin From Net: NetName=3V3 Pin=R3-2
+Removed Pin From Net: NetName=3V3 Pin=R4-1
+Removed Pin From Net: NetName=3V3 Pin=R5-1
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=NetMD1_28 Pin=R13-2
+Removed Pin From Net: NetName=3V3 Pin=R14-2
+Removed Pin From Net: NetName=3V3 Pin=R15-2
+Removed Pin From Net: NetName=3V3 Pin=R16-2
+Removed Pin From Net: NetName=3V3 Pin=R19-1
+Removed Pin From Net: NetName=3V3 Pin=R21-1
+Removed Pin From Net: NetName=3V3 Pin=R23-1
+Removed Pin From Net: NetName=3V3 Pin=R25-1
+Removed Pin From Net: NetName=GND Pin=SW3-1
+Removed Pin From Net: NetName=GND Pin=U3-10
+Removed Pin From Net: NetName=3V3 Pin=U3-11
+Removed Pin From Net: NetName=NetMD1_37 Pin=U3-16
+Removed Pin From Net: NetName=NetMD1_31 Pin=U3-17
+Removed Pin From Net: NetName=NetMD1_29 Pin=U3-18
+Removed Pin From Net: NetName=GND Pin=U3-19
+Removed Pin From Net: NetName=A3V3 Pin=U3-20
+Removed Pin From Net: NetName=A3V3 Pin=U3-21
+Removed Pin From Net: NetName=U0RXD Pin=U3-24
+Removed Pin From Net: NetName=U0TXD Pin=U3-25
+Removed Pin From Net: NetName=GND Pin=U3-26
+Removed Pin From Net: NetName=3V3 Pin=U3-27
+Removed Pin From Net: NetName=PIXEL_WR Pin=U3-30
+Removed Pin From Net: NetName=GND Pin=U3-49
+Removed Pin From Net: NetName=3V3 Pin=U3-50
+Removed Pin From Net: NetName=NetMD1_30 Pin=U3-52
+Removed Pin From Net: NetName=NetMD1_17 Pin=U3-68
+Removed Pin From Net: NetName=GND Pin=U3-74
+Removed Pin From Net: NetName=3V3 Pin=U3-75
+Removed Pin From Net: NetName=NetMD1_28 Pin=U3-94
+Removed Pin From Net: NetName=GND Pin=U3-99
+Removed Pin From Net: NetName=3V3 Pin=U3-100
+Removed Pin From Net: NetName=GND Pin=U4-11
+Removed Pin From Net: NetName=GND Pin=U4-18
+Removed Pin From Net: NetName=GND Pin=U4-19
+Removed Pin From Net: NetName=GND Pin=U4-20
+Removed Pin From Net: NetName=3V3 Pin=U5-1
+Removed Pin From Net: NetName=GND Pin=U5-2
+Removed Pin From Net: NetName=3V3 Pin=U5-3
+Removed Pin From Net: NetName=GND Pin=X1-2
+Removed Pin From Net: NetName=GND Pin=X1-4
+Removed Member From Class: ClassName=stm32F7 Member=C13
+Removed Member From Class: ClassName=stm32F7 Member=C14
+Removed Member From Class: ClassName=stm32F7 Member=C15
+Removed Member From Class: ClassName=stm32F7 Member=C16
+Removed Member From Class: ClassName=stm32F7 Member=C17
+Removed Member From Class: ClassName=stm32F7 Member=C18
+Removed Member From Class: ClassName=stm32F7 Member=C19
+Removed Member From Class: ClassName=stm32F7 Member=C20
+Removed Member From Class: ClassName=Optics Member=IC1
+Removed Member From Class: ClassName=interconnect Member=P2
+Removed Member From Class: ClassName=interconnect Member=P3
+Removed Member From Class: ClassName=Optics Member=Q1
+Removed Member From Class: ClassName=Optics Member=R1
+Removed Member From Class: ClassName=Optics Member=R2
+Removed Member From Class: ClassName=Optics Member=R3
+Removed Member From Class: ClassName=Optics Member=R4
+Removed Member From Class: ClassName=Optics Member=R5
+Removed Member From Class: ClassName=stm32F7 Member=R13
+Removed Member From Class: ClassName=stm32F7 Member=R14
+Removed Member From Class: ClassName=stm32F7 Member=R15
+Removed Member From Class: ClassName=stm32F7 Member=R16
+Removed Member From Class: ClassName=stm32F7 Member=SW3
+Removed Member From Class: ClassName=stm32F7 Member=U3
+Removed Member From Class: ClassName=stm32F7 Member=X1
+Change Component Comment : Designator=Q1 Old Comment=BSS138 New Comment=BSS138BK
+Change Component Comment : Designator=C1 Old Comment=C1206C104K1RACTU New Comment=0.1uF
+Change Component Comment : Designator=C24 Old Comment=C1206C104K1RACTU New Comment=0.1uF
+Change Component Comment : Designator=R19 Old Comment=ERJ3EKF2201V New Comment=10K
+Change Component Comment : Designator=R24 Old Comment=ERJ3EKF2201V New Comment=10K
+Change Component Comment : Designator=R23 Old Comment=ERJ3EKF2201V New Comment=330
+Change Component Comment : Designator=R6 Old Comment=ERJ-3EKF1001V New Comment=1K5
+Change Component Comment : Designator=R17 Old Comment=ERJ-3EKF1501V New Comment=1K
+Change Component Comment : Designator=R18 Old Comment=ERJ-3EKF1501V New Comment=1K
+Change Component Comment : Designator=C2 Old Comment=GRM1885C1H101JA01D New Comment=0.1uF
+Change Component Comment : Designator=C3 Old Comment=GRM1885C1H101JA01D New Comment=0.1uF
+Change Component Comment : Designator=C4 Old Comment=GRM1885C1H101JA01D New Comment=0.1uF
+Change Component Comment : Designator=C5 Old Comment=GRM1885C1H101JA01D New Comment=0.1uF
+Change Component Comment : Designator=C21 Old Comment=GRM1885C1H101JA01D New Comment=0.1uF
+Change Component Comment : Designator=C22 Old Comment=GRM1885C1H180JA01D New Comment=0.1uF
+Change Component Comment : Designator=C23 Old Comment=GRM1885C1H180JA01D New Comment=0.1uF
+Change Managed Component Library Link : Designator=C1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=C8C155D3-B38C-4ACF-90A3-6CD28E6629E5 New ItemGUID= Old RevisionGUID=33B923CF-C2D8-4D91-945F-71C77E0ED014 New RevisionGUID=
+Change Managed Component Library Link : Designator=C2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=88F03D14-E60C-4B04-8FBC-63842C6B306F New ItemGUID= Old RevisionGUID=C62A4C4F-F3AF-4281-820C-2BBEF536B8A9 New RevisionGUID=
+Change Managed Component Library Link : Designator=C3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=88F03D14-E60C-4B04-8FBC-63842C6B306F New ItemGUID= Old RevisionGUID=C62A4C4F-F3AF-4281-820C-2BBEF536B8A9 New RevisionGUID=
+Change Managed Component Library Link : Designator=C4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=88F03D14-E60C-4B04-8FBC-63842C6B306F New ItemGUID= Old RevisionGUID=C62A4C4F-F3AF-4281-820C-2BBEF536B8A9 New RevisionGUID=
+Change Managed Component Library Link : Designator=C5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=88F03D14-E60C-4B04-8FBC-63842C6B306F New ItemGUID= Old RevisionGUID=C62A4C4F-F3AF-4281-820C-2BBEF536B8A9 New RevisionGUID=
+Change Managed Component Library Link : Designator=C21 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=88F03D14-E60C-4B04-8FBC-63842C6B306F New ItemGUID= Old RevisionGUID=C62A4C4F-F3AF-4281-820C-2BBEF536B8A9 New RevisionGUID=
+Change Managed Component Library Link : Designator=C22 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=DDA7A45B-3ADF-40B0-ABFD-8B239BF31A00 New ItemGUID= Old RevisionGUID=0BEE0016-3715-4D0C-BDD0-FBAFDAB42159 New RevisionGUID=
+Change Managed Component Library Link : Designator=C23 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=DDA7A45B-3ADF-40B0-ABFD-8B239BF31A00 New ItemGUID= Old RevisionGUID=0BEE0016-3715-4D0C-BDD0-FBAFDAB42159 New RevisionGUID=
+Change Managed Component Library Link : Designator=C24 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=C8C155D3-B38C-4ACF-90A3-6CD28E6629E5 New ItemGUID= Old RevisionGUID=33B923CF-C2D8-4D91-945F-71C77E0ED014 New RevisionGUID=
+Change Managed Component Library Link : Designator=Q1 Old VaultGUID=402AE90E-E6D4-42C2-A6A4-831F65D0074D New VaultGUID= Old ItemGUID=7D8837F3-CD3E-477D-9DD8-B22DDD16FD75 New ItemGUID= Old RevisionGUID=6B63B937-2E5B-4991-A544-793C0C27E729 New RevisionGUID=
+Change Managed Component Library Link : Designator=R6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=15E99ED1-FE4D-4509-A4CB-202B754A1072 New ItemGUID= Old RevisionGUID=B5BF06F6-159E-4AE9-958F-413F2CF8C3A3 New RevisionGUID=
+Change Managed Component Library Link : Designator=R17 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=33504C6D-E4F3-4287-AD48-84AE16E65D38 New ItemGUID= Old RevisionGUID=59105C97-22EC-4B64-9BC1-B84B4A867A86 New RevisionGUID=
+Change Managed Component Library Link : Designator=R18 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=33504C6D-E4F3-4287-AD48-84AE16E65D38 New ItemGUID= Old RevisionGUID=59105C97-22EC-4B64-9BC1-B84B4A867A86 New RevisionGUID=
+Change Managed Component Library Link : Designator=R19 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=BC9F97EB-1ECC-4825-BBAA-589E1C267FAD New ItemGUID= Old RevisionGUID=297415BE-6D3D-4325-AE8C-82739CFE48F1 New RevisionGUID=
+Change Managed Component Library Link : Designator=R23 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=BC9F97EB-1ECC-4825-BBAA-589E1C267FAD New ItemGUID= Old RevisionGUID=297415BE-6D3D-4325-AE8C-82739CFE48F1 New RevisionGUID=
+Change Managed Component Library Link : Designator=R24 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=BC9F97EB-1ECC-4825-BBAA-589E1C267FAD New ItemGUID= Old RevisionGUID=297415BE-6D3D-4325-AE8C-82739CFE48F1 New RevisionGUID=
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAPC1608X90X35ML10T15"; UniqueID = "\QMKFPJXF\FACSBSSL" ("\QMKFPJXF\FACSBSSL")
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAPC1608X90X35ML10T15"; UniqueID = "\QMKFPJXF\AWJFAKMN" ("\QMKFPJXF\AWJFAKMN")
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CAPC1608X90X35ML10T15"; UniqueID = "\QMKFPJXF\GMXKDWER" ("\QMKFPJXF\GMXKDWER")
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAPC1608X90X35ML10T15"; UniqueID = "\QMKFPJXF\TBDVONNL" ("\QMKFPJXF\TBDVONNL")
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "CAPC1608X90X35ML10T15"; UniqueID = "\QSFCBUTR\CDJGFGOK" ("\QSFCBUTR\CDJGFGOK")
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RESC1608X55X30ML15T15"; UniqueID = "\QMKFPJXF\NDXBFYJI" ("\QMKFPJXF\NDXBFYJI")
+Change component parameters (AddParameter): Name = "Value"; Value = "1K5"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "RESC1608X55X30ML15T15"; UniqueID = "\QSFCBUTR\EISGCAXK" ("\QSFCBUTR\EISGCAXK")
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18" ("R18"); Footprint = "RESC1608X55X30ML15T15"; UniqueID = "\QSFCBUTR\QBXCFTIP" ("\QSFCBUTR\QBXCFTIP")
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19" ("R19"); Footprint = "RESC1608X55X30LL15T15"; UniqueID = "\QSFCBUTR\ILBESPOX" ("\QSFCBUTR\ILBESPOX")
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23" ("R23"); Footprint = "RESC1608X55X30LL15T15"; UniqueID = "\QSFCBUTR\XYDXKBNW" ("\QSFCBUTR\XYDXKBNW")
+Change component parameters (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24" ("R24"); Footprint = "RESC1608X55X30LL15T15"; UniqueID = "\QSFCBUTR\RKMLEOVM" ("\QSFCBUTR\RKMLEOVM")
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "FAIR-SOT23-3_V"; UniqueID = "\QSFCBUTR\RBYADEGR" ("\QSFCBUTR\RBYADEGR")
+Change component parameters: Designator = "C1" ("C1"); Footprint = "FP-C1206C-EB-MFG"; UniqueID = "\QMKFPJXF\EWMSXQRM" ("\QMKFPJXF\EWMSXQRM")
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "FP-C1206C-EB-MFG"; UniqueID = "\QSFCBUTR\LDABDMKS" ("\QSFCBUTR\LDABDMKS")
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "CAPC1608X90X35ML10T15"; UniqueID = "\QSFCBUTR\YIQOQGPX" ("\QSFCBUTR\YIQOQGPX")
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23" ("C23"); Footprint = "CAPC1608X90X35ML10T15"; UniqueID = "\QSFCBUTR\XRFYDVVB" ("\QSFCBUTR\XRFYDVVB")
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=K?(TOUCH_SENSOR_SEED)
+Added Component: Designator=K?(TOUCH_SENSOR_SEED)
+Added Component: Designator=K?(TOUCH_SENSOR_SEED)
+Added Component: Designator=K?(TOUCH_SENSOR_SEED)
+Added Component: Designator=K?(TOUCH_SENSOR_SEED)
+Added Component: Designator=K?(TOUCH_SENSOR_SEED)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=3V3 Pin=C1-2
+Added Pin To Net: NetName=3V3 Pin=C4-2
+Added Pin To Net: NetName=3V3 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=A3V3 Pin=C6-2
+Added Pin To Net: NetName=3V3 Pin=C21-2
+Added Pin To Net: NetName=3V3 Pin=C22-2
+Added Pin To Net: NetName=A3V3 Pin=C23-2
+Added Pin To Net: NetName=A3V3 Pin=C24-2
+Added Pin To Net: NetName=3V3 Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=3V3 Pin=R6-2
+Added Pin To Net: NetName=3V3 Pin=R7-2
+Added Pin To Net: NetName=3V3 Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=3V3 Pin=R10-2
+Added Pin To Net: NetName=3V3 Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=AGND Pin=C23-1
+Added Pin To Net: NetName=AGND Pin=C24-1
+Added Net: Name=AGND
+Added Net: Name=IMG_CLK
+Added Net: Name=IMG_EXPOSURE
+Added Net: Name=LED1_BLUE
+Added Net: Name=LED1_GREEN
+Added Net: Name=LED1_RED
+Added Net: Name=LED2_BLUE
+Added Net: Name=LED2_GREEN
+Added Net: Name=LED2_RED
+Added Net: Name=LED3_BLUE
+Added Net: Name=LED3_GREEN
+Added Net: Name=LED3_RED
+Added Net: Name=LED4_BLUE
+Added Net: Name=LED4_GREEN
+Added Net: Name=LED4_RED
+Added Net: Name=LED5_BLUE
+Added Net: Name=LED5_GREEN
+Added Net: Name=LED5_RED
+Added Net: Name=LED6_BLUE
+Added Net: Name=LED6_GREEN
+Added Net: Name=LED6_RED
+Added Net: Name=LED_SCLK
+Added Net: Name=LED_SIN
+Added Net: Name=LED_XLAT
+Added Pin To Net: NetName=M\C\L\R\ Pin=P1-1
+Added Pin To Net: NetName=M\C\L\R\ Pin=R8-1
+Added Net: Name=M\C\L\R\
+Added Net: Name=NetIC2_6
+Added Net: Name=NetIC2_10
+Added Pin To Net: NetName=NetIC2_14 Pin=J1-8
+Added Net: Name=NetIC2_14
+Added Pin To Net: NetName=NetIC2_17 Pin=J1-7
+Added Net: Name=NetIC2_17
+Added Pin To Net: NetName=NetIC2_18 Pin=J1-6
+Added Net: Name=NetIC2_18
+Added Pin To Net: NetName=NetIC2_21 Pin=J1-5
+Added Net: Name=NetIC2_21
+Added Pin To Net: NetName=NetIC2_22 Pin=J1-4
+Added Net: Name=NetIC2_22
+Added Pin To Net: NetName=NetIC2_23 Pin=J1-3
+Added Net: Name=NetIC2_23
+Added Pin To Net: NetName=NetIC2_30 Pin=R10-1
+Added Net: Name=NetIC2_30
+Added Net: Name=NetIC2_31
+Added Net: Name=NetIC2_32
+Added Net: Name=NetIC2_45
+Added Pin To Net: NetName=NetIC2_46 Pin=R24-2
+Added Net: Name=NetIC2_46
+Added Pin To Net: NetName=NetIC2_50 Pin=R19-1
+Added Net: Name=NetIC2_50
+Added Pin To Net: NetName=NetIC2_53 Pin=R9-2
+Added Net: Name=NetIC2_53
+Added Net: Name=NetIC2_56
+Added Net: Name=NetIC2_57
+Added Pin To Net: NetName=NetIC6_8 Pin=R17-1
+Added Net: Name=NetIC6_8
+Added Pin To Net: NetName=NetIC6_10 Pin=R18-1
+Added Net: Name=NetIC6_10
+Added Pin To Net: NetName=NetIC6_27 Pin=R23-1
+Added Net: Name=NetIC6_27
+Added Net: Name=NetIC?_1
+Added Net: Name=NetIC?_2
+Added Net: Name=NetIC?_3
+Added Net: Name=NetIC?_4
+Added Net: Name=NetIC?_5
+Added Net: Name=NetIC?_17
+Added Net: Name=NetIC?_27
+Added Pin To Net: NetName=NetK?_1 Pin=K?-1
+Added Net: Name=NetK?_1
+Added Pin To Net: NetName=NetMD1_18 Pin=MD1-18
+Added Net: Name=NetMD1_18
+Added Pin To Net: NetName=NetMD1_27 Pin=MD1-27
+Added Net: Name=NetMD1_27
+Added Pin To Net: NetName=NetQ1_G Pin=R23-2
+Added Pin To Net: NetName=NetQ1_G Pin=Q1-1
+Added Net: Name=NetQ1_G
+Added Pin To Net: NetName=PGEC Pin=P1-5
+Added Net: Name=PGEC
+Added Pin To Net: NetName=PGED Pin=P1-4
+Added Net: Name=PGED
+Added Net: Name=PIXEL_D0
+Added Net: Name=PIXEL_D1
+Added Net: Name=PIXEL_D2
+Added Net: Name=PIXEL_D3
+Added Net: Name=PIXEL_D4
+Added Net: Name=PIXEL_D5
+Added Net: Name=PIXEL_D6
+Added Net: Name=PIXEL_D7
+Added Pin To Net: NetName=SCL Pin=P1-2
+Added Pin To Net: NetName=SCL Pin=R6-1
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=P1-1
+Added Pin To Net: NetName=SDA Pin=R7-1
+Added Net: Name=SDA
+Added Net: Name=TOUCH_C\H\A\N\G\E\
+Added Net: Name=TOUCH_R\E\S\E\T\
+Change Class Name : Old Net Name=Optics New Net Name=MCU
+Change Class Name : Old Net Name=stm32F7 New Net Name=U_optics
+Added Class: Name=U_main UI
+Added Class: Name=PIXEL_D[0..7]
+Added Member To Class: ClassName=MCU Member=Component C6 0.1uF
+Added Member To Class: ClassName=U_optics Member=Component C24 0.1uF
+Added Member To Class: ClassName=MCU Member=Component P1 Connector 5
+Added Member To Class: ClassName=U_optics Member=Component Q1 BSS138BK
+Added Member To Class: ClassName=MCU Member=Component R7 1K5
+Added Member To Class: ClassName=MCU Member=Component R8 10K
+Added Member To Class: ClassName=MCU Member=Component R9 Unpopulated
+Added Member To Class: ClassName=MCU Member=Component R10 10K
+Added Member To Class: ClassName=U_optics Member=Component R19 10K
+Added Member To Class: ClassName=U_optics Member=Component R23 330
+Added Member To Class: ClassName=U_optics Member=Component R24 10K

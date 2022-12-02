@@ -1,0 +1,6 @@
+<map id="Cellulo::CelluloZoneAngleInterval" name="Cellulo::CelluloZoneAngleInterval">
+<area shape="rect" id="node4" href="$group__zone.html#classCellulo_1_1CelluloZoneAngleIntervalBorder" title="Describes an angular zone sensitive to the client angle being on the border of the interval..." alt="" coords="552,5,724,47"/>
+<area shape="rect" id="node5" href="$group__zone.html#classCellulo_1_1CelluloZoneAngleIntervalDistance" title="Describes an angular zone sensitive to the client orientation distance to the interval. " alt="" coords="552,71,724,112"/>
+<area shape="rect" id="node6" href="$group__zone.html#classCellulo_1_1CelluloZoneAngleIntervalInner" title="Describes an angular zone sensitive to the client angle being in/out of the interval. " alt="" coords="552,136,724,177"/>
+<area shape="rect" id="node2" href="$group__zone.html#classCellulo_1_1CelluloZone" title="CelluloZone Base Class for zones. " alt="" coords="145,78,284,105"/>
+</map>

@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=3V3 Pin=R10-2
+Added Room: Name=ESP32
+Added Room: Name=interconnect
+Added Room: Name=Optics
+Added Room: Name=power
+Added Room: Name=stm32F7

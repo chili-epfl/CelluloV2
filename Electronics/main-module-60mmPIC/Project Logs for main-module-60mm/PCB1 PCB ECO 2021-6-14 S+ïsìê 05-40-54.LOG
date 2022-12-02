@@ -1,0 +1,6 @@
+Added Member To Class: ClassName=motor Member=Component U? BD6210HFP-TR
+Added Member To Class: ClassName=motor Member=Component U? BD6210HFP-TR
+Added Room: Name=ESP32
+Added Room: Name=motor
+Added Room: Name=Optics
+Added Room: Name=stm32F7

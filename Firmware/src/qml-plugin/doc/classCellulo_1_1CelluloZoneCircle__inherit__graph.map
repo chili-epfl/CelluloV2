@@ -1,0 +1,6 @@
+<map id="Cellulo::CelluloZoneCircle" name="Cellulo::CelluloZoneCircle">
+<area shape="rect" id="node4" href="$group__zone.html#classCellulo_1_1CelluloZoneCircleBorder" title="CelluloZone Specific Class for circular zones border determination. " alt="" coords="553,5,727,47"/>
+<area shape="rect" id="node5" href="$group__zone.html#classCellulo_1_1CelluloZoneCircleDistance" title="CelluloZone Specific Class for circular zones distance determination. " alt="" coords="553,71,727,112"/>
+<area shape="rect" id="node6" href="$group__zone.html#classCellulo_1_1CelluloZoneCircleInner" title="CelluloZone Specific Class for circular zones inner determination. " alt="" coords="553,136,727,177"/>
+<area shape="rect" id="node2" href="$group__zone.html#classCellulo_1_1CelluloZone" title="CelluloZone Base Class for zones. " alt="" coords="145,78,284,105"/>
+</map>

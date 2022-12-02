@@ -1,0 +1,156 @@
+Removed Pin From Net: NetName=LED1_BLUE Pin=P5-2
+Removed Pin From Net: NetName=LED1_GREEN Pin=P5-3
+Removed Pin From Net: NetName=LED1_RED Pin=P5-4
+Removed Pin From Net: NetName=3V3 Pin=P5-5
+Removed Pin From Net: NetName=LED2_BLUE Pin=P6-2
+Removed Pin From Net: NetName=LED2_GREEN Pin=P6-3
+Removed Pin From Net: NetName=LED2_RED Pin=P6-4
+Removed Pin From Net: NetName=3V3 Pin=P6-5
+Removed Pin From Net: NetName=LED3_BLUE Pin=P7-2
+Removed Pin From Net: NetName=LED3_GREEN Pin=P7-3
+Removed Pin From Net: NetName=LED3_RED Pin=P7-4
+Removed Pin From Net: NetName=3V3 Pin=P7-5
+Removed Pin From Net: NetName=LED4_BLUE Pin=P8-2
+Removed Pin From Net: NetName=LED4_GREEN Pin=P8-3
+Removed Pin From Net: NetName=LED4_RED Pin=P8-4
+Removed Pin From Net: NetName=3V3 Pin=P8-5
+Removed Pin From Net: NetName=LED5_BLUE Pin=P9-2
+Removed Pin From Net: NetName=LED5_GREEN Pin=P9-3
+Removed Pin From Net: NetName=LED5_RED Pin=P9-4
+Removed Pin From Net: NetName=3V3 Pin=P9-5
+Removed Pin From Net: NetName=LED6_BLUE Pin=P10-2
+Removed Pin From Net: NetName=LED6_GREEN Pin=P10-3
+Removed Pin From Net: NetName=LED6_RED Pin=P10-4
+Removed Pin From Net: NetName=3V3 Pin=P10-5
+Removed Member From Class: ClassName=U_main UI Member=C9
+Removed Member From Class: ClassName=U_optics Member=C9
+Removed Member From Class: ClassName=U_optics Member=C11
+Removed Member From Class: ClassName=U_optics Member=C12
+Removed Member From Class: ClassName=U_main UI Member=C13
+Removed Member From Class: ClassName=U_main UI Member=C14
+Removed Member From Class: ClassName=U_main UI Member=C16
+Removed Member From Class: ClassName=U_main UI Member=C18
+Removed Member From Class: ClassName=U_main UI Member=P5
+Removed Member From Class: ClassName=U_main UI Member=P6
+Removed Member From Class: ClassName=U_main UI Member=P7
+Removed Member From Class: ClassName=U_main UI Member=P8
+Removed Member From Class: ClassName=U_main UI Member=P9
+Removed Member From Class: ClassName=U_main UI Member=P10
+Removed Member From Class: ClassName=U_optics Member=R7
+Removed Member From Class: ClassName=U_optics Member=R8
+Removed Member From Class: ClassName=U_main UI Member=R9
+Removed Member From Class: ClassName=U_main UI Member=R11
+Removed Member From Class: ClassName=U_main UI Member=R14
+Added Component: Designator=J9(CONN5_1VWVN-RC_SUL)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2021 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "S9014E-05-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRPB051VWVN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=J10(CONN5_1VWVN-RC_SUL)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2021 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "S9014E-05-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRPB051VWVN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=J11(CONN5_1VWVN-RC_SUL)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2021 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "S9014E-05-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRPB051VWVN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=J12(CONN5_1VWVN-RC_SUL)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2021 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "S9014E-05-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRPB051VWVN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=J13(CONN5_1VWVN-RC_SUL)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2021 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "S9014E-05-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRPB051VWVN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=J14(CONN5_1VWVN-RC_SUL)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2021 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "S9014E-05-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRPB051VWVN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LED1_BLUE Pin=J9-2
+Added Pin To Net: NetName=LED1_GREEN Pin=J9-3
+Added Pin To Net: NetName=LED1_RED Pin=J9-4
+Added Pin To Net: NetName=3V3 Pin=J9-5
+Added Pin To Net: NetName=LED2_BLUE Pin=J10-2
+Added Pin To Net: NetName=LED2_GREEN Pin=J10-3
+Added Pin To Net: NetName=LED2_RED Pin=J10-4
+Added Pin To Net: NetName=3V3 Pin=J10-5
+Added Pin To Net: NetName=LED3_BLUE Pin=J11-2
+Added Pin To Net: NetName=LED3_GREEN Pin=J11-3
+Added Pin To Net: NetName=LED3_RED Pin=J11-4
+Added Pin To Net: NetName=3V3 Pin=J11-5
+Added Pin To Net: NetName=LED4_BLUE Pin=J12-2
+Added Pin To Net: NetName=LED4_GREEN Pin=J12-3
+Added Pin To Net: NetName=LED4_RED Pin=J12-4
+Added Pin To Net: NetName=3V3 Pin=J12-5
+Added Pin To Net: NetName=LED5_BLUE Pin=J13-2
+Added Pin To Net: NetName=LED5_GREEN Pin=J13-3
+Added Pin To Net: NetName=LED5_RED Pin=J13-4
+Added Pin To Net: NetName=3V3 Pin=J13-5
+Added Pin To Net: NetName=LED6_BLUE Pin=J14-2
+Added Pin To Net: NetName=LED6_GREEN Pin=J14-3
+Added Pin To Net: NetName=LED6_RED Pin=J14-4
+Added Pin To Net: NetName=3V3 Pin=J14-5
+Added Pin To Net: NetName=NetJ9_1 Pin=J9-1
+Added Pin To Net: NetName=NetJ9_1 Pin=R17-1
+Added Net: Name=NetJ9_1
+Added Pin To Net: NetName=NetJ10_1 Pin=J10-1
+Added Pin To Net: NetName=NetJ10_1 Pin=R20-1
+Added Net: Name=NetJ10_1
+Added Pin To Net: NetName=NetJ11_1 Pin=J11-1
+Added Pin To Net: NetName=NetJ11_1 Pin=R21-1
+Added Net: Name=NetJ11_1
+Added Pin To Net: NetName=NetJ12_1 Pin=J12-1
+Added Pin To Net: NetName=NetJ12_1 Pin=R22-1
+Added Net: Name=NetJ12_1
+Added Pin To Net: NetName=NetJ13_1 Pin=J13-1
+Added Pin To Net: NetName=NetJ13_1 Pin=R23-1
+Added Net: Name=NetJ13_1
+Added Pin To Net: NetName=NetJ14_1 Pin=J14-1
+Added Pin To Net: NetName=NetJ14_1 Pin=R24-1
+Added Net: Name=NetJ14_1
+Added Member To Class: ClassName=U_optics Member=Component C15 0.1uF
+Added Member To Class: ClassName=U_optics Member=Component C17 0.1uF
+Added Member To Class: ClassName=U_optics Member=Component C18 0.1uF
+Added Member To Class: ClassName=U_main UI Member=Component C19 0.1uF
+Added Member To Class: ClassName=U_main UI Member=Component C20 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C22 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C24 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C25 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C26 0.1uF
+Added Member To Class: ClassName=U_main UI Member=Component C27 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C28 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C29 10nF
+Added Member To Class: ClassName=U_main UI Member=Component J9 GRPB051VWVN-RC
+Added Member To Class: ClassName=U_main UI Member=Component J10 GRPB051VWVN-RC
+Added Member To Class: ClassName=U_main UI Member=Component J11 GRPB051VWVN-RC
+Added Member To Class: ClassName=U_main UI Member=Component J12 GRPB051VWVN-RC
+Added Member To Class: ClassName=U_main UI Member=Component J13 GRPB051VWVN-RC
+Added Member To Class: ClassName=U_main UI Member=Component J14 GRPB051VWVN-RC
+Added Member To Class: ClassName=U_optics Member=Component R15 330
+Added Member To Class: ClassName=U_optics Member=Component R16 10K
+Added Member To Class: ClassName=U_main UI Member=Component R19 47K
+Added Member To Class: ClassName=U_main UI Member=Component R22 4K7
+Added Member To Class: ClassName=U_main UI Member=Component R25 4K99
+Added Room: Name=ESP32
+Added Room: Name=interconnect
+Added Room: Name=MCU
+Added Room: Name=power
+Added Room: Name=U_main UI
+Added Room: Name=U_optics

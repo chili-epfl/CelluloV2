@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/main.qml</file>
+        <file>assets/yellowHexagon.svg</file>
+        <file>assets/greenHexagon.svg</file>
+        <file>assets/arrowRed.svg</file>
+    </qresource>
+</RCC>

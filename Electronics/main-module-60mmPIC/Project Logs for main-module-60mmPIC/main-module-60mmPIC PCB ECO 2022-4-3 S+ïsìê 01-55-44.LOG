@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetJ2_1 Pin=J3-1
+Removed Pin From Net: NetName=5V Pin=J3-7
+Removed Pin From Net: NetName=GND Pin=J3-9
+Removed Pin From Net: NetName=GND Pin=J3-MP1
+Removed Pin From Net: NetName=GND Pin=J3-MP2
+Removed Member From Class: ClassName=ESP32 Member=J3
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=MD1-26
+Added Net: Name=NetJ4_1
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_1 Pin=MD1-14
+Added Net: Name=NetJ5_1
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_1 Pin=MD1-16
+Added Net: Name=NetJ6_1
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ7_1 Pin=MD1-13
+Added Net: Name=NetJ7_1
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Pin To Net: NetName=NetJ8_1 Pin=MD1-23
+Added Net: Name=NetJ8_1
+Added Pin To Net: NetName=NetMD1_10 Pin=MD1-10
+Added Pin To Net: NetName=NetMD1_10 Pin=P3-2
+Added Net: Name=NetMD1_10

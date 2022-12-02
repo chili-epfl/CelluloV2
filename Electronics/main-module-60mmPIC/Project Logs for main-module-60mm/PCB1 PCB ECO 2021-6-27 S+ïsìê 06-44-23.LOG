@@ -1,0 +1,45 @@
+Removed Member From Class: ClassName=ESP32 Member=J3
+Removed Member From Class: ClassName=ESP32 Member=P1
+Change Component Footprint: Designator=P? Old Footprint=HDR1X2 New Footprint=HDR1X3
+Change Component Comment : Designator=P? Old Comment=Header 2 New Comment=LED_strip
+Added Component: Designator=K?(TOUCH_SENSOR_SEED)
+Add component (AddParameter): Name = "Design Item ID"; Value = "SELF-CAP-TOUCH-SENSOR-PAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Misc.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=K?(TOUCH_SENSOR_SEED)
+Add component (AddParameter): Name = "Design Item ID"; Value = "SELF-CAP-TOUCH-SENSOR-PAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Misc.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=K?(TOUCH_SENSOR_SEED)
+Add component (AddParameter): Name = "Design Item ID"; Value = "SELF-CAP-TOUCH-SENSOR-PAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Misc.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=K?(TOUCH_SENSOR_SEED)
+Add component (AddParameter): Name = "Design Item ID"; Value = "SELF-CAP-TOUCH-SENSOR-PAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Misc.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=K?(TOUCH_SENSOR_SEED)
+Add component (AddParameter): Name = "Design Item ID"; Value = "SELF-CAP-TOUCH-SENSOR-PAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Misc.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=K?(TOUCH_SENSOR_SEED)
+Add component (AddParameter): Name = "Design Item ID"; Value = "SELF-CAP-TOUCH-SENSOR-PAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Misc.SchLib"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Pin To Net: NetName=NetK?_1 Pin=K?-1
+Added Pin To Net: NetName=NetK?_1 Pin=MD1-24
+Added Net: Name=NetK?_1
+Added Pin To Net: NetName=NetMD1_10 Pin=MD1-10
+Added Pin To Net: NetName=NetMD1_10 Pin=P?-2
+Added Net: Name=NetMD1_10
+Added Pin To Net: NetName=NetMD1_29 Pin=MD1-29
+Added Net: Name=NetMD1_29
+Added Pin To Net: NetName=NetMD1_30 Pin=MD1-30
+Added Net: Name=NetMD1_30
+Added Pin To Net: NetName=NetMD1_31 Pin=MD1-31
+Added Net: Name=NetMD1_31
+Added Pin To Net: NetName=NetMD1_37 Pin=MD1-37
+Added Net: Name=NetMD1_37
+Added Member To Class: ClassName=ESP32 Member=Component K? SELF-CAP-TOUCH-SENSOR-PAD
+Added Member To Class: ClassName=ESP32 Member=Component K? SELF-CAP-TOUCH-SENSOR-PAD
+Added Member To Class: ClassName=ESP32 Member=Component K? SELF-CAP-TOUCH-SENSOR-PAD
+Added Member To Class: ClassName=ESP32 Member=Component K? SELF-CAP-TOUCH-SENSOR-PAD
+Added Member To Class: ClassName=ESP32 Member=Component K? SELF-CAP-TOUCH-SENSOR-PAD
+Added Member To Class: ClassName=ESP32 Member=Component K? SELF-CAP-TOUCH-SENSOR-PAD
+Added Member To Class: ClassName=ESP32 Member=Component P? LED_strip

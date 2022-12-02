@@ -1,0 +1,27 @@
+Removed Member From Class: ClassName=Optics Member=R?
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=R8 NewDesignator=R10
+Change Component Designator: OldDesignator=R9 NewDesignator=R11
+Change Component Designator: OldDesignator=R10 NewDesignator=R12
+Change Component Designator: OldDesignator=R11 NewDesignator=R13
+Change Component Designator: OldDesignator=R12 NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ1_1
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=NetJ1_2
+Change Net Name : Old Net Name=NetJ?_3 New Net Name=NetJ1_3
+Change Net Name : Old Net Name=NetJ?_4 New Net Name=NetJ1_4
+Change Net Name : Old Net Name=NetJ?_5 New Net Name=NetJ1_5
+Change Net Name : Old Net Name=NetJ?_6 New Net Name=NetJ1_6
+Change Net Name : Old Net Name=NetP?_1 New Net Name=NetP1_1
+Change Net Name : Old Net Name=NetP?_2 New Net Name=NetP1_2
+Change Net Name : Old Net Name=NetR9_2 New Net Name=NetR11_2
+Added Member To Class: ClassName=Optics Member=Component R9 Res3
+Added Member To Class: ClassName=Optics Member=Component R10 Res3

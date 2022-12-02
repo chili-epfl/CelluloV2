@@ -1,0 +1,5 @@
+module Cellulo
+MacAddrSelector 1.0 MacAddrSelector.qml
+Toast 1.0 Toast.qml
+ToastManager 1.0 ToastManager.qml
+plugin celluloplugin

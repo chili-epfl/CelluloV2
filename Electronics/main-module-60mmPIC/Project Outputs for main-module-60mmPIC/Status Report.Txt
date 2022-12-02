@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:48:29 On 12/07/2022
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [main-module-60mmPIC.PcbDoc]
+   Generated File[main-module-60mmPIC.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:48:34 On 12/07/2022

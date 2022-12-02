@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=5V Pin=P1-3
+Removed Member From Class: ClassName=power Member=C13
+Removed Member From Class: ClassName=stm32F7 Member=C24
+Removed Member From Class: ClassName=power Member=R14
+Removed Member From Class: ClassName=power Member=R16
+Removed Member From Class: ClassName=power Member=R17
+Removed Member From Class: ClassName=power Member=R23
+Removed Member From Class: ClassName=stm32F7 Member=R23
+Removed Member From Class: ClassName=stm32F7 Member=R26
+Added Pin To Net: NetName=3V3 Pin=P1-3
+Added Member To Class: ClassName=power Member=Component C10 C1206C104K1RACTU
+Added Member To Class: ClassName=power Member=Component C12 GRM155R60J475ME47D
+Added Member To Class: ClassName=stm32F7 Member=Component C14 C1206C104K1RACTU
+Added Member To Class: ClassName=stm32F7 Member=Component C16 C1206C104K1RACTU
+Added Member To Class: ClassName=stm32F7 Member=Component C18 GRM188R71A225KE15D
+Added Member To Class: ClassName=stm32F7 Member=Component C20 C1206C104K1RACTU
+Added Member To Class: ClassName=stm32F7 Member=Component C22 GRM1885C1H180JA01D
+Added Member To Class: ClassName=stm32F7 Member=Component C23 GRM1885C1H180JA01D
+Added Member To Class: ClassName=IMU Member=Component C25 C1206C104K1RACTU
+Added Member To Class: ClassName=IMU Member=Component C28 C1206C103K1RACTU
+Added Member To Class: ClassName=ESP32 Member=Component J4 503480-1000
+Added Member To Class: ClassName=ESP32 Member=Component J6 Socket
+Added Member To Class: ClassName=ESP32 Member=Component J8 Socket
+Added Member To Class: ClassName=power Member=Component R9 CSS2725FT2L00
+Added Member To Class: ClassName=power Member=Component R10 CSS2725FT2L00
+Added Member To Class: ClassName=power Member=Component R11 ERJ8ENF2203V
+Added Member To Class: ClassName=power Member=Component R12 ERJ8ENF2203V
+Added Member To Class: ClassName=stm32F7 Member=Component R13 ERJ3EKF1002V
+Added Member To Class: ClassName=stm32F7 Member=Component R15 ERJ-3EKF1501V
+Added Member To Class: ClassName=stm32F7 Member=Component R18 ERJ-3EKF1501V
+Added Member To Class: ClassName=IMU Member=Component R19 ERJ3EKF2201V
+Added Member To Class: ClassName=IMU Member=Component R20 ERJ3EKF2201V
+Added Member To Class: ClassName=IMU Member=Component R21 ERJ3EKF2201V
+Added Member To Class: ClassName=IMU Member=Component R22 ERJ3EKF2201V

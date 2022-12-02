@@ -1,0 +1,37 @@
+Change Component Footprint: Designator=L1 Old Footprint=FP-IHLP-2525CZ-FP_2_413x3-MFG New Footprint=BOUR-SRN3015-2_V
+Change Component Comment : Designator=L1 Old Comment=IHLP2525CZER4R7M01 New Comment=SRN3015-4R7M
+Change Managed Component Library Link : Designator=L1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=9DF0F6D3-8626-4465-9747-177095F221ED New ItemGUID=1E92EA3D-1A13-4755-A2BD-DE7844CCC1C2 Old RevisionGUID=10F96ABA-AC66-4E85-A9F4-5AC9EC61F87C New RevisionGUID=81CC1CDB-4222-4973-9AEC-2D2868D27695
+Change component parameters: Designator = "L1" ("L1"); Footprint = "FP-IHLP-2525CZ-FP_2_413x3-MFG"; UniqueID = "\QXEQFBWU\ZWUDCNXZ" ("\QXEQFBWU\ZWUDCNXZ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.bourns.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.bourns.com/data/global/pdfs/SRN3015.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.bourns.com/data/global/pdfs/SRN3015.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Aug-11"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DCR Max"; Value = "0.136 Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "4.7 uH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance tolerance"; Value = "+/- 20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Isat"; Value = "1.2 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40 to 125 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "2-Pin SMD, Body 3 x 3 mm, Height 1.5 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SRN3015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "SRN3015-4R7M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated current"; Value = "1.4 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance to Solder Heat"; Value = "+260 degC for 10 sec."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SRF Min"; Value = "65 MHz"; VariantName = "[No Variations]"
+Added Component: Designator=L?(WE-TPC-3816-S)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.we-online.de/katalog/media/pdf/744031004.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "ver 6, Jan-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "4.70 A£gH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SMD Inductor, 2-Leads, Body 3.8 x 3.8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "WE-TPC-3816-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "2009"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=power Member=Component L? 744031004

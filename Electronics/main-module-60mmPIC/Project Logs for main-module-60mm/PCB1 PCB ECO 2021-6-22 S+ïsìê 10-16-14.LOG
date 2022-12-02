@@ -1,0 +1,246 @@
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=3V3 Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=3V3 Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=3V3 Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=3V3 Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=3V3 Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=3V3 Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=3V3 Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=A3V3 Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=GND Pin=C19-2
+Removed Pin From Net: NetName=3V3 Pin=J1-7
+Removed Pin From Net: NetName=GND Pin=J1-8
+Removed Pin From Net: NetName=3V3 Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R10-1
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Pin From Net: NetName=S32_RST Pin=R12-1
+Removed Pin From Net: NetName=NetIC1_41 Pin=U1-3
+Removed Pin From Net: NetName=NetIC1_16 Pin=U1-4
+Removed Pin From Net: NetName=NetIC1_17 Pin=U1-5
+Removed Pin From Net: NetName=3V3 Pin=U1-6
+Removed Pin From Net: NetName=NetP1_1 Pin=U1-10
+Removed Pin From Net: NetName=NetP1_2 Pin=U1-11
+Removed Pin From Net: NetName=GND Pin=U1-16
+Removed Pin From Net: NetName=3V3 Pin=U1-17
+Removed Pin From Net: NetName=S32_RST Pin=U1-25
+Removed Pin From Net: NetName=3V3 Pin=U1-30
+Removed Pin From Net: NetName=GND Pin=U1-31
+Removed Pin From Net: NetName=A3V3 Pin=U1-32
+Removed Pin From Net: NetName=A3V3 Pin=U1-33
+Removed Pin From Net: NetName=GND Pin=U1-38
+Removed Pin From Net: NetName=3V3 Pin=U1-39
+Removed Pin From Net: NetName=NetIC1_20 Pin=U1-40
+Removed Pin From Net: NetName=PIXEL_WR Pin=U1-42
+Removed Pin From Net: NetName=GND Pin=U1-51
+Removed Pin From Net: NetName=3V3 Pin=U1-52
+Removed Pin From Net: NetName=GND Pin=U1-61
+Removed Pin From Net: NetName=3V3 Pin=U1-62
+Removed Pin From Net: NetName=NetC17_2 Pin=U1-71
+Removed Pin From Net: NetName=3V3 Pin=U1-72
+Removed Pin From Net: NetName=GND Pin=U1-83
+Removed Pin From Net: NetName=3V3 Pin=U1-84
+Removed Pin From Net: NetName=GND Pin=U1-94
+Removed Pin From Net: NetName=NetIC1_45 Pin=U1-96
+Removed Pin From Net: NetName=NetIC1_44 Pin=U1-97
+Removed Pin From Net: NetName=NetIC1_43 Pin=U1-98
+Removed Pin From Net: NetName=NetIC1_42 Pin=U1-99
+Removed Pin From Net: NetName=NetJ1_3 Pin=U1-104
+Removed Pin From Net: NetName=NetJ1_4 Pin=U1-105
+Removed Pin From Net: NetName=NetC18_2 Pin=U1-106
+Removed Pin From Net: NetName=GND Pin=U1-107
+Removed Pin From Net: NetName=3V3 Pin=U1-108
+Removed Pin From Net: NetName=NetJ1_5 Pin=U1-109
+Removed Pin From Net: NetName=NetJ1_6 Pin=U1-110
+Removed Pin From Net: NetName=NetIC1_18 Pin=U1-111
+Removed Pin From Net: NetName=NetIC1_19 Pin=U1-113
+Removed Pin From Net: NetName=NetIC1_15 Pin=U1-117
+Removed Pin From Net: NetName=GND Pin=U1-120
+Removed Pin From Net: NetName=NetIC1_21 Pin=U1-124
+Removed Pin From Net: NetName=GND Pin=U1-130
+Removed Pin From Net: NetName=3V3 Pin=U1-131
+Removed Pin From Net: NetName=NetIC1_25 Pin=U1-136
+Removed Pin From Net: NetName=NetIC1_24 Pin=U1-140
+Removed Pin From Net: NetName=3V3 Pin=U1-144
+Removed Member From Class: ClassName=stm32F7 Member=C5
+Removed Member From Class: ClassName=stm32F7 Member=C6
+Removed Member From Class: ClassName=stm32F7 Member=C7
+Removed Member From Class: ClassName=stm32F7 Member=C8
+Removed Member From Class: ClassName=stm32F7 Member=C9
+Removed Member From Class: ClassName=stm32F7 Member=C10
+Removed Member From Class: ClassName=stm32F7 Member=C11
+Removed Member From Class: ClassName=Optics Member=R10
+Removed Member From Class: ClassName=Optics Member=R11
+Removed Member From Class: ClassName=stm32F7 Member=R11
+Removed Member From Class: ClassName=Optics Member=R14
+Removed Member From Class: ClassName=stm32F7 Member=R14
+Removed Member From Class: ClassName=stm32F7 Member=U1
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X4 New Footprint=HDR1X6
+Change Component Comment : Designator=P1 Old Comment=Header 4 New Comment=Header 6
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Change Component Designator: OldDesignator=C21 NewDesignator=C6
+Change Component Designator: OldDesignator=C22 NewDesignator=C7
+Change Component Designator: OldDesignator=C23 NewDesignator=C8
+Change Component Designator: OldDesignator=C24 NewDesignator=C9
+Change Component Designator: OldDesignator=C25 NewDesignator=C10
+Change Component Designator: OldDesignator=C26 NewDesignator=C11
+Change Component Designator: OldDesignator=R1 NewDesignator=R8
+Change Component Designator: OldDesignator=R2 NewDesignator=R7
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Change Component Designator: OldDesignator=R5 NewDesignator=R3
+Change Component Designator: OldDesignator=R6 NewDesignator=R4
+Change Component Designator: OldDesignator=R7 NewDesignator=R5
+Change Component Designator: OldDesignator=R8 NewDesignator=R6
+Change Component Designator: OldDesignator=R13 NewDesignator=R10
+Change Component Designator: OldDesignator=R14 NewDesignator=R11
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Change component parameters: Designator = "C16" ("C16"); Footprint = "C1206"; UniqueID = "\ITASEMBU\HMLJRQMJ" ("\ITASEMBU\HMLJRQMJ")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19" ("C19"); Footprint = "C1206"; UniqueID = "\ITASEMBU\CQBEOPNV" ("\ITASEMBU\CQBEOPNV")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R1"); Footprint = "J1-0603"; UniqueID = "\BPNSZCJN\VRUXXSKR" ("\BPNSZCJN\VRUXXSKR")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "J1-0603"; UniqueID = "\ITASEMBU\SPWPJOVW" ("\ITASEMBU\SPWPJOVW")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=C1(C1206)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C21(C1206)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18pF"; VariantName = "[No Variations]"
+Added Component: Designator=C22(C1206)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18pF"; VariantName = "[No Variations]"
+Added Component: Designator=P3(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R13(J1-0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=3V3 Pin=C12-1
+Added Pin To Net: NetName=3V3 Pin=C13-1
+Added Pin To Net: NetName=3V3 Pin=C14-1
+Added Pin To Net: NetName=3V3 Pin=C15-1
+Added Pin To Net: NetName=3V3 Pin=C15-2
+Added Pin To Net: NetName=3V3 Pin=C16-1
+Added Pin To Net: NetName=3V3 Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=A3V3 Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=IC1-23
+Added Pin To Net: NetName=3V3 Pin=IC1-28
+Added Pin To Net: NetName=GND Pin=IC1-33
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=3V3 Pin=J1-2
+Added Pin To Net: NetName=U0TXD Pin=P3-1
+Added Pin To Net: NetName=U0RXD Pin=P3-2
+Added Pin To Net: NetName=3V3 Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=S32_RST Pin=R13-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=IC1-10
+Added Pin To Net: NetName=NetC1_2 Pin=IC1-32
+Added Pin To Net: NetName=NetC1_2 Pin=R1-1
+Added Pin To Net: NetName=NetC1_2 Pin=R7-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetC21_2 Pin=X1-1
+Added Net: Name=NetC21_2
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=NetC22_2 Pin=X1-3
+Added Net: Name=NetC22_2
+Added Pin To Net: NetName=NetIC1_47 Pin=IC1-47
+Added Net: Name=NetIC1_47
+Added Pin To Net: NetName=NetJ1_7 Pin=J1-7
+Added Net: Name=NetJ1_7
+Added Pin To Net: NetName=NetJ1_8 Pin=J1-8
+Added Net: Name=NetJ1_8
+Added Pin To Net: NetName=NetMD1_17 Pin=MD1-17
+Added Net: Name=NetMD1_17
+Added Pin To Net: NetName=NetMD1_18 Pin=MD1-18
+Added Net: Name=NetMD1_18
+Added Pin To Net: NetName=NetP1_5 Pin=P1-5
+Added Net: Name=NetP1_5
+Added Pin To Net: NetName=NetP1_6 Pin=P1-6
+Added Net: Name=NetP1_6
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Net: Name=NetR12_2
+Added Net: Name=NetU3_29
+Added Net: Name=NetU3_31
+Added Net: Name=NetU3_32
+Added Net: Name=NetU3_72
+Added Net: Name=NetU3_76
+Added Net: Name=NetU3_90
+Added Member To Class: ClassName=Optics Member=Component C5 Cap Semi
+Added Member To Class: ClassName=stm32F7 Member=Component C21 Cap Semi
+Added Member To Class: ClassName=stm32F7 Member=Component C22 Cap Semi
+Added Member To Class: ClassName=ESP32 Member=Component P3 Header 2
+Added Member To Class: ClassName=Optics Member=Component R4 Res3
+Added Member To Class: ClassName=Optics Member=Component R6 Res3
+Added Member To Class: ClassName=Optics Member=Component R7 Res3
+Added Member To Class: ClassName=Optics Member=Component R8 Res3
+Added Member To Class: ClassName=Optics Member=Component R9 Res3
+Added Member To Class: ClassName=stm32F7 Member=Component R12 Res3
+Added Member To Class: ClassName=stm32F7 Member=Component R13 Res3

@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=GND Pin=S1-1
+Removed Pin From Net: NetName=S32_RST Pin=S1-2
+Removed Member From Class: ClassName=stm32F7 Member=S1
+Added Component: Designator=SW?(FP-B3U-1000P-MFG)
+Add component (AddParameter): Name = "Actuator Length"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "100mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "200000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Type"; Value = "Non-Illuminated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "100MR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70¢XC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "200000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25¢XC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Force"; Value = "1.5N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "Dust Proof"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Travel"; Value = "0.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000776oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SW?-1
+Added Pin To Net: NetName=S32_RST Pin=SW?-2
+Added Member To Class: ClassName=stm32F7 Member=Component SW? B3U-1000P

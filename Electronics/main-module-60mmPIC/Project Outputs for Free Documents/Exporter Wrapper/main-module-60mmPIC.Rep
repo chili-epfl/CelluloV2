@@ -1,0 +1,164 @@
+Export log for : main-module-60mmPIC.Rep
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+AddingPadStyle (Default)
+AddingPadStyle P:EX161Y161D831
+AddingPadStyle P:SX59Y59D351
+AddingPadStyle P:EX46Y46D261
+AddingPadStyle EF11X33TOP1
+AddingPadStyle EF65X94TOP1
+AddingPadStyle EF25X50TOP1
+AddingPadStyle EF106X39TOP1
+AddingPadStyle EF37X67TOP1
+AddingPadStyle EF26X28TOP1
+AddingPadStyle EF75X53TOP1
+AddingPadStyle EF87X30TOP1
+AddingPadStyle EF35X24TOP1
+AddingPadStyle EF136X136TOP1
+AddingPadStyle EF35X35TOP1
+AddingPadStyle EF26X22TOP1
+AddingPadStyle EF51X47TOP1
+AddingPadStyle P:RRX49Y49D331
+AddingPadStyle P:SX49Y49D331
+AddingPadStyle EF10X16TOP1
+AddingPadStyle EF67X67TOP1
+AddingPadStyle EF10X31TOP1
+AddingPadStyle EF10X16TOP2
+AddingPadStyle EF20X77TOP1
+AddingPadStyle EF20X39TOP1
+AddingPadStyle EF20X102TOP1
+AddingPadStyle EF75X10TOP1
+AddingPadStyle EF75X10TOP2
+AddingPadStyle P:EX79Y79D791
+AddingPadStyle EF26X35TOP1
+AddingPadStyle EF12X28TOP1
+AddingPadStyle EF12X39TOP1
+AddingPadStyle EF31X67TOP1
+AddingPadStyle EF31X43TOP1
+AddingPadStyle EF41X35TOP1
+AddingPadStyle EF39X28TOP1
+AddingPadStyle P:EX59Y59D351
+AddingPadStyle P:EX83Y83D241
+AddingPadStyle EF52X52TOP1
+AddingPadStyle EF35X79TOP1
+AddingPadStyle EF79X35TOP1
+AddingPadStyle EF24X23TOP1
+AddingPadStyle EF41X37TOP1
+Adding ViaStyle (Default)
+Adding ViaStyle V:EX20Y20D81
+Adding ViaStyle V:EX24Y24D121
+Adding TextStyle (Default)
+Adding TextStyle T:H39W8
+Adding TextStyle T:H20W4
+Adding TextStyle T:H12W2
+Adding TextStyle T:H60W10
+Adding TextStyle T:H40W7
+Adding TextStyle T:H30W4
+Adding TextStyle T:H39W4
+Adding PatternDef PIN1_1
+Adding PatternDef CONN5_1VWVN-RC_SUL_1
+Adding PatternDef DRC0010J_V_1
+Adding PatternDef SJUMPER3POS-Footprint-1_1
+Adding PatternDef BOUR-SRN3015-2_V_1
+Adding PatternDef FP-C1206C-EB-MFG_1
+Adding PatternDef FP-GRM188-0_1-e0_2_0_55-MFG_1
+Adding PatternDef CAPC1206(3216)190_M_1
+Adding PatternDef BM05BADHKSGANETB_1
+Adding PatternDef RHB0032E_V_1
+Adding PatternDef 1608[0603]_M_1
+Adding PatternDef JUMPER_1
+Adding PatternDef 2012[0805]_M_1
+Adding PatternDef CABLE-TERMINAL1x2_1
+Adding PatternDef 1608[0603]_M_2
+Adding PatternDef 1608[0603]_M_3
+Adding PatternDef 1608[0603]_M_4
+Adding PatternDef VQFN-20-EXPOSED-PAD_M_1
+Adding PatternDef CLCC-48_m_1
+Adding PatternDef TQFP-64_M_1
+Adding PatternDef BOARDLENSMOUNT_M12_22MM_1
+Adding PatternDef CAPC1206(3216)190_M_2
+Adding PatternDef MF05A_L_1
+Adding PatternDef BOUR-SRN3015-2_V_2
+Adding PatternDef FP-C1206C-EB-MFG_2
+Adding PatternDef 1608[0603]_M_5
+Adding PatternDef MOLX-503480-1000_1
+Adding PatternDef DRC0010J_V_2
+Adding PatternDef FP-B3U-1100P-MFG_1
+Adding PatternDef FP-B3U-1100P-MFG_2
+Adding PatternDef RESC1608X55X30ML15T15_1
+Adding PatternDef RESC1608X55X30ML15T15_2
+Adding PatternDef SOT23-3_N_1
+Adding PatternDef HDR1X3_1
+Adding PatternDef HDR1X2_1
+Adding PatternDef New footprint 1_1
+Adding PatternDef FP-ESP32-WROOM-32-MFG_1
+Adding PatternDef FP-GRM155-0_1-IPC_B_1
+Adding PatternDef FP-GRM155-0_1-IPC_B_2
+Adding PatternDef FP-GRM188-0_1-e0_2_0_55-MFG_2
+Adding PatternDef CAPC1608X90X35ML10T15_1
+Adding CompDef PIN1_1
+Adding CompDef CONN5_1VWVN-RC_SUL_1
+Adding CompDef DRC0010J_V_1
+Adding CompDef SJUMPER3POS-Footprint-1_1
+Adding CompDef BOUR-SRN3015-2_V_1
+Adding CompDef FP-C1206C-EB-MFG_1
+Adding CompDef FP-GRM188-0_1-e0_2_0_55-MFG_1
+Adding CompDef CAPC1206(3216)190_M_1
+Adding CompDef BM05BADHKSGANETB_1
+Adding CompDef RHB0032E_V_1
+Adding CompDef 1608[0603]_M_1
+Adding CompDef JUMPER_1
+Adding CompDef 2012[0805]_M_1
+Adding CompDef CABLE-TERMINAL1x2_1
+Adding CompDef 1608[0603]_M_2
+Adding CompDef 1608[0603]_M_3
+Adding CompDef 1608[0603]_M_4
+Adding CompDef VQFN-20-EXPOSED-PAD_M_1
+Adding CompDef CLCC-48_m_1
+Adding CompDef TQFP-64_M_1
+Adding CompDef BOARDLENSMOUNT_M12_22MM_1
+Adding CompDef CAPC1206(3216)190_M_2
+Adding CompDef MF05A_L_1
+Adding CompDef BOUR-SRN3015-2_V_2
+Adding CompDef FP-C1206C-EB-MFG_2
+Adding CompDef 1608[0603]_M_5
+Adding CompDef MOLX-503480-1000_1
+Adding CompDef DRC0010J_V_2
+Adding CompDef FP-B3U-1100P-MFG_1
+Adding CompDef FP-B3U-1100P-MFG_2
+Adding CompDef RESC1608X55X30ML15T15_1
+Adding CompDef RESC1608X55X30ML15T15_2
+Adding CompDef SOT23-3_N_1
+Adding CompDef HDR1X3_1
+Adding CompDef HDR1X2_1
+Adding CompDef New footprint 1_1
+Adding CompDef FP-ESP32-WROOM-32-MFG_1
+Adding CompDef FP-GRM155-0_1-IPC_B_1
+Adding CompDef FP-GRM155-0_1-IPC_B_2
+Adding CompDef FP-GRM188-0_1-e0_2_0_55-MFG_2
+Adding CompDef CAPC1608X90X35ML10T15_1
+      Warning: Arcs In Polygon have been converted to Line Segments
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Arcs In Polygon have been converted to Line Segments
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Unexpected Free Track Object Found On Layer BottomOverlay.   This may cause problems in PCAD PCB
+ 
+EndLog

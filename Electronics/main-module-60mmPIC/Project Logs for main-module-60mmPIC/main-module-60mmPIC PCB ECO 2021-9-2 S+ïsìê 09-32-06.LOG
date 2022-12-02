@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=IC3-8
+Added Pin To Net: NetName=GND Pin=IC3-11
+Added Member To Class: ClassName=U_main UI Member=Component C20 10nF

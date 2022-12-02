@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=NetC3_1 Pin=M1-1
+Removed Pin From Net: NetName=NetC3_2 Pin=M1-2
+Removed Pin From Net: NetName=NetC6_1 Pin=M2-1
+Removed Pin From Net: NetName=NetC6_2 Pin=M2-2
+Removed Pin From Net: NetName=NetC9_1 Pin=M3-1
+Removed Pin From Net: NetName=NetC9_2 Pin=M3-2
+Change Component Footprint: Designator=J1 Old Footprint=MOLX-52745-0897 New Footprint=MOLX-503480-0800
+Change Component Comment : Designator=J1 Old Comment=52745-0897 New Comment=503480-0800
+Change Managed Component Library Link : Designator=J1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=74957176-780D-451C-868A-B1922D457EF4 New ItemGUID=6F69CA9D-5DFF-408E-A7E1-2ECAC397A9DD Old RevisionGUID=B4991319-3352-4185-AA31-C928A03B99ED New RevisionGUID=1336625C-E083-4F6E-8721-547DD4A8E447
+Change component parameters: Designator = "J1" ("J1"); Footprint = "MOLX-52745-0897"; UniqueID = "\HCECDUIQ" ("\HCECDUIQ")
+Change component parameters (AddParameter): Name = "Circuits (Loaded)"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/molex/index.jsp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us/5034800800_FFC_FPC_CONNECTORS.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.molex.com/pdm_docs/sd/5034800800_sd.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Position"; Value = "Dual"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current (Max per Contact)"; Value = "0.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Durability (mating cycles max)"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Entry Angle"; Value = "90degrees Angle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mated Height"; Value = "1.00mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material - Metal"; Value = "Phosphor Bronze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material - Plating Mating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material - Plating Termination"; Value = "Gold, Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "8-Lead FPC Connector, Pitch 0.5 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "503480-0800"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev. F, 09/2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "503480-0800"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCB Locator"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCB Retention"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch - Mating Interface"; Value = "0.50mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarized to PCB"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stackable"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage (Max)"; Value = "50V AC (RMS)/DC"; VariantName = "[No Variations]"
+Added Room: Name=motor

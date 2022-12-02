@@ -1,0 +1,53 @@
+Removed Member From Class: ClassName=stm32F7 Member=C21
+Removed Member From Class: ClassName=stm32F7 Member=C22
+Removed Member From Class: ClassName=stm32F7 Member=C23
+Removed Member From Class: ClassName=stm32F7 Member=C24
+Removed Member From Class: ClassName=stm32F7 Member=C25
+Removed Member From Class: ClassName=stm32F7 Member=C26
+Added Component: Designator=R?(J1-0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(J1-0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC1_24 Pin=R?-1
+Added Pin To Net: NetName=NetIC1_25 Pin=R?-1
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Member To Class: ClassName=Optics Member=Component C1 Cap Semi
+Added Member To Class: ClassName=Optics Member=Component C2 Cap Semi
+Added Member To Class: ClassName=Optics Member=Component C3 Cap Semi
+Added Member To Class: ClassName=Optics Member=Component C4 Cap Semi
+Added Member To Class: ClassName=stm32F7 Member=Component C10 Cap Semi
+Added Member To Class: ClassName=stm32F7 Member=Component C11 Cap Semi
+Added Member To Class: ClassName=stm32F7 Member=Component C12 Cap Semi
+Added Member To Class: ClassName=stm32F7 Member=Component C13 Cap Semi
+Added Member To Class: ClassName=stm32F7 Member=Component C14 Cap Semi
+Added Member To Class: ClassName=stm32F7 Member=Component C15 Cap Semi
+Added Member To Class: ClassName=stm32F7 Member=Component C16 Cap Semi
+Added Member To Class: ClassName=stm32F7 Member=Component C17 Cap Semi
+Added Member To Class: ClassName=stm32F7 Member=Component C18 Cap Semi
+Added Member To Class: ClassName=stm32F7 Member=Component C19 Cap Semi
+Added Member To Class: ClassName=stm32F7 Member=Component C20 Cap Semi
+Added Member To Class: ClassName=Optics Member=Component R1 Res3
+Added Member To Class: ClassName=Optics Member=Component R2 Res3
+Added Member To Class: ClassName=Optics Member=Component R3 Res3
+Added Member To Class: ClassName=Optics Member=Component R4 Res3
+Added Member To Class: ClassName=Optics Member=Component R5 Res3
+Added Member To Class: ClassName=Optics Member=Component R6 Res3
+Added Member To Class: ClassName=stm32F7 Member=Component R9 Res3
+Added Member To Class: ClassName=Optics Member=Component R? Res3
+Added Member To Class: ClassName=Optics Member=Component R? Res3
+Added Member To Class: ClassName=stm32F7 Member=Component U1 STM32F767ZIT6
+Added Member To Class: ClassName=power Member=Component U2 AMS1117-3.3
+Added Member To Class: ClassName=power Member=Component U3 LP2980AIM5-3.3/NOPB

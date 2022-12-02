@@ -1,0 +1,4 @@
+<map id="Cellulo::PoseRemapper" name="Cellulo::PoseRemapper">
+<area shape="rect" id="node3" href="$group__tile.html#classCellulo_1_1HexTileMap" title="Map built from hex tiles. " alt="" coords="5,155,145,181"/>
+<area shape="rect" id="node4" href="$group__tile.html#classCellulo_1_1OffsetRemapper" title="Offsets the pose of the robot by a given amount. " alt="" coords="169,155,336,181"/>
+</map>

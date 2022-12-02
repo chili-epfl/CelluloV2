@@ -1,0 +1,8 @@
+<map id="src/tile/HexTile.h" name="src/tile/HexTile.h">
+<area shape="rect" id="node2" href="$HexTileStdSourceCoords_8h_source.html" title="src/tile/HexTileStdSource\lCoords.h" alt="" coords="227,80,397,121"/>
+<area shape="rect" id="node5" href="$HexTile_8cpp.html" title="Source for a hexagonal tile definition. " alt="" coords="66,319,201,345"/>
+<area shape="rect" id="node6" href="$HexTileMap_8cpp.html" title="Source for a hexagonal multi&#45;tile map. " alt="" coords="320,319,480,345"/>
+<area shape="rect" id="node3" href="$HexTileMapAutoBuilder_8h.html" title="Header for a hexagonal tile autobuilder. " alt="" coords="205,169,419,196"/>
+<area shape="rect" id="node4" href="$HexTileMap_8h.html" title="Header for a hexagonal multi&#45;tile map. " alt="" coords="272,244,419,271"/>
+<area shape="rect" id="node7" href="$HexTileMapAutoBuilder_8cpp.html" title="Source for a hexagonal tile autobuilder. " alt="" coords="21,244,248,271"/>
+</map>

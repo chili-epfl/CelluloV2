@@ -1,0 +1,6 @@
+<map id="Cellulo::PolyBezierTracker" name="Cellulo::PolyBezierTracker">
+<area shape="rect" id="node3" href="$group__robot.html#classCellulo_1_1PolyBezierTrackerAdaptiveVel" title="Makes a CelluloRobot track a PolyBezier curve with adaptive velocity, i.e decreases velocity when tur..." alt="" coords="371,5,548,47"/>
+<area shape="rect" id="node4" href="$group__robot.html#classCellulo_1_1PolyBezierTrackerConstAccel" title="Makes a CelluloRobot track a PolyBezier curve with constant velocity and finite constant acceleration..." alt="" coords="371,71,548,112"/>
+<area shape="rect" id="node5" href="$group__robot.html#classCellulo_1_1PolyBezierTrackerConstVel" title="Makes a CelluloRobot track a PolyBezier curve with constant velocity. " alt="" coords="371,136,548,177"/>
+<area shape="rect" id="node6" href="$group__robot.html#classCellulo_1_1PolyBezierTrackerProfiledVel" title="Makes a CelluloRobot track a PolyBezier curve with the desired velocity profile. " alt="" coords="371,201,548,243"/>
+</map>

@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=3V3 Pin=J1-2
+Added Component: Designator=R6(RESC1608X55X30ML15T15)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Apr-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "2450 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "80degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-20degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 1.6 x 0.85 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.6 mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_1 Pin=J1-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=NetR4_1 Pin=R6-2
+Added Member To Class: ClassName=power Member=Component R6 ERJ-3EKF2203V

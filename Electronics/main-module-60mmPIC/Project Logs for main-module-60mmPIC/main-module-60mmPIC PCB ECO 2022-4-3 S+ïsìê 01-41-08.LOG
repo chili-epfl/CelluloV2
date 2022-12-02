@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=NetC3_1 Pin=C3-1
+Removed Pin From Net: NetName=NetC39_1 Pin=C39-1
+Removed Pin From Net: NetName=NetC3_1 Pin=R3-2
+Removed Pin From Net: NetName=5V Pin=R4-2
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=NetC39_1 Pin=R31-2
+Removed Pin From Net: NetName=3V3 Pin=R32-2
+Removed Pin From Net: NetName=GND Pin=R33-1
+Removed Pin From Net: NetName=GND Pin=R34-1
+Removed Member From Class: ClassName=power Member=C3
+Removed Member From Class: ClassName=power Member=C39
+Removed Member From Class: ClassName=power Member=R3
+Removed Member From Class: ClassName=power Member=R4
+Removed Member From Class: ClassName=power Member=R5
+Removed Member From Class: ClassName=power Member=R6
+Removed Member From Class: ClassName=power Member=R31
+Removed Member From Class: ClassName=power Member=R32
+Removed Member From Class: ClassName=power Member=R33
+Removed Member From Class: ClassName=power Member=R34
+Change Component Comment : Designator=U4 Old Comment=TPS61200DRCT New Comment=TPS61201DRCT
+Change Component Comment : Designator=U1 Old Comment=TPS61200DRCT New Comment=TPS61202DRCT
+Change Managed Component Library Link : Designator=U1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=3D5596E2-D8AF-4A0B-BF6F-E711F54AB96F New ItemGUID=40F869B4-DBAD-455D-863E-13C06ED1150D Old RevisionGUID=8E8AB1F6-BB65-4D5A-B1BC-5BF2313950B1 New RevisionGUID=063A4943-E885-4292-9FB4-CFFC80752E32
+Change Managed Component Library Link : Designator=U4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=3D5596E2-D8AF-4A0B-BF6F-E711F54AB96F New ItemGUID=17568953-EEFD-4E52-A79E-5A19405DAB73 Old RevisionGUID=8E8AB1F6-BB65-4D5A-B1BC-5BF2313950B1 New RevisionGUID=9B1DD7C6-1DF5-4018-9A13-8D1B8A9C2071
+Change component parameters: Designator = "U1" ("U1"); Footprint = "DRC0010J_V"; UniqueID = "\QXEQFBWU\RYGYMATM" ("\QXEQFBWU\RYGYMATM")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TPS61202&fileType=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/litv/pdf/mpds117k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "SLVS577B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "10-Pin Plastic Small Outline No-Lead, 3 x 3 x 1 mm Body, 0.5 mm Pitch, Exposed Pad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "DRC0010J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "revL, Sep-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "TPS61202DRCT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Preset Vout(V)"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Regulated Outputs(#)"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SubFamily"; Value = "Step-Up Regulator"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switching Frequency(Max)(kHz)"; Value = "1250"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Synchronous Rectification"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Topology"; Value = "Boost"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vin(Max)(V)"; Value = "5.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vin(Min)(V)"; Value = "0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vout(Max)(V)"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vout(Min)(V)"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U4" ("U4"); Footprint = "DRC0010J_V"; UniqueID = "\QXEQFBWU\RUTGKTKS" ("\QXEQFBWU\RUTGKTKS")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TPS61201&fileType=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/litv/pdf/mpds117k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "SLVS577B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "10-Pin Plastic Small Outline No-Lead, 3 x 3 x 1 mm Body, 0.5 mm Pitch, Exposed Pad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "DRC0010J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "revL, Sep-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "TPS61201DRCT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Preset Vout(V)"; Value = "3.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Regulated Outputs(#)"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SubFamily"; Value = "Step-Up Regulator"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switching Frequency(Max)(kHz)"; Value = "1250"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Synchronous Rectification"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Topology"; Value = "Boost"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vin(Max)(V)"; Value = "5.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vin(Min)(V)"; Value = "0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vout(Max)(V)"; Value = "3.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vout(Min)(V)"; Value = "3.3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=U1-10
+Added Pin To Net: NetName=NetC39_1 Pin=U4-7
+Added Pin To Net: NetName=3V3 Pin=U4-10
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC5_1
+Change Net Name : Old Net Name=NetC39_1 New Net Name=NetC41_1

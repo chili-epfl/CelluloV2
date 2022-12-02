@@ -1,0 +1,11 @@
+<map id="Cellulo::CelluloZonePolygon" name="Cellulo::CelluloZonePolygon">
+<area shape="rect" id="node4" href="$group__zone.html#classCellulo_1_1CelluloZoneIrregularPolygon" title="CelluloZone Base Class for irregular polygonal zones. " alt="" coords="567,104,753,145"/>
+<area shape="rect" id="node8" href="$group__zone.html#classCellulo_1_1CelluloZoneRegularPolygon" title="Base class for regular polygon zones. " alt="" coords="568,233,752,275"/>
+<area shape="rect" id="node2" href="$group__zone.html#classCellulo_1_1CelluloZone" title="CelluloZone Base Class for zones. " alt="" coords="145,209,284,235"/>
+<area shape="rect" id="node5" href="$group__zone.html#classCellulo_1_1CelluloZoneIrregularPolygonBorder" title="CelluloZone Specific Class for irregular polygonal zones border determination. " alt="" coords="801,5,988,47"/>
+<area shape="rect" id="node6" href="$group__zone.html#classCellulo_1_1CelluloZoneIrregularPolygonDistance" title="CelluloZone Specific Class for irregular polygonal zones distance determination. " alt="" coords="801,71,988,112"/>
+<area shape="rect" id="node7" href="$group__zone.html#classCellulo_1_1CelluloZoneIrregularPolygonInner" title="CelluloZone Specific Class for irregular polygonal zones inner determination. " alt="" coords="801,136,988,177"/>
+<area shape="rect" id="node9" href="$group__zone.html#classCellulo_1_1CelluloZoneRegularPolygonBorder" title="CelluloZone Specific Class for regular polygonal zones border determination. " alt="" coords="803,201,987,243"/>
+<area shape="rect" id="node10" href="$group__zone.html#classCellulo_1_1CelluloZoneRegularPolygonDistance" title="CelluloZone Specific Class for regular polygonal zones distance determination. " alt="" coords="803,267,987,308"/>
+<area shape="rect" id="node11" href="$group__zone.html#classCellulo_1_1CelluloZoneRegularPolygonInner" title="CelluloZone Specific Class for regular polygonal zones inner determination. " alt="" coords="803,332,987,373"/>
+</map>

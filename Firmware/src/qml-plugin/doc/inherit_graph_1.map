@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$group__comm.html#classCellulo_1_1CelluloBluetoothEnums" title="Wrapper containing all the enums of CelluloBluetooth. " alt="" coords="145,5,310,47"/>
+<area shape="rect" id="node3" href="$group__comm.html#classCellulo_1_1CelluloCommUtil" title="Cellulo communication utilities. " alt="" coords="143,71,312,98"/>
+<area shape="rect" id="node4" href="$group__util.html#classCellulo_1_1CelluloMathUtil" title="Mathematical utilities used throughout Celullo activities. " alt="" coords="148,122,307,149"/>
+<area shape="rect" id="node5" href="$group__util.html#classCellulo_1_1CelluloSVGUtil" title="Utilities for converting SVG files into CelluloZone description files. " alt="" coords="148,173,307,199"/>
+<area shape="rect" id="node6" href="$group__util.html#classCellulo_1_1CelluloSystemUtil" title="Object that provides system utilities. " alt="" coords="140,223,315,250"/>
+<area shape="rect" id="node7" href="$group__util.html#classCellulo_1_1CelluloUIUtil" title="User interface utilities used throughout Celullo activities. " alt="" coords="155,274,299,301"/>
+<area shape="rect" id="node8" href="$group__zone.html#classCellulo_1_1CelluloZoneJsonHandler" title="Utilities to load/save CelluloZones to to/from files in JSON format. " alt="" coords="144,325,311,367"/>
+<area shape="rect" id="node9" href="$group__zone.html#classCellulo_1_1CelluloZoneTypes" title="CelluloZone type enum and utilities. " alt="" coords="140,391,315,418"/>
+<area shape="rect" id="node10" href="$group__tile.html#classCellulo_1_1HexTileMapAutoBuilder" title="HexTileMap autobuilder, keeps history of poses for one physical/virtual object (e.g robot) and adds unknown tiles to their correct places. " alt="" coords="124,442,331,469"/>
+<area shape="rect" id="node11" href="$group__util.html#classCellulo_1_1TranslationTool" title="Object that provides a language translation for the entire app. " alt="" coords="148,493,307,519"/>
+</map>

@@ -1,0 +1,35 @@
+Altium Designer Pick and Place Locations
+C:\Users\alan8\OneDrive - epfl.ch\Master project\motor-60mm\Project Outputs for motor-60mm\Pick Place for motor-60mm.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       05/05/22
+Time:       16:14
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"C1","GRM31CR60J476ME19L","TopLayer","FP-GRM31C-0_2-e0_3_0_8-IPC_C","67.5202","56.4270","90","Chip Multilayer Ceramic Capacitors for General Purpose, 1206, 47uF, X5R, 15%, 20%, 6.3V"
+"U3","BD6210HFP-TR","TopLayer","FP-HRP7-MFG","38.6125","66.7416","300","IC MOTOR DRIVER 3V-5.5V HRP7"
+"U2","BD6210HFP-TR","TopLayer","FP-HRP7-MFG","40.5240","30.1302","60","IC MOTOR DRIVER 3V-5.5V HRP7"
+"U1","BD6210HFP-TR","TopLayer","FP-HRP7-MFG","71.7112","49.3005","180","IC MOTOR DRIVER 3V-5.5V HRP7"
+"R6","ERJ3EKF1002V","TopLayer","RESC1609X55X30ML15T15","33.8582","66.4445","30","Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"R5","ERJ3EKF1002V","TopLayer","RESC1609X55X30ML15T15","35.1282","64.2447","30","Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"R4","ERJ3EKF1002V","TopLayer","RESC1609X55X30ML15T15","44.1183","27.5699","150","Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"R3","ERJ3EKF1002V","TopLayer","RESC1609X55X30ML15T15","45.3883","29.7696","150","Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"R2","ERJ3EKF1002V","TopLayer","RESC1609X55X30ML15T15","72.9812","55.2840","270","Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"R1","ERJ3EKF1002V","TopLayer","RESC1609X55X30ML15T15","70.4412","55.2840","270","Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"M3","DCMotor","TopLayer","CABLE-TERMINAL1x2","28.1075","61.4647","120","Generic DC motor"
+"M2","DCMotor","TopLayer","CABLE-TERMINAL1x2","51.1156","24.9580","240","Generic DC motor"
+"M1","DCMotor","TopLayer","CABLE-TERMINAL1x2","71.5842","62.9040","0","Generic DC motor"
+"J1","503480-0800","TopLayer","MOLX-503480-0800","65.2793","34.7207","45","0.5 mm Pitch Easy-On(TM) BackFlip(TM) Type FPC Connector, 1.0 mm Mated Height, Right Angle, SMT, Dual Contact, 8 Circuits, -40 to 85 degC, ELV and RoHS Compliant, Tape and Reel"
+"C9","Unpopulated","TopLayer","2012[0805]_M","29.9772","62.5442","120","Generic Capacitor"
+"C8","GRM31CR60J476ME19L","TopLayer","FP-GRM31C-0_2-e0_3_0_8-IPC_C","31.3378","68.3157","210","Chip Multilayer Ceramic Capacitors for General Purpose, 1206, 47uF, X5R, 15%, 20%, 6.3V"
+"C7","GRM31CR60J476ME19L","TopLayer","FP-GRM31C-0_2-e0_3_0_8-IPC_C","35.5287","61.0566","210","Chip Multilayer Ceramic Capacitors for General Purpose, 1206, 47uF, X5R, 15%, 20%, 6.3V"
+"C6","Unpopulated","TopLayer","2012[0805]_M","49.3558","25.9740","240","Generic Capacitor"
+"C5","GRM31CR60J476ME19L","TopLayer","FP-GRM31C-0_2-e0_3_0_8-IPC_C","47.7219","31.8038","330","Chip Multilayer Ceramic Capacitors for General Purpose, 1206, 47uF, X5R, 15%, 20%, 6.3V"
+"C4","GRM31CR60J476ME19L","TopLayer","FP-GRM31C-0_2-e0_3_0_8-IPC_C","43.4586","24.5463","330","Chip Multilayer Ceramic Capacitors for General Purpose, 1206, 47uF, X5R, 15%, 20%, 6.3V"
+"C3","Unpopulated","TopLayer","2012[0805]_M","71.5842","60.6180","0","Generic Capacitor"
+"C2","GRM31CR60J476ME19L","TopLayer","FP-GRM31C-0_2-e0_3_0_8-IPC_C","75.9000","56.3880","90","Chip Multilayer Ceramic Capacitors for General Purpose, 1206, 47uF, X5R, 15%, 20%, 6.3V"

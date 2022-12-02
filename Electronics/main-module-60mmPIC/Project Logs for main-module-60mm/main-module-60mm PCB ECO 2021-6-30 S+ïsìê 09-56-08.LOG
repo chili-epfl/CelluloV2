@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=NetIC1_8 Pin=R5-1
+Removed Pin From Net: NetName=3V3 Pin=R5-2
+Change Component Footprint: Designator=C2 Old Footprint=C1206 New Footprint=CAPC1608X90X35ML10T15
+Change Component Footprint: Designator=C3 Old Footprint=C1206 New Footprint=CAPC1608X90X35ML10T15
+Change Component Footprint: Designator=C4 Old Footprint=C1206 New Footprint=CAPC1608X90X35ML10T15
+Change Component Footprint: Designator=C5 Old Footprint=C1206 New Footprint=CAPC1608X90X35ML10T15
+Change Component Footprint: Designator=R4 Old Footprint=J1-0603 New Footprint=RESC1608X55X30ML15T15
+Change Component Footprint: Designator=R5 Old Footprint=J1-0603 New Footprint=RESC1608X55X30ML15T15
+Change Component Footprint: Designator=R1 Old Footprint=J1-0603 New Footprint=RESC1609X55X30LL15T15
+Change Component Comment : Designator=C2 Old Comment=Cap Semi New Comment=GRM1885C1H101JA01D
+Change Component Comment : Designator=C3 Old Comment=Cap Semi New Comment=GRM1885C1H101JA01D
+Change Component Comment : Designator=C4 Old Comment=Cap Semi New Comment=GRM1885C1H101JA01D
+Change Component Comment : Designator=C5 Old Comment=Cap Semi New Comment=GRM1885C1H101JA01D
+Change Component Comment : Designator=R1 Old Comment=Res3 New Comment=ERJ3EKF1002V
+Change Component Comment : Designator=R4 Old Comment=Res3 New Comment=ERJ-3EKF1001V
+Change Component Comment : Designator=R5 Old Comment=Res3 New Comment=ERJ-3EKF1001V
+Change Managed Component Library Link : Designator=C2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=88F03D14-E60C-4B04-8FBC-63842C6B306F Old RevisionGUID= New RevisionGUID=C62A4C4F-F3AF-4281-820C-2BBEF536B8A9
+Change Managed Component Library Link : Designator=C3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=88F03D14-E60C-4B04-8FBC-63842C6B306F Old RevisionGUID= New RevisionGUID=C62A4C4F-F3AF-4281-820C-2BBEF536B8A9
+Change Managed Component Library Link : Designator=C4 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=88F03D14-E60C-4B04-8FBC-63842C6B306F Old RevisionGUID= New RevisionGUID=C62A4C4F-F3AF-4281-820C-2BBEF536B8A9
+Change Managed Component Library Link : Designator=C5 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=88F03D14-E60C-4B04-8FBC-63842C6B306F Old RevisionGUID= New RevisionGUID=C62A4C4F-F3AF-4281-820C-2BBEF536B8A9
+Change Managed Component Library Link : Designator=R1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=D6FF6A2E-237B-4D32-86D1-1B9665B5CB39 Old RevisionGUID= New RevisionGUID=20C4B742-B9BD-484B-8674-15E5F2C7C3A3
+Change Managed Component Library Link : Designator=R4 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=15E99ED1-FE4D-4509-A4CB-202B754A1072 Old RevisionGUID= New RevisionGUID=B5BF06F6-159E-4AE9-958F-413F2CF8C3A3
+Change Managed Component Library Link : Designator=R5 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=15E99ED1-FE4D-4509-A4CB-202B754A1072 Old RevisionGUID= New RevisionGUID=B5BF06F6-159E-4AE9-958F-413F2CF8C3A3
+Change component parameters: Designator = "C2" ("C2"); Footprint = "C1206"; UniqueID = "\BPNSZCJN\XNFJMROS" ("\BPNSZCJN\XNFJMROS")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM1885C1H101JA01D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "C1206"; UniqueID = "\BPNSZCJN\MCQKMQJY" ("\BPNSZCJN\MCQKMQJY")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM1885C1H101JA01D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "C1206"; UniqueID = "\BPNSZCJN\SCXSGEVV" ("\BPNSZCJN\SCXSGEVV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM1885C1H101JA01D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "C1206"; UniqueID = "\BPNSZCJN\VGPRNWCV" ("\BPNSZCJN\VGPRNWCV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM1885C1H101JA01D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "J1-0603"; UniqueID = "\BPNSZCJN\QHUZLOJK" ("\BPNSZCJN\QHUZLOJK")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-3EKF1001V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "J1-0603"; UniqueID = "\BPNSZCJN\RSLKUDYB" ("\BPNSZCJN\RSLKUDYB")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-3EKF1001V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "J1-0603"; UniqueID = "\BPNSZCJN\DGIASWHQ" ("\BPNSZCJN\DGIASWHQ")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case\/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "02/2017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "LeadFree"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 1.6 x 0.85 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "NoSVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10KOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm\/degreesC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.031inch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=R5-1
+Added Pin To Net: NetName=NetIC1_8 Pin=R5-2

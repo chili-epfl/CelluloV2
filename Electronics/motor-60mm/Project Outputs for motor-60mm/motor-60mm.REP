@@ -1,0 +1,302 @@
+*************************************************************
+FileName = motor-60mm.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top 3D Body
+      File : motor-60mm.GM2
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : motor-60mm.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : motor-60mm.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : motor-60mm.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : motor-60mm.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D22
+    D26
+    D27
+    D28
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : motor-60mm.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : motor-60mm.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : motor-60mm.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : motor-60mm.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : motor-60mm.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : motor-60mm.GM3
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : motor-60mm.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D46
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : motor-60mm.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : motor-60mm.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : motor-60mm.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D11
+*************************************************************
+

@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/main.qml</file>
+        <file>assets/redHexagon.svg</file>
+        <file>assets/greenHexagon.svg</file>
+        <file>assets/yellowHexagon.svg</file>
+        <file>src/LatticeRobot.qml</file>
+    </qresource>
+</RCC>

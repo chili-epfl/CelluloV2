@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=M\C\L\R\ Pin=P4-1
+Removed Pin From Net: NetName=3V3 Pin=P4-2
+Removed Pin From Net: NetName=GND Pin=P4-3
+Removed Pin From Net: NetName=PGED Pin=P4-4
+Removed Pin From Net: NetName=PGEC Pin=P4-5
+Removed Member From Class: ClassName=MCU Member=P4
+Added Component: Designator=J17(BM05BADHKSGANETB)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.jst-mfg.com/product/pdf/eng/eADH.pdf?5efba42839880"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BM05B-ADHKS-GAN-ETB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=M\C\L\R\ Pin=J17-1
+Added Pin To Net: NetName=3V3 Pin=J17-2
+Added Pin To Net: NetName=GND Pin=J17-3
+Added Pin To Net: NetName=PGED Pin=J17-4
+Added Pin To Net: NetName=PGEC Pin=J17-5
+Added Pin To Net: NetName=GND Pin=J17-MP1
+Added Pin To Net: NetName=GND Pin=J17-MP2
+Added Member To Class: ClassName=MCU Member=Component J17 BM05B-ADHKS-GAN-ETB

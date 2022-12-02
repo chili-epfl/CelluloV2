@@ -1,0 +1,8 @@
+<map id="src/zones/CelluloZonePoint.h" name="src/zones/CelluloZonePoint.h">
+<area shape="rect" id="node2" href="$CelluloZoneEngine_8h.html" title="Header for the zone engine. " alt="" coords="13,87,215,114"/>
+<area shape="rect" id="node4" href="$CelluloSVGUtil_8h.html" title="Source for SVG file parsing and dumping utils. " alt="" coords="239,87,429,114"/>
+<area shape="rect" id="node5" href="$CelluloZoneJsonHandler_8cpp.html" title="Source for zone JSON tools. " alt="" coords="453,80,633,121"/>
+<area shape="rect" id="node6" href="$CelluloZonePoint_8cpp.html" title="Source for the point zone. " alt="" coords="657,87,864,114"/>
+<area shape="rect" id="node7" href="$CelluloZoneTypes_8cpp.html" title="Source for zone type tools. " alt="" coords="889,87,1102,114"/>
+<area shape="rect" id="node3" href="$CelluloZoneEngine_8cpp.html" title="Source for the zone engine. " alt="" coords="5,169,223,196"/>
+</map>

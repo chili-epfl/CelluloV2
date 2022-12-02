@@ -1,0 +1,4 @@
+<map id="Cellulo::CelluloRobotPoolClient" name="Cellulo::CelluloRobotPoolClient">
+<area shape="rect" id="node2" href="$group__comm-relay.html#classCellulo_1_1CelluloLocalRelayClient" title="Relays packets between a server and virtual robot objects over a Unix domain socket. Connects to a CelluloLocalRelayServer. " alt="" coords="7,155,182,196"/>
+<area shape="rect" id="node3" href="$group__comm-relay.html#classCellulo_1_1CelluloRelayClient" title="Object that relays packets between a CelluloRelayServer and virtual robot objects. " alt="" coords="5,80,184,107"/>
+</map>

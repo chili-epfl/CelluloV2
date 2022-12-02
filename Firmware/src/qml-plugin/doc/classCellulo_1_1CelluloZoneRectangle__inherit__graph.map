@@ -1,0 +1,6 @@
+<map id="Cellulo::CelluloZoneRectangle" name="Cellulo::CelluloZoneRectangle">
+<area shape="rect" id="node4" href="$group__zone.html#classCellulo_1_1CelluloZoneRectangleBorder" title="CelluloZone Specific Class for rectangular zones border determination; calculates whether the client&#39;..." alt="" coords="579,5,777,47"/>
+<area shape="rect" id="node5" href="$group__zone.html#classCellulo_1_1CelluloZoneRectangleDistance" title="CelluloZone Specific Class for rectangular zones distance determination; calculates the client&#39;s dist..." alt="" coords="579,71,777,112"/>
+<area shape="rect" id="node6" href="$group__zone.html#classCellulo_1_1CelluloZoneRectangleInner" title="CelluloZone Specific Class for rectangular zones inner determination; calculates whether the client&#39;s..." alt="" coords="579,136,777,177"/>
+<area shape="rect" id="node2" href="$group__zone.html#classCellulo_1_1CelluloZone" title="CelluloZone Base Class for zones. " alt="" coords="145,78,284,105"/>
+</map>

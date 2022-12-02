@@ -1,0 +1,48 @@
+Added Component: Designator=IC4(LCC101P1430X1430X228-48N)
+Added Pin To Net: NetName=3V3 Pin=IC4-1
+Added Pin To Net: NetName=3V3 Pin=IC4-6
+Added Pin To Net: NetName=GND Pin=IC4-7
+Added Pin To Net: NetName=NetIC4_8 Pin=IC4-8
+Added Pin To Net: NetName=GND Pin=IC4-9
+Added Pin To Net: NetName=NetIC4_10 Pin=IC4-10
+Added Pin To Net: NetName=GND Pin=IC4-11
+Added Pin To Net: NetName=GND Pin=IC4-12
+Added Pin To Net: NetName=GND Pin=IC4-13
+Added Pin To Net: NetName=3V3 Pin=IC4-14
+Added Pin To Net: NetName=PIXEL_D5 Pin=IC4-15
+Added Pin To Net: NetName=PIXEL_D6 Pin=IC4-16
+Added Pin To Net: NetName=PIXEL_D7 Pin=IC4-17
+Added Pin To Net: NetName=PIXEL_D8 Pin=IC4-18
+Added Pin To Net: NetName=PIXEL_D9 Pin=IC4-19
+Added Pin To Net: NetName=NetIC4_20 Pin=IC4-20
+Added Pin To Net: NetName=NetIC4_21 Pin=IC4-21
+Added Pin To Net: NetName=IMG_EXPOSURE Pin=IC4-23
+Added Pin To Net: NetName=NetIC4_24 Pin=IC4-24
+Added Pin To Net: NetName=NetIC4_25 Pin=IC4-25
+Added Pin To Net: NetName=NetIC4_27 Pin=IC4-27
+Added Pin To Net: NetName=NetIC4_28 Pin=IC4-28
+Added Pin To Net: NetName=GND Pin=IC4-29
+Added Pin To Net: NetName=GND Pin=IC4-30
+Added Pin To Net: NetName=GND Pin=IC4-31
+Added Pin To Net: NetName=NetIC4_32 Pin=IC4-32
+Added Pin To Net: NetName=NetIC4_33 Pin=IC4-33
+Added Pin To Net: NetName=AGND Pin=IC4-34
+Added Pin To Net: NetName=A3V3 Pin=IC4-35
+Added Pin To Net: NetName=AGND Pin=IC4-38
+Added Pin To Net: NetName=A3V3 Pin=IC4-39
+Added Pin To Net: NetName=A3V3 Pin=IC4-40
+Added Pin To Net: NetName=PIXEL_D4 Pin=IC4-41
+Added Pin To Net: NetName=PIXEL_D3 Pin=IC4-42
+Added Pin To Net: NetName=PIXEL_D2 Pin=IC4-43
+Added Pin To Net: NetName=PIXEL_D1 Pin=IC4-44
+Added Pin To Net: NetName=PIXEL_D0 Pin=IC4-45
+Added Pin To Net: NetName=PIXEL_WR Pin=IC4-46
+Added Pin To Net: NetName=IMG_CLK Pin=IC4-47
+Added Pin To Net: NetName=GND Pin=IC4-48
+Added Member To Class: ClassName=Optics Member=Component IC4 MT9V034C12STM
+Added Member To Class: ClassName=motor Member=Component U? BD6210HFP-TR
+Added Member To Class: ClassName=motor Member=Component U? BD6210HFP-TR
+Added Room: Name=ESP32
+Added Room: Name=motor
+Added Room: Name=Optics
+Added Room: Name=stm32F7

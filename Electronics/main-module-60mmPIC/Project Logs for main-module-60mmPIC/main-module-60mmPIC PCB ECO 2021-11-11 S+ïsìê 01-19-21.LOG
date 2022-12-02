@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=U0RXD Pin=IC1-4
+Removed Pin From Net: NetName=U0TXD Pin=IC1-5
+Change Component Footprint: Designator=P1 Old Footprint=New footprint 1 New Footprint=New footprint 1
+Change Managed Component Library Link : Designator=P1 Old VaultGUID=402AE90E-E6D4-42C2-A6A4-831F65D0074D New VaultGUID=402AE90E-E6D4-42C2-A6A4-831F65D0074D Old ItemGUID=8e9e8985-d271-41d0-afd3-3a03919b28ce New ItemGUID=8e9e8985-d271-41d0-afd3-3a03919b28ce Old RevisionGUID=5bcb064e-3190-4f82-ba09-b8bb86602831 New RevisionGUID=4A65F638-C2CD-43D6-852B-C5547E29DF2B
+Added Component: Designator=J15(JUMPER)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J16(JUMPER)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R29(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R30(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=E32_RST Pin=IC1-31
+Added Pin To Net: NetName=U0RXD Pin=J15-1
+Added Pin To Net: NetName=U0TXD Pin=J16-1
+Added Pin To Net: NetName=NetIC1_10 Pin=MD1-31
+Added Pin To Net: NetName=NetIC1_6 Pin=MD1-36
+Added Pin To Net: NetName=3V3 Pin=R29-2
+Added Pin To Net: NetName=3V3 Pin=R30-2
+Change Net Name : Old Net Name=NetJ9_1 New Net Name=T1
+Change Net Name : Old Net Name=NetJ10_1 New Net Name=T2
+Change Net Name : Old Net Name=NetJ11_1 New Net Name=T3
+Change Net Name : Old Net Name=NetJ12_1 New Net Name=T4
+Change Net Name : Old Net Name=NetJ13_1 New Net Name=T5
+Change Net Name : Old Net Name=NetJ14_1 New Net Name=T6
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-4
+Added Pin To Net: NetName=NetIC1_4 Pin=J15-2
+Added Pin To Net: NetName=NetIC1_4 Pin=R29-1
+Added Net: Name=NetIC1_4
+Added Pin To Net: NetName=NetIC1_5 Pin=IC1-5
+Added Pin To Net: NetName=NetIC1_5 Pin=J16-2
+Added Pin To Net: NetName=NetIC1_5 Pin=R30-1
+Added Net: Name=NetIC1_5
+Added Member To Class: ClassName=interconnect Member=Component J15 JUMPER
+Added Member To Class: ClassName=interconnect Member=Component J16 JUMPER
+Added Member To Class: ClassName=interconnect Member=Component R29 10K
+Added Member To Class: ClassName=interconnect Member=Component R30 10K

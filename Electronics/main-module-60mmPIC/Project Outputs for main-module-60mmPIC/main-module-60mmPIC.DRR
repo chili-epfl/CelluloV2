@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: main-module-60mmPIC.PcbDoc   2022/5/5  ¤U¤È 03:03:39
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : main-module-60mmPIC.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.201mm)                                            Round             19        PTH        2.36inch (60.07mm)
+T2      12mil (0.3mm)                                             Round             220       PTH        28.49inch (723.67mm)
+T3      24mil (0.599mm)                                           Round             6         PTH        0.50inch (12.70mm)
+T4      26mil (0.66mm)                                            Round             30        PTH        2.37inch (60.12mm)
+T5      34mil (0.851mm)                                           Round             6         PTH        0.31inch (7.80mm)
+T6      35mil (0.899mm)                                           Round             11        PTH        5.63inch (143.03mm)
+T7      83mil (2.101mm)                                           Round             3         PTH        3.68inch (93.53mm)
+T8      79mil (1.999mm)                                           Round             2         NPTH       0.87inch (22.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              297
+
+Total Processing Time (hh:mm:ss) : 00:00:00

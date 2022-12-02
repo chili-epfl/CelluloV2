@@ -1,0 +1,222 @@
+Removed Pin From Net: NetName=3V3 Pin=LED1-1
+Removed Pin From Net: NetName=LED1_BLUE Pin=LED1-2
+Removed Pin From Net: NetName=LED1_GREEN Pin=LED1-3
+Removed Pin From Net: NetName=LED1_RED Pin=LED1-4
+Removed Pin From Net: NetName=3V3 Pin=LED2-1
+Removed Pin From Net: NetName=LED2_BLUE Pin=LED2-2
+Removed Pin From Net: NetName=LED2_GREEN Pin=LED2-3
+Removed Pin From Net: NetName=LED2_RED Pin=LED2-4
+Removed Pin From Net: NetName=3V3 Pin=LED3-1
+Removed Pin From Net: NetName=LED3_BLUE Pin=LED3-2
+Removed Pin From Net: NetName=LED3_GREEN Pin=LED3-3
+Removed Pin From Net: NetName=LED3_RED Pin=LED3-4
+Removed Pin From Net: NetName=3V3 Pin=LED4-1
+Removed Pin From Net: NetName=LED4_BLUE Pin=LED4-2
+Removed Pin From Net: NetName=LED4_GREEN Pin=LED4-3
+Removed Pin From Net: NetName=LED4_RED Pin=LED4-4
+Removed Pin From Net: NetName=3V3 Pin=LED5-1
+Removed Pin From Net: NetName=LED5_BLUE Pin=LED5-2
+Removed Pin From Net: NetName=LED5_GREEN Pin=LED5-3
+Removed Pin From Net: NetName=LED5_RED Pin=LED5-4
+Removed Pin From Net: NetName=3V3 Pin=LED6-1
+Removed Pin From Net: NetName=LED6_BLUE Pin=LED6-2
+Removed Pin From Net: NetName=LED6_GREEN Pin=LED6-3
+Removed Pin From Net: NetName=LED6_RED Pin=LED6-4
+Removed Member From Class: ClassName=power Member=C2
+Removed Member From Class: ClassName=U_main UI Member=C2
+Removed Member From Class: ClassName=U_main UI Member=C3
+Removed Member From Class: ClassName=U_main UI Member=C5
+Removed Member From Class: ClassName=U_optics Member=C5
+Removed Member From Class: ClassName=U_main UI Member=C15
+Removed Member From Class: ClassName=U_main UI Member=C16
+Removed Member From Class: ClassName=power Member=C23
+Removed Member From Class: ClassName=power Member=C25
+Removed Member From Class: ClassName=MCU Member=C29
+Removed Member From Class: ClassName=power Member=C29
+Removed Member From Class: ClassName=MCU Member=C33
+Removed Member From Class: ClassName=MCU Member=C35
+Removed Member From Class: ClassName=MCU Member=C36
+Removed Member From Class: ClassName=U_optics Member=C37
+Removed Member From Class: ClassName=U_main UI Member=IC2
+Removed Member From Class: ClassName=ESP32 Member=J1
+Removed Member From Class: ClassName=U_main UI Member=K1
+Removed Member From Class: ClassName=U_main UI Member=K2
+Removed Member From Class: ClassName=U_main UI Member=K3
+Removed Member From Class: ClassName=U_main UI Member=LED1
+Removed Member From Class: ClassName=U_main UI Member=LED3
+Removed Member From Class: ClassName=U_main UI Member=LED4
+Removed Member From Class: ClassName=U_main UI Member=LED6
+Removed Member From Class: ClassName=interconnect Member=P3
+Removed Member From Class: ClassName=power Member=R2
+Removed Member From Class: ClassName=power Member=R16
+Removed Member From Class: ClassName=U_main UI Member=R16
+Removed Member From Class: ClassName=power Member=R20
+Removed Member From Class: ClassName=power Member=R22
+Removed Member From Class: ClassName=MCU Member=R23
+Removed Member From Class: ClassName=ESP32 Member=R26
+Removed Member From Class: ClassName=MCU Member=R29
+Change Component Footprint: Designator=C15 Old Footprint=FP-C1206C-EB-MFG New Footprint=1608[0603]_M
+Change Component Designator: OldDesignator=C15 NewDesignator=C9
+Change Component Designator: OldDesignator=C16 NewDesignator=C10
+Change Component Designator: OldDesignator=C17 NewDesignator=C11
+Change Component Designator: OldDesignator=C18 NewDesignator=C12
+Change Component Designator: OldDesignator=C19 NewDesignator=C13
+Change Component Designator: OldDesignator=C20 NewDesignator=C14
+Change Component Designator: OldDesignator=C21 NewDesignator=C15
+Change Component Designator: OldDesignator=C22 NewDesignator=C16
+Change Component Designator: OldDesignator=C23 NewDesignator=C17
+Change Component Designator: OldDesignator=C24 NewDesignator=C18
+Change Component Designator: OldDesignator=C25 NewDesignator=C19
+Change Component Designator: OldDesignator=C26 NewDesignator=C20
+Change Component Designator: OldDesignator=C27 NewDesignator=C21
+Change Component Designator: OldDesignator=C28 NewDesignator=C22
+Change Component Designator: OldDesignator=C29 NewDesignator=C23
+Change Component Designator: OldDesignator=C30 NewDesignator=C24
+Change Component Designator: OldDesignator=C31 NewDesignator=C25
+Change Component Designator: OldDesignator=C32 NewDesignator=C26
+Change Component Designator: OldDesignator=C33 NewDesignator=C27
+Change Component Designator: OldDesignator=C34 NewDesignator=C28
+Change Component Designator: OldDesignator=C35 NewDesignator=C29
+Change Component Designator: OldDesignator=C36 NewDesignator=C30
+Change Component Designator: OldDesignator=C37 NewDesignator=C31
+Change Component Designator: OldDesignator=C38 NewDesignator=C32
+Change Component Designator: OldDesignator=C39 NewDesignator=C33
+Change Component Designator: OldDesignator=C40 NewDesignator=C34
+Change Component Designator: OldDesignator=C41 NewDesignator=C35
+Change Component Designator: OldDesignator=C42 NewDesignator=C36
+Change Component Designator: OldDesignator=C43 NewDesignator=C37
+Change Component Designator: OldDesignator=C44 NewDesignator=C38
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q1
+Change Component Designator: OldDesignator=R15 NewDesignator=R7
+Change Component Designator: OldDesignator=R16 NewDesignator=R8
+Change Component Designator: OldDesignator=R17 NewDesignator=R9
+Change Component Designator: OldDesignator=R18 NewDesignator=R10
+Change Component Designator: OldDesignator=R19 NewDesignator=R11
+Change Component Designator: OldDesignator=R20 NewDesignator=R12
+Change Component Designator: OldDesignator=R21 NewDesignator=R13
+Change Component Designator: OldDesignator=R22 NewDesignator=R14
+Change Component Designator: OldDesignator=R23 NewDesignator=R15
+Change Component Designator: OldDesignator=R24 NewDesignator=R16
+Change Component Designator: OldDesignator=R25 NewDesignator=R17
+Change Component Designator: OldDesignator=R26 NewDesignator=R18
+Change Component Designator: OldDesignator=R27 NewDesignator=R19
+Change Component Designator: OldDesignator=R28 NewDesignator=R20
+Change Component Designator: OldDesignator=R29 NewDesignator=R21
+Change Component Designator: OldDesignator=R30 NewDesignator=R22
+Change Component Designator: OldDesignator=R31 NewDesignator=R23
+Change Component Designator: OldDesignator=R32 NewDesignator=R24
+Change Component Designator: OldDesignator=R33 NewDesignator=R25
+Added Component: Designator=P5(HDR1X5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P6(HDR1X5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P7(HDR1X5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P8(HDR1X5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P9(HDR1X5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P10(HDR1X5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LED1_BLUE Pin=P5-2
+Added Pin To Net: NetName=LED1_GREEN Pin=P5-3
+Added Pin To Net: NetName=LED1_RED Pin=P5-4
+Added Pin To Net: NetName=3V3 Pin=P5-5
+Added Pin To Net: NetName=LED2_BLUE Pin=P6-2
+Added Pin To Net: NetName=LED2_GREEN Pin=P6-3
+Added Pin To Net: NetName=LED2_RED Pin=P6-4
+Added Pin To Net: NetName=3V3 Pin=P6-5
+Added Pin To Net: NetName=LED3_BLUE Pin=P7-2
+Added Pin To Net: NetName=LED3_GREEN Pin=P7-3
+Added Pin To Net: NetName=LED3_RED Pin=P7-4
+Added Pin To Net: NetName=3V3 Pin=P7-5
+Added Pin To Net: NetName=LED4_BLUE Pin=P8-2
+Added Pin To Net: NetName=LED4_GREEN Pin=P8-3
+Added Pin To Net: NetName=LED4_RED Pin=P8-4
+Added Pin To Net: NetName=3V3 Pin=P8-5
+Added Pin To Net: NetName=LED5_BLUE Pin=P9-2
+Added Pin To Net: NetName=LED5_GREEN Pin=P9-3
+Added Pin To Net: NetName=LED5_RED Pin=P9-4
+Added Pin To Net: NetName=3V3 Pin=P9-5
+Added Pin To Net: NetName=LED6_BLUE Pin=P10-2
+Added Pin To Net: NetName=LED6_GREEN Pin=P10-3
+Added Pin To Net: NetName=LED6_RED Pin=P10-4
+Added Pin To Net: NetName=3V3 Pin=P10-5
+Change Net Name : Old Net Name=NetQ5_G New Net Name=NetQ1_G
+Added Pin To Net: NetName=NetP5_1 Pin=P5-1
+Added Pin To Net: NetName=NetP5_1 Pin=R17-1
+Added Net: Name=NetP5_1
+Added Pin To Net: NetName=NetP6_1 Pin=P6-1
+Added Pin To Net: NetName=NetP6_1 Pin=R20-1
+Added Net: Name=NetP6_1
+Added Pin To Net: NetName=NetP7_1 Pin=P7-1
+Added Pin To Net: NetName=NetP7_1 Pin=R21-1
+Added Net: Name=NetP7_1
+Added Pin To Net: NetName=NetP8_1 Pin=P8-1
+Added Pin To Net: NetName=NetP8_1 Pin=R22-1
+Added Net: Name=NetP8_1
+Added Pin To Net: NetName=NetP9_1 Pin=P9-1
+Added Pin To Net: NetName=NetP9_1 Pin=R23-1
+Added Net: Name=NetP9_1
+Added Pin To Net: NetName=NetP10_1 Pin=P10-1
+Added Pin To Net: NetName=NetP10_1 Pin=R24-1
+Added Net: Name=NetP10_1
+Added Member To Class: ClassName=ESP32 Member=Component C1 GRM1885C1H101JA01D
+Added Member To Class: ClassName=power Member=Component C4 CAP 22uF 6.3V 1206(3216)
+Added Member To Class: ClassName=power Member=Component C6 C1206C104K1RACTU
+Added Member To Class: ClassName=power Member=Component C7 GRM155R60J475ME47D
+Added Member To Class: ClassName=power Member=Component C8 GRM155R60J475ME47D
+Added Member To Class: ClassName=MCU Member=Component C11 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C12 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C13 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C14 0.1uF
+Added Member To Class: ClassName=U_optics Member=Component C15 0.1uF
+Added Member To Class: ClassName=U_optics Member=Component C18 0.1uF
+Added Member To Class: ClassName=U_main UI Member=Component C20 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C21 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C22 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C24 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C25 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C26 0.1uF
+Added Member To Class: ClassName=U_main UI Member=Component C28 10nF
+Added Member To Class: ClassName=U_main UI Member=Component IC4 TLC5947
+Added Member To Class: ClassName=ESP32 Member=Component J4 Socket
+Added Member To Class: ClassName=ESP32 Member=Component J5 Socket
+Added Member To Class: ClassName=ESP32 Member=Component J7 Socket
+Added Member To Class: ClassName=ESP32 Member=Component J8 Socket
+Added Member To Class: ClassName=interconnect Member=Component P1 811-S1-006-30-015101
+Added Member To Class: ClassName=U_main UI Member=Component P5 Header 5
+Added Member To Class: ClassName=U_main UI Member=Component P6 Header 5
+Added Member To Class: ClassName=U_main UI Member=Component P7 Header 5
+Added Member To Class: ClassName=U_main UI Member=Component P8 Header 5
+Added Member To Class: ClassName=U_main UI Member=Component P9 Header 5
+Added Member To Class: ClassName=U_main UI Member=Component P10 Header 5
+Added Member To Class: ClassName=ESP32 Member=Component R1 ERJ-3EKF1001V
+Added Member To Class: ClassName=power Member=Component R3 ERJ-3EKF2004V
+Added Member To Class: ClassName=power Member=Component R4 ERJ-3EKF2004V
+Added Member To Class: ClassName=power Member=Component R5 ERJ-3EKF2203V
+Added Member To Class: ClassName=power Member=Component R6 ERJ-3EKF2203V
+Added Member To Class: ClassName=MCU Member=Component R7 1K5
+Added Member To Class: ClassName=MCU Member=Component R10 Unpopulated
+Added Member To Class: ClassName=MCU Member=Component R11 10K
+Added Member To Class: ClassName=U_optics Member=Component R13 1K
+Added Member To Class: ClassName=U_optics Member=Component R16 10K
+Added Member To Class: ClassName=U_main UI Member=Component R17 4K7
+Added Room: Name=ESP32
+Added Room: Name=interconnect
+Added Room: Name=MCU
+Added Room: Name=power
+Added Room: Name=U_main UI
+Added Room: Name=U_optics

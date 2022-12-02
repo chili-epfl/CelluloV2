@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=LED1_RED Pin=IC4-1
+Removed Pin From Net: NetName=LED1_GREEN Pin=IC4-2
+Removed Pin From Net: NetName=LED1_BLUE Pin=IC4-3
+Removed Pin From Net: NetName=LED2_RED Pin=IC4-4
+Removed Pin From Net: NetName=LED2_GREEN Pin=IC4-5
+Removed Pin From Net: NetName=LED2_BLUE Pin=IC4-6
+Removed Pin From Net: NetName=LED3_RED Pin=IC4-7
+Removed Pin From Net: NetName=LED3_GREEN Pin=IC4-8
+Removed Pin From Net: NetName=LED3_BLUE Pin=IC4-9
+Removed Pin From Net: NetName=LED4_RED Pin=IC4-10
+Removed Pin From Net: NetName=LED4_GREEN Pin=IC4-11
+Removed Pin From Net: NetName=LED4_BLUE Pin=IC4-12
+Removed Pin From Net: NetName=LED5_RED Pin=IC4-13
+Removed Pin From Net: NetName=LED5_GREEN Pin=IC4-14
+Removed Pin From Net: NetName=LED5_BLUE Pin=IC4-15
+Removed Pin From Net: NetName=LED6_RED Pin=IC4-16
+Removed Pin From Net: NetName=LED6_GREEN Pin=IC4-17
+Removed Pin From Net: NetName=LED6_BLUE Pin=IC4-18
+Removed Pin From Net: NetName=LED_XLAT Pin=IC4-26
+Removed Pin From Net: NetName=3V3 Pin=IC4-28
+Removed Pin From Net: NetName=GND Pin=IC4-29
+Removed Pin From Net: NetName=GND Pin=IC4-30
+Removed Pin From Net: NetName=LED_SCLK Pin=IC4-31
+Removed Pin From Net: NetName=LED_SIN Pin=IC4-32
+Removed Member From Class: ClassName=U_main UI Member=IC4
+Added Component: Designator=U3(RHB0032E_V)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TLC5947&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ml/mpqf130c/mpqf130c.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SBVS114A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "32-Pin Plastic Flat Pack, Body 5 x 5 mm, Pitch 0.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RHB0032E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4204326/D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TLC5947RHBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Catalog"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "LED Driver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vin(Max)(V)"; Value = "5.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vin(Min)(V)"; Value = "3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LED1_RED Pin=U3-1
+Added Pin To Net: NetName=LED1_GREEN Pin=U3-2
+Added Pin To Net: NetName=LED1_BLUE Pin=U3-3
+Added Pin To Net: NetName=LED2_RED Pin=U3-4
+Added Pin To Net: NetName=LED2_GREEN Pin=U3-5
+Added Pin To Net: NetName=LED2_BLUE Pin=U3-6
+Added Pin To Net: NetName=LED3_RED Pin=U3-7
+Added Pin To Net: NetName=LED3_GREEN Pin=U3-8
+Added Pin To Net: NetName=LED3_BLUE Pin=U3-9
+Added Pin To Net: NetName=LED4_RED Pin=U3-10
+Added Pin To Net: NetName=LED4_GREEN Pin=U3-11
+Added Pin To Net: NetName=LED4_BLUE Pin=U3-12
+Added Pin To Net: NetName=LED5_RED Pin=U3-13
+Added Pin To Net: NetName=LED5_GREEN Pin=U3-14
+Added Pin To Net: NetName=LED5_BLUE Pin=U3-15
+Added Pin To Net: NetName=LED6_RED Pin=U3-16
+Added Pin To Net: NetName=LED6_GREEN Pin=U3-17
+Added Pin To Net: NetName=LED6_BLUE Pin=U3-18
+Added Pin To Net: NetName=LED_XLAT Pin=U3-26
+Added Pin To Net: NetName=3V3 Pin=U3-28
+Added Pin To Net: NetName=GND Pin=U3-29
+Added Pin To Net: NetName=GND Pin=U3-30
+Added Pin To Net: NetName=LED_SCLK Pin=U3-31
+Added Pin To Net: NetName=LED_SIN Pin=U3-32
+Added Pin To Net: NetName=NetR25_2 Pin=R25-2
+Added Pin To Net: NetName=NetR25_2 Pin=U3-27
+Added Net: Name=NetR25_2
+Added Member To Class: ClassName=U_main UI Member=Component U3 TLC5947RHBT
+Added Room: Name=ESP32
+Added Room: Name=interconnect
+Added Room: Name=MCU
+Added Room: Name=power
+Added Room: Name=U_main UI
+Added Room: Name=U_optics

@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=3V3 Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=5V Pin=C9-2
+Change Component Footprint: Designator=C10 Old Footprint=C1206 New Footprint=CAPC1210(3225)220_M
+Change Component Footprint: Designator=C11 Old Footprint=C1206 New Footprint=CAPC1210(3225)220_M
+Change Component Footprint: Designator=C6 Old Footprint=C1206 New Footprint=CAPC1608X90X35ML10T15
+Change Component Footprint: Designator=C7 Old Footprint=C1206 New Footprint=CAPC1608X90X35ML10T15
+Change Component Footprint: Designator=C8 Old Footprint=C1206 New Footprint=CAPC1608X90X35ML10T15
+Change Component Footprint: Designator=C9 Old Footprint=C1206 New Footprint=CAPC1608X90X35ML10T15
+Change Component Footprint: Designator=R7 Old Footprint=J1-0603 New Footprint=RESC1608X55X30ML15T15
+Change Component Footprint: Designator=R8 Old Footprint=J1-0603 New Footprint=RESC1608X55X30ML15T15
+Change Component Comment : Designator=C10 Old Comment=Cap Semi New Comment=CAP 4.7uF 25V 1210(3225)
+Change Component Comment : Designator=C11 Old Comment=Cap Semi New Comment=CAP 4.7uF 25V 1210(3225)
+Change Component Comment : Designator=C6 Old Comment=Cap Semi New Comment=GRM1885C1H101JA01D
+Change Component Comment : Designator=C7 Old Comment=Cap Semi New Comment=GRM1885C1H101JA01D
+Change Component Comment : Designator=C8 Old Comment=Cap Semi New Comment=GRM1885C1H101JA01D
+Change Component Comment : Designator=C9 Old Comment=Cap Semi New Comment=GRM1885C1H101JA01D
+Change Component Comment : Designator=R7 Old Comment=Res3 New Comment=ERJ-3EKF1001V
+Change Component Comment : Designator=R8 Old Comment=Res3 New Comment=ERJ-3EKF1001V
+Change Managed Component Library Link : Designator=C6 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=88F03D14-E60C-4B04-8FBC-63842C6B306F Old RevisionGUID= New RevisionGUID=C62A4C4F-F3AF-4281-820C-2BBEF536B8A9
+Change Managed Component Library Link : Designator=C7 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=88F03D14-E60C-4B04-8FBC-63842C6B306F Old RevisionGUID= New RevisionGUID=C62A4C4F-F3AF-4281-820C-2BBEF536B8A9
+Change Managed Component Library Link : Designator=C8 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=88F03D14-E60C-4B04-8FBC-63842C6B306F Old RevisionGUID= New RevisionGUID=C62A4C4F-F3AF-4281-820C-2BBEF536B8A9
+Change Managed Component Library Link : Designator=C9 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=88F03D14-E60C-4B04-8FBC-63842C6B306F Old RevisionGUID= New RevisionGUID=C62A4C4F-F3AF-4281-820C-2BBEF536B8A9
+Change Managed Component Library Link : Designator=C10 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=0D57FF67-0CDC-4857-B1D6-9CA70B153E49 Old RevisionGUID= New RevisionGUID=2D342800-9A08-4E4D-AF03-0B204A9DD5BF
+Change Managed Component Library Link : Designator=C11 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=0D57FF67-0CDC-4857-B1D6-9CA70B153E49 Old RevisionGUID= New RevisionGUID=2D342800-9A08-4E4D-AF03-0B204A9DD5BF
+Change Managed Component Library Link : Designator=R7 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=15E99ED1-FE4D-4509-A4CB-202B754A1072 Old RevisionGUID= New RevisionGUID=B5BF06F6-159E-4AE9-958F-413F2CF8C3A3
+Change Managed Component Library Link : Designator=R8 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=15E99ED1-FE4D-4509-A4CB-202B754A1072 Old RevisionGUID= New RevisionGUID=B5BF06F6-159E-4AE9-958F-413F2CF8C3A3
+Change component parameters: Designator = "C6" ("C6"); Footprint = "C1206"; UniqueID = "\ZBLZJSIS\VXHCHOSH" ("\ZBLZJSIS\VXHCHOSH")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM1885C1H101JA01D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "C1206"; UniqueID = "\ZBLZJSIS\VRSZTJFJ" ("\ZBLZJSIS\VRSZTJFJ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM1885C1H101JA01D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "C1206"; UniqueID = "\QXEQFBWU\EENCIMMJ" ("\QXEQFBWU\EENCIMMJ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM1885C1H101JA01D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "C1206"; UniqueID = "\QXEQFBWU\DTDITFPK" ("\QXEQFBWU\DTDITFPK")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM1885C1H101JA01D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "J1-0603"; UniqueID = "\ZBLZJSIS\WMNEGNTI" ("\ZBLZJSIS\WMNEGNTI")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-3EKF1001V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "J1-0603"; UniqueID = "\ZBLZJSIS\RDKKGPOF" ("\ZBLZJSIS\RDKKGPOF")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-3EKF1001V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "C1206"; UniqueID = "\QXEQFBWU\SVWNISLK" ("\QXEQFBWU\SVWNISLK")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "2.2 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "25 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "A¡Ó10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "C1206"; UniqueID = "\QXEQFBWU\BGAOSKDH" ("\QXEQFBWU\BGAOSKDH")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "1210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "3225"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Thickness"; Value = "2.2 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "25 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "A¡Ó10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=5V Pin=C8-2
+Added Pin To Net: NetName=3V3 Pin=C9-2

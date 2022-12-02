@@ -1,0 +1,693 @@
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=A3V3 Pin=C4-2
+Removed Pin From Net: NetName=A3V3 Pin=C5-2
+Removed Pin From Net: NetName=3V3 Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=3V3 Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=3V3 Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=3V3 Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=3V3 Pin=C17-1
+Removed Pin From Net: NetName=GND Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=A3V3 Pin=C20-1
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=GND Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Pin From Net: NetName=GND Pin=C25-2
+Removed Pin From Net: NetName=GND Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Pin From Net: NetName=GND Pin=C29-1
+Removed Pin From Net: NetName=3V3 Pin=IC1-1
+Removed Pin From Net: NetName=3V3 Pin=IC1-6
+Removed Pin From Net: NetName=GND Pin=IC1-9
+Removed Pin From Net: NetName=GND Pin=IC1-11
+Removed Pin From Net: NetName=GND Pin=IC1-12
+Removed Pin From Net: NetName=GND Pin=IC1-13
+Removed Pin From Net: NetName=3V3 Pin=IC1-14
+Removed Pin From Net: NetName=GND Pin=IC1-23
+Removed Pin From Net: NetName=3V3 Pin=IC1-28
+Removed Pin From Net: NetName=GND Pin=IC1-29
+Removed Pin From Net: NetName=GND Pin=IC1-30
+Removed Pin From Net: NetName=GND Pin=IC1-31
+Removed Pin From Net: NetName=GND Pin=IC1-33
+Removed Pin From Net: NetName=A3V3 Pin=IC1-35
+Removed Pin From Net: NetName=GND Pin=IC1-38
+Removed Pin From Net: NetName=A3V3 Pin=IC1-39
+Removed Pin From Net: NetName=A3V3 Pin=IC1-40
+Removed Pin From Net: NetName=PIXEL_WR Pin=IC1-46
+Removed Pin From Net: NetName=GND Pin=IC1-48
+Removed Pin From Net: NetName=NetMD1_29 Pin=P2-1
+Removed Pin From Net: NetName=NetMD1_30 Pin=P2-2
+Removed Pin From Net: NetName=NetMD1_31 Pin=P2-3
+Removed Pin From Net: NetName=NetMD1_37 Pin=P2-4
+Removed Pin From Net: NetName=3V3 Pin=P3-3
+Removed Pin From Net: NetName=GND Pin=P3-4
+Removed Pin From Net: NetName=3V3 Pin=R1-2
+Removed Pin From Net: NetName=3V3 Pin=R2-2
+Removed Pin From Net: NetName=3V3 Pin=R3-2
+Removed Pin From Net: NetName=3V3 Pin=R4-1
+Removed Pin From Net: NetName=NetIC1_10 Pin=R4-2
+Removed Pin From Net: NetName=3V3 Pin=R5-1
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=NetMD1_28 Pin=R13-2
+Removed Pin From Net: NetName=3V3 Pin=R14-2
+Removed Pin From Net: NetName=3V3 Pin=R15-2
+Removed Pin From Net: NetName=3V3 Pin=R19-1
+Removed Pin From Net: NetName=3V3 Pin=R21-1
+Removed Pin From Net: NetName=3V3 Pin=R23-1
+Removed Pin From Net: NetName=3V3 Pin=R25-1
+Removed Pin From Net: NetName=GND Pin=SW3-1
+Removed Pin From Net: NetName=NetIC1_17 Pin=U3-5
+Removed Pin From Net: NetName=GND Pin=U3-10
+Removed Pin From Net: NetName=3V3 Pin=U3-11
+Removed Pin From Net: NetName=NetMD1_37 Pin=U3-16
+Removed Pin From Net: NetName=NetMD1_31 Pin=U3-17
+Removed Pin From Net: NetName=NetMD1_29 Pin=U3-18
+Removed Pin From Net: NetName=GND Pin=U3-19
+Removed Pin From Net: NetName=A3V3 Pin=U3-20
+Removed Pin From Net: NetName=A3V3 Pin=U3-21
+Removed Pin From Net: NetName=U0RXD Pin=U3-24
+Removed Pin From Net: NetName=U0TXD Pin=U3-25
+Removed Pin From Net: NetName=GND Pin=U3-26
+Removed Pin From Net: NetName=3V3 Pin=U3-27
+Removed Pin From Net: NetName=PIXEL_WR Pin=U3-30
+Removed Pin From Net: NetName=GND Pin=U3-49
+Removed Pin From Net: NetName=3V3 Pin=U3-50
+Removed Pin From Net: NetName=NetMD1_30 Pin=U3-52
+Removed Pin From Net: NetName=NetIC1_45 Pin=U3-63
+Removed Pin From Net: NetName=NetMD1_17 Pin=U3-68
+Removed Pin From Net: NetName=GND Pin=U3-74
+Removed Pin From Net: NetName=3V3 Pin=U3-75
+Removed Pin From Net: NetName=NetIC1_18 Pin=U3-78
+Removed Pin From Net: NetName=NetIC1_21 Pin=U3-93
+Removed Pin From Net: NetName=NetMD1_28 Pin=U3-94
+Removed Pin From Net: NetName=GND Pin=U3-99
+Removed Pin From Net: NetName=3V3 Pin=U3-100
+Removed Pin From Net: NetName=GND Pin=U4-11
+Removed Pin From Net: NetName=GND Pin=U4-18
+Removed Pin From Net: NetName=GND Pin=U4-19
+Removed Pin From Net: NetName=GND Pin=U4-20
+Removed Pin From Net: NetName=3V3 Pin=U5-1
+Removed Pin From Net: NetName=GND Pin=U5-2
+Removed Pin From Net: NetName=3V3 Pin=U5-3
+Removed Pin From Net: NetName=GND Pin=X1-2
+Removed Pin From Net: NetName=GND Pin=X1-4
+Change Component Footprint: Designator=C2 Old Footprint=CAPC1608X90X35ML10T15 New Footprint=1608[0603]_M
+Change Component Footprint: Designator=C3 Old Footprint=CAPC1608X90X35ML10T15 New Footprint=1608[0603]_M
+Change Component Footprint: Designator=C4 Old Footprint=CAPC1608X90X35ML10T15 New Footprint=1608[0603]_M
+Change Component Footprint: Designator=C5 Old Footprint=CAPC1608X90X35ML10T15 New Footprint=1608[0603]_M
+Change Component Footprint: Designator=C21 Old Footprint=CAPC1608X90X35ML10T15 New Footprint=1608[0603]_M
+Change Component Footprint: Designator=C22 Old Footprint=CAPC1608X90X35ML10T15 New Footprint=1608[0603]_M
+Change Component Footprint: Designator=C23 Old Footprint=CAPC1608X90X35ML10T15 New Footprint=1608[0603]_M
+Change Component Footprint: Designator=C29 Old Footprint=CAPC2013X145X50ML20T25 New Footprint=1608[0603]_M
+Change Component Footprint: Designator=IC1 Old Footprint=CLCC-48_m New Footprint=TQFP-64_M
+Change Component Footprint: Designator=Q1 Old Footprint=FAIR-SOT23-3_V New Footprint=SOT23-3_N
+Change Component Footprint: Designator=C20 Old Footprint=FP-C1206C-EB-MFG New Footprint=1608[0603]_M
+Change Component Footprint: Designator=C24 Old Footprint=FP-C1206C-EB-MFG New Footprint=1608[0603]_M
+Change Component Footprint: Designator=C25 Old Footprint=FP-C1206C-EB-MFG New Footprint=1608[0603]_M
+Change Component Footprint: Designator=C26 Old Footprint=FP-C1206C-EB-MFG New Footprint=1608[0603]_M
+Change Component Footprint: Designator=C28 Old Footprint=FP-C1206C-EB-MFG New Footprint=1608[0603]_M
+Change Component Footprint: Designator=C27 Old Footprint=FP-GRM188-0_1-e0_2_0_5-MFG New Footprint=1608[0603]_M
+Change Component Footprint: Designator=P1 Old Footprint=New footprint 1 New Footprint=New footprint 1
+Change Component Footprint: Designator=R19 Old Footprint=RESC1608X55X30LL15T15 New Footprint=1608[0603]_M
+Change Component Footprint: Designator=R23 Old Footprint=RESC1608X55X30LL15T15 New Footprint=1608[0603]_M
+Change Component Footprint: Designator=R24 Old Footprint=RESC1608X55X30LL15T15 New Footprint=1608[0603]_M
+Change Component Footprint: Designator=R25 Old Footprint=RESC1608X55X30LL15T15 New Footprint=1608[0603]_M
+Change Component Footprint: Designator=R26 Old Footprint=RESC1608X55X30LL15T15 New Footprint=1608[0603]_M
+Change Component Footprint: Designator=R6 Old Footprint=RESC1608X55X30ML15T15 New Footprint=1608[0603]_M
+Change Component Footprint: Designator=R16 Old Footprint=RESC1608X55X30ML15T15 New Footprint=1608[0603]_M
+Change Component Footprint: Designator=R17 Old Footprint=RESC1608X55X30ML15T15 New Footprint=1608[0603]_M
+Change Component Footprint: Designator=R18 Old Footprint=RESC1608X55X30ML15T15 New Footprint=1608[0603]_M
+Change Component Comment : Designator=Q1 Old Comment=BSS138 New Comment=BSS138BK
+Change Component Comment : Designator=C29 Old Comment=C0805C105K4PACTU New Comment=10nF
+Change Component Comment : Designator=C28 Old Comment=C1206C103K1RACTU New Comment=10nF
+Change Component Comment : Designator=C1 Old Comment=C1206C104K1RACTU New Comment=0.1uF
+Change Component Comment : Designator=C20 Old Comment=C1206C104K1RACTU New Comment=0.1uF
+Change Component Comment : Designator=C24 Old Comment=C1206C104K1RACTU New Comment=0.1uF
+Change Component Comment : Designator=C25 Old Comment=C1206C104K1RACTU New Comment=0.1uF
+Change Component Comment : Designator=C26 Old Comment=C1206C104K1RACTU New Comment=10nF
+Change Component Comment : Designator=R25 Old Comment=ERJ3EKF2201V New Comment=4K7
+Change Component Comment : Designator=R19 Old Comment=ERJ3EKF2201V New Comment=10K
+Change Component Comment : Designator=R24 Old Comment=ERJ3EKF2201V New Comment=10K
+Change Component Comment : Designator=R26 Old Comment=ERJ3EKF2201V New Comment=47K
+Change Component Comment : Designator=R23 Old Comment=ERJ3EKF2201V New Comment=330
+Change Component Comment : Designator=R6 Old Comment=ERJ-3EKF1001V New Comment=1K5
+Change Component Comment : Designator=R16 Old Comment=ERJ-3EKF1501V New Comment=1K5
+Change Component Comment : Designator=R17 Old Comment=ERJ-3EKF1501V New Comment=1K
+Change Component Comment : Designator=R18 Old Comment=ERJ-3EKF1501V New Comment=1K
+Change Component Comment : Designator=C27 Old Comment=GRM188R71A225KE15D New Comment=10nF
+Change Component Comment : Designator=C2 Old Comment=GRM1885C1H101JA01D New Comment=0.1uF
+Change Component Comment : Designator=C3 Old Comment=GRM1885C1H101JA01D New Comment=0.1uF
+Change Component Comment : Designator=C4 Old Comment=GRM1885C1H101JA01D New Comment=0.1uF
+Change Component Comment : Designator=C5 Old Comment=GRM1885C1H101JA01D New Comment=0.1uF
+Change Component Comment : Designator=C21 Old Comment=GRM1885C1H101JA01D New Comment=0.1uF
+Change Component Comment : Designator=C22 Old Comment=GRM1885C1H180JA01D New Comment=0.1uF
+Change Component Comment : Designator=C23 Old Comment=GRM1885C1H180JA01D New Comment=0.1uF
+Change Component Comment : Designator=IC1 Old Comment=MT9V034C12STM New Comment=PIC32MZ1024ECG064
+Change Component Designator: OldDesignator=C1 NewDesignator=C15
+Change Component Designator: OldDesignator=C2 NewDesignator=C16
+Change Component Designator: OldDesignator=C3 NewDesignator=C17
+Change Component Designator: OldDesignator=C4 NewDesignator=C18
+Change Component Designator: OldDesignator=C5 NewDesignator=C19
+Change Component Designator: OldDesignator=C6 NewDesignator=C1
+Change Component Designator: OldDesignator=C7 NewDesignator=C2
+Change Component Designator: OldDesignator=C8 NewDesignator=C3
+Change Component Designator: OldDesignator=C9 NewDesignator=C5
+Change Component Designator: OldDesignator=C10 NewDesignator=C6
+Change Component Designator: OldDesignator=C11 NewDesignator=C7
+Change Component Designator: OldDesignator=C12 NewDesignator=C8
+Change Component Designator: OldDesignator=C30 NewDesignator=C4
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=P4 NewDesignator=P1
+Change Component Designator: OldDesignator=P5 NewDesignator=P3
+Change Component Designator: OldDesignator=P6 NewDesignator=P4
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q5
+Change Component Designator: OldDesignator=R6 NewDesignator=R15
+Change Component Designator: OldDesignator=R7 NewDesignator=R1
+Change Component Designator: OldDesignator=R8 NewDesignator=R2
+Change Component Designator: OldDesignator=R9 NewDesignator=R3
+Change Component Designator: OldDesignator=R10 NewDesignator=R4
+Change Component Designator: OldDesignator=R11 NewDesignator=R5
+Change Component Designator: OldDesignator=R12 NewDesignator=R6
+Change Component Designator: OldDesignator=R17 NewDesignator=R20
+Change Component Designator: OldDesignator=R18 NewDesignator=R21
+Change Component Designator: OldDesignator=R19 NewDesignator=R22
+Added Component: Designator=C30(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C31(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C32(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C33(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C34(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C35(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C36(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C37(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C38(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C39(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C40(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C41(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C42(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C43(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C44(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=IC3(CLCC-48_m)
+Add component (AddParameter): Name = "Design Item ID"; Value = "MT9V034C12STM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ImageSensor.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=IC4(VQFN-20-EXPOSED-PAD_M)
+Added Component: Designator=IC5(VQFN-32_M)
+Added Component: Designator=K1(TOUCH_SENSOR_SEED)
+Added Component: Designator=K2(TOUCH_SENSOR_SEED)
+Added Component: Designator=K3(TOUCH_SENSOR_SEED)
+Added Component: Designator=K4(TOUCH_SENSOR_SEED)
+Added Component: Designator=K5(TOUCH_SENSOR_SEED)
+Added Component: Designator=K6(TOUCH_SENSOR_SEED)
+Added Component: Designator=LED1(PLCC4-REVERSE-MOUNT_N)
+Add component (AddParameter): Name = "Value"; Value = "ASMB-MTB0-0A3A2 reverse mount as through hole"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(PLCC4-REVERSE-MOUNT_N)
+Add component (AddParameter): Name = "Value"; Value = "ASMB-MTB0-0A3A2 reverse mount as through hole"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(PLCC4-REVERSE-MOUNT_N)
+Add component (AddParameter): Name = "Value"; Value = "ASMB-MTB0-0A3A2 reverse mount as through hole"; VariantName = "[No Variations]"
+Added Component: Designator=LED4(PLCC4-REVERSE-MOUNT_N)
+Add component (AddParameter): Name = "Value"; Value = "ASMB-MTB0-0A3A2 reverse mount as through hole"; VariantName = "[No Variations]"
+Added Component: Designator=LED5(PLCC4-REVERSE-MOUNT_N)
+Add component (AddParameter): Name = "Value"; Value = "ASMB-MTB0-0A3A2 reverse mount as through hole"; VariantName = "[No Variations]"
+Added Component: Designator=LED6(PLCC4-REVERSE-MOUNT_N)
+Add component (AddParameter): Name = "Value"; Value = "ASMB-MTB0-0A3A2 reverse mount as through hole"; VariantName = "[No Variations]"
+Added Component: Designator=P5(BM05B-SRSS_N)
+Added Component: Designator=R17(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R18(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "Unpopulated"; VariantName = "[No Variations]"
+Added Component: Designator=R19(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R27(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "47K"; VariantName = "[No Variations]"
+Added Component: Designator=R28(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "4K7"; VariantName = "[No Variations]"
+Added Component: Designator=R29(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "4K7"; VariantName = "[No Variations]"
+Added Component: Designator=R30(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "4K7"; VariantName = "[No Variations]"
+Added Component: Designator=R31(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "4K7"; VariantName = "[No Variations]"
+Added Component: Designator=R32(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "4K7"; VariantName = "[No Variations]"
+Added Component: Designator=R33(1608[0603]_M)
+Add component (AddParameter): Name = "Value"; Value = "4K99"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=3V3 Pin=C15-2
+Added Pin To Net: NetName=3V3 Pin=C18-2
+Added Pin To Net: NetName=3V3 Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=A3V3 Pin=C20-2
+Added Pin To Net: NetName=3V3 Pin=C21-2
+Added Pin To Net: NetName=3V3 Pin=C22-2
+Added Pin To Net: NetName=A3V3 Pin=C23-2
+Added Pin To Net: NetName=A3V3 Pin=C24-2
+Added Pin To Net: NetName=A3V3 Pin=C25-2
+Added Pin To Net: NetName=3V3 Pin=C26-2
+Added Pin To Net: NetName=3V3 Pin=C27-2
+Added Pin To Net: NetName=3V3 Pin=C28-2
+Added Pin To Net: NetName=3V3 Pin=C30-2
+Added Pin To Net: NetName=3V3 Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=3V3 Pin=C32-2
+Added Pin To Net: NetName=3V3 Pin=C33-2
+Added Pin To Net: NetName=3V3 Pin=C34-2
+Added Pin To Net: NetName=3V3 Pin=C35-2
+Added Pin To Net: NetName=3V3 Pin=C36-2
+Added Pin To Net: NetName=3V3 Pin=C37-2
+Added Pin To Net: NetName=3V3 Pin=C38-2
+Added Pin To Net: NetName=3V3 Pin=C39-2
+Added Pin To Net: NetName=3V3 Pin=C40-2
+Added Pin To Net: NetName=3V3 Pin=C41-2
+Added Pin To Net: NetName=3V3 Pin=C42-2
+Added Pin To Net: NetName=3V3 Pin=C43-2
+Added Pin To Net: NetName=3V3 Pin=C44-2
+Added Pin To Net: NetName=U0TXD Pin=IC1-4
+Added Pin To Net: NetName=U0RXD Pin=IC1-5
+Added Pin To Net: NetName=3V3 Pin=IC1-8
+Added Pin To Net: NetName=A3V3 Pin=IC1-19
+Added Pin To Net: NetName=GND Pin=IC1-20
+Added Pin To Net: NetName=GND Pin=IC1-25
+Added Pin To Net: NetName=3V3 Pin=IC1-26
+Added Pin To Net: NetName=GND Pin=IC1-35
+Added Pin To Net: NetName=3V3 Pin=IC1-39
+Added Pin To Net: NetName=GND Pin=IC1-40
+Added Pin To Net: NetName=PIXEL_WR Pin=IC1-52
+Added Pin To Net: NetName=3V3 Pin=IC1-54
+Added Pin To Net: NetName=GND Pin=IC1-55
+Added Pin To Net: NetName=GND Pin=IC1-59
+Added Pin To Net: NetName=3V3 Pin=IC1-60
+Added Pin To Net: NetName=3V3 Pin=IC3-1
+Added Pin To Net: NetName=3V3 Pin=IC3-6
+Added Pin To Net: NetName=GND Pin=IC3-7
+Added Pin To Net: NetName=GND Pin=IC3-9
+Added Pin To Net: NetName=GND Pin=IC3-11
+Added Pin To Net: NetName=GND Pin=IC3-12
+Added Pin To Net: NetName=GND Pin=IC3-13
+Added Pin To Net: NetName=3V3 Pin=IC3-14
+Added Pin To Net: NetName=NetIC1_45 Pin=IC3-21
+Added Pin To Net: NetName=GND Pin=IC3-29
+Added Pin To Net: NetName=GND Pin=IC3-30
+Added Pin To Net: NetName=GND Pin=IC3-31
+Added Pin To Net: NetName=GND Pin=IC3-34
+Added Pin To Net: NetName=A3V3 Pin=IC3-35
+Added Pin To Net: NetName=GND Pin=IC3-38
+Added Pin To Net: NetName=A3V3 Pin=IC3-39
+Added Pin To Net: NetName=A3V3 Pin=IC3-40
+Added Pin To Net: NetName=PIXEL_WR Pin=IC3-46
+Added Pin To Net: NetName=GND Pin=IC3-48
+Added Pin To Net: NetName=A3V3 Pin=IC4-9
+Added Pin To Net: NetName=3V3 Pin=IC5-28
+Added Pin To Net: NetName=GND Pin=IC5-29
+Added Pin To Net: NetName=GND Pin=IC5-30
+Added Pin To Net: NetName=NetIC1_21 Pin=J1-5
+Added Pin To Net: NetName=NetIC1_18 Pin=J1-6
+Added Pin To Net: NetName=NetIC1_17 Pin=J1-7
+Added Pin To Net: NetName=3V3 Pin=LED1-1
+Added Pin To Net: NetName=3V3 Pin=LED2-1
+Added Pin To Net: NetName=3V3 Pin=LED3-1
+Added Pin To Net: NetName=3V3 Pin=LED4-1
+Added Pin To Net: NetName=3V3 Pin=LED5-1
+Added Pin To Net: NetName=3V3 Pin=LED6-1
+Added Pin To Net: NetName=3V3 Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P5-3
+Added Pin To Net: NetName=3V3 Pin=R15-2
+Added Pin To Net: NetName=3V3 Pin=R17-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=3V3 Pin=R19-2
+Added Pin To Net: NetName=3V3 Pin=R22-2
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=3V3 Pin=R26-2
+Added Pin To Net: NetName=3V3 Pin=R27-2
+Added Pin To Net: NetName=GND Pin=R33-1
+Change Net Name : Old Net Name=NetC8_2 New Net Name=NetC3_2
+Change Net Name : Old Net Name=NetC10_1 New Net Name=NetC6_1
+Change Net Name : Old Net Name=NetR10_1 New Net Name=NetR4_1
+Added Pin To Net: NetName=AGND Pin=C23-1
+Added Pin To Net: NetName=AGND Pin=C24-1
+Added Pin To Net: NetName=AGND Pin=C25-1
+Added Pin To Net: NetName=AGND Pin=IC4-8
+Added Pin To Net: NetName=AGND Pin=IC4-11
+Added Net: Name=AGND
+Added Pin To Net: NetName=IMG_CLK Pin=IC1-44
+Added Pin To Net: NetName=IMG_CLK Pin=IC3-47
+Added Net: Name=IMG_CLK
+Added Pin To Net: NetName=IMG_EXPOSURE Pin=IC1-51
+Added Pin To Net: NetName=IMG_EXPOSURE Pin=IC3-23
+Added Net: Name=IMG_EXPOSURE
+Added Pin To Net: NetName=LED1_BLUE Pin=C28-1
+Added Pin To Net: NetName=LED1_BLUE Pin=IC5-3
+Added Pin To Net: NetName=LED1_BLUE Pin=LED1-2
+Added Net: Name=LED1_BLUE
+Added Pin To Net: NetName=LED1_GREEN Pin=C27-1
+Added Pin To Net: NetName=LED1_GREEN Pin=IC5-2
+Added Pin To Net: NetName=LED1_GREEN Pin=LED1-3
+Added Net: Name=LED1_GREEN
+Added Pin To Net: NetName=LED1_RED Pin=C26-1
+Added Pin To Net: NetName=LED1_RED Pin=IC5-1
+Added Pin To Net: NetName=LED1_RED Pin=LED1-4
+Added Net: Name=LED1_RED
+Added Pin To Net: NetName=LED2_BLUE Pin=C31-1
+Added Pin To Net: NetName=LED2_BLUE Pin=IC5-6
+Added Pin To Net: NetName=LED2_BLUE Pin=LED2-2
+Added Net: Name=LED2_BLUE
+Added Pin To Net: NetName=LED2_GREEN Pin=C30-1
+Added Pin To Net: NetName=LED2_GREEN Pin=IC5-5
+Added Pin To Net: NetName=LED2_GREEN Pin=LED2-3
+Added Net: Name=LED2_GREEN
+Added Pin To Net: NetName=LED2_RED Pin=C29-1
+Added Pin To Net: NetName=LED2_RED Pin=IC5-4
+Added Pin To Net: NetName=LED2_RED Pin=LED2-4
+Added Net: Name=LED2_RED
+Added Pin To Net: NetName=LED3_BLUE Pin=C35-1
+Added Pin To Net: NetName=LED3_BLUE Pin=IC5-9
+Added Pin To Net: NetName=LED3_BLUE Pin=LED3-2
+Added Net: Name=LED3_BLUE
+Added Pin To Net: NetName=LED3_GREEN Pin=C34-1
+Added Pin To Net: NetName=LED3_GREEN Pin=IC5-8
+Added Pin To Net: NetName=LED3_GREEN Pin=LED3-3
+Added Net: Name=LED3_GREEN
+Added Pin To Net: NetName=LED3_RED Pin=C33-1
+Added Pin To Net: NetName=LED3_RED Pin=IC5-7
+Added Pin To Net: NetName=LED3_RED Pin=LED3-4
+Added Net: Name=LED3_RED
+Added Pin To Net: NetName=LED4_BLUE Pin=C38-1
+Added Pin To Net: NetName=LED4_BLUE Pin=IC5-12
+Added Pin To Net: NetName=LED4_BLUE Pin=LED4-2
+Added Net: Name=LED4_BLUE
+Added Pin To Net: NetName=LED4_GREEN Pin=C37-1
+Added Pin To Net: NetName=LED4_GREEN Pin=IC5-11
+Added Pin To Net: NetName=LED4_GREEN Pin=LED4-3
+Added Net: Name=LED4_GREEN
+Added Pin To Net: NetName=LED4_RED Pin=C36-1
+Added Pin To Net: NetName=LED4_RED Pin=IC5-10
+Added Pin To Net: NetName=LED4_RED Pin=LED4-4
+Added Net: Name=LED4_RED
+Added Pin To Net: NetName=LED5_BLUE Pin=C41-1
+Added Pin To Net: NetName=LED5_BLUE Pin=IC5-15
+Added Pin To Net: NetName=LED5_BLUE Pin=LED5-2
+Added Net: Name=LED5_BLUE
+Added Pin To Net: NetName=LED5_GREEN Pin=C40-1
+Added Pin To Net: NetName=LED5_GREEN Pin=IC5-14
+Added Pin To Net: NetName=LED5_GREEN Pin=LED5-3
+Added Net: Name=LED5_GREEN
+Added Pin To Net: NetName=LED5_RED Pin=C39-1
+Added Pin To Net: NetName=LED5_RED Pin=IC5-13
+Added Pin To Net: NetName=LED5_RED Pin=LED5-4
+Added Net: Name=LED5_RED
+Added Pin To Net: NetName=LED6_BLUE Pin=C44-1
+Added Pin To Net: NetName=LED6_BLUE Pin=IC5-18
+Added Pin To Net: NetName=LED6_BLUE Pin=LED6-2
+Added Net: Name=LED6_BLUE
+Added Pin To Net: NetName=LED6_GREEN Pin=C43-1
+Added Pin To Net: NetName=LED6_GREEN Pin=IC5-17
+Added Pin To Net: NetName=LED6_GREEN Pin=LED6-3
+Added Net: Name=LED6_GREEN
+Added Pin To Net: NetName=LED6_RED Pin=C42-1
+Added Pin To Net: NetName=LED6_RED Pin=IC5-16
+Added Pin To Net: NetName=LED6_RED Pin=LED6-4
+Added Net: Name=LED6_RED
+Added Pin To Net: NetName=LED_SCLK Pin=IC1-49
+Added Pin To Net: NetName=LED_SCLK Pin=IC5-31
+Added Net: Name=LED_SCLK
+Added Pin To Net: NetName=LED_SIN Pin=IC1-47
+Added Pin To Net: NetName=LED_SIN Pin=IC5-32
+Added Net: Name=LED_SIN
+Added Pin To Net: NetName=LED_XLAT Pin=IC1-48
+Added Pin To Net: NetName=LED_XLAT Pin=IC5-26
+Added Net: Name=LED_XLAT
+Added Pin To Net: NetName=M\C\L\R\ Pin=IC1-9
+Added Pin To Net: NetName=M\C\L\R\ Pin=P5-1
+Added Pin To Net: NetName=M\C\L\R\ Pin=R17-1
+Added Net: Name=M\C\L\R\
+Added Pin To Net: NetName=NetIC1_6 Pin=IC1-6
+Added Net: Name=NetIC1_6
+Added Pin To Net: NetName=NetIC1_14 Pin=IC1-14
+Added Pin To Net: NetName=NetIC1_14 Pin=J1-8
+Added Net: Name=NetIC1_14
+Added Pin To Net: NetName=NetIC1_22 Pin=IC1-22
+Added Pin To Net: NetName=NetIC1_22 Pin=J1-4
+Added Net: Name=NetIC1_22
+Added Pin To Net: NetName=NetIC1_23 Pin=IC1-23
+Added Pin To Net: NetName=NetIC1_23 Pin=J1-3
+Added Net: Name=NetIC1_23
+Added Pin To Net: NetName=NetIC1_30 Pin=IC1-30
+Added Pin To Net: NetName=NetIC1_30 Pin=R19-1
+Added Net: Name=NetIC1_30
+Added Pin To Net: NetName=NetIC1_31 Pin=IC1-31
+Added Net: Name=NetIC1_31
+Added Pin To Net: NetName=NetIC1_32 Pin=IC1-32
+Added Net: Name=NetIC1_32
+Added Pin To Net: NetName=NetIC1_46 Pin=IC1-46
+Added Pin To Net: NetName=NetIC1_46 Pin=IC3-28
+Added Pin To Net: NetName=NetIC1_46 Pin=R24-2
+Added Net: Name=NetIC1_46
+Added Pin To Net: NetName=NetIC1_50 Pin=IC1-50
+Added Pin To Net: NetName=NetIC1_50 Pin=IC3-32
+Added Pin To Net: NetName=NetIC1_50 Pin=R22-1
+Added Net: Name=NetIC1_50
+Added Pin To Net: NetName=NetIC1_53 Pin=IC1-53
+Added Pin To Net: NetName=NetIC1_53 Pin=R18-2
+Added Net: Name=NetIC1_53
+Added Pin To Net: NetName=NetIC1_56 Pin=IC1-56
+Added Pin To Net: NetName=NetIC1_56 Pin=IC3-33
+Added Net: Name=NetIC1_56
+Added Pin To Net: NetName=NetIC1_57 Pin=IC1-57
+Added Pin To Net: NetName=NetIC1_57 Pin=IC3-20
+Added Net: Name=NetIC1_57
+Added Pin To Net: NetName=NetIC3_8 Pin=IC3-8
+Added Pin To Net: NetName=NetIC3_8 Pin=R20-1
+Added Net: Name=NetIC3_8
+Added Pin To Net: NetName=NetIC3_10 Pin=IC3-10
+Added Pin To Net: NetName=NetIC3_10 Pin=R21-1
+Added Net: Name=NetIC3_10
+Added Pin To Net: NetName=NetIC3_27 Pin=IC3-27
+Added Pin To Net: NetName=NetIC3_27 Pin=R23-1
+Added Net: Name=NetIC3_27
+Added Pin To Net: NetName=NetIC4_1 Pin=IC4-1
+Added Pin To Net: NetName=NetIC4_1 Pin=R31-2
+Added Net: Name=NetIC4_1
+Added Pin To Net: NetName=NetIC4_2 Pin=IC4-2
+Added Pin To Net: NetName=NetIC4_2 Pin=R30-2
+Added Net: Name=NetIC4_2
+Added Pin To Net: NetName=NetIC4_3 Pin=IC4-3
+Added Pin To Net: NetName=NetIC4_3 Pin=R29-2
+Added Net: Name=NetIC4_3
+Added Pin To Net: NetName=NetIC4_4 Pin=IC4-4
+Added Pin To Net: NetName=NetIC4_4 Pin=R28-2
+Added Net: Name=NetIC4_4
+Added Pin To Net: NetName=NetIC4_5 Pin=IC4-5
+Added Pin To Net: NetName=NetIC4_5 Pin=R25-2
+Added Net: Name=NetIC4_5
+Added Pin To Net: NetName=NetIC4_17 Pin=IC4-17
+Added Pin To Net: NetName=NetIC4_17 Pin=R32-2
+Added Net: Name=NetIC4_17
+Added Pin To Net: NetName=NetIC5_27 Pin=IC5-27
+Added Pin To Net: NetName=NetIC5_27 Pin=R33-2
+Added Net: Name=NetIC5_27
+Added Pin To Net: NetName=NetK1_1 Pin=K1-1
+Added Pin To Net: NetName=NetK1_1 Pin=R25-1
+Added Net: Name=NetK1_1
+Added Pin To Net: NetName=NetK2_1 Pin=K2-1
+Added Pin To Net: NetName=NetK2_1 Pin=R28-1
+Added Net: Name=NetK2_1
+Added Pin To Net: NetName=NetK3_1 Pin=K3-1
+Added Pin To Net: NetName=NetK3_1 Pin=R29-1
+Added Net: Name=NetK3_1
+Added Pin To Net: NetName=NetK4_1 Pin=K4-1
+Added Pin To Net: NetName=NetK4_1 Pin=R30-1
+Added Net: Name=NetK4_1
+Added Pin To Net: NetName=NetK5_1 Pin=K5-1
+Added Pin To Net: NetName=NetK5_1 Pin=R31-1
+Added Net: Name=NetK5_1
+Added Pin To Net: NetName=NetK6_1 Pin=K6-1
+Added Pin To Net: NetName=NetK6_1 Pin=R32-1
+Added Net: Name=NetK6_1
+Added Pin To Net: NetName=NetMD1_18 Pin=MD1-18
+Added Net: Name=NetMD1_18
+Added Pin To Net: NetName=NetMD1_27 Pin=MD1-27
+Added Net: Name=NetMD1_27
+Added Pin To Net: NetName=NetQ5_G Pin=R23-2
+Added Pin To Net: NetName=NetQ5_G Pin=Q5-1
+Added Net: Name=NetQ5_G
+Added Pin To Net: NetName=PGEC Pin=IC1-15
+Added Pin To Net: NetName=PGEC Pin=P5-5
+Added Net: Name=PGEC
+Added Pin To Net: NetName=PGED Pin=IC1-16
+Added Pin To Net: NetName=PGED Pin=P5-4
+Added Net: Name=PGED
+Added Pin To Net: NetName=PIXEL_D0 Pin=IC1-58
+Added Pin To Net: NetName=PIXEL_D0 Pin=IC3-43
+Added Net: Name=PIXEL_D0
+Added Pin To Net: NetName=PIXEL_D1 Pin=IC1-61
+Added Pin To Net: NetName=PIXEL_D1 Pin=IC3-42
+Added Net: Name=PIXEL_D1
+Added Pin To Net: NetName=PIXEL_D2 Pin=IC1-62
+Added Pin To Net: NetName=PIXEL_D2 Pin=IC3-41
+Added Net: Name=PIXEL_D2
+Added Pin To Net: NetName=PIXEL_D3 Pin=IC1-63
+Added Pin To Net: NetName=PIXEL_D3 Pin=IC3-15
+Added Net: Name=PIXEL_D3
+Added Pin To Net: NetName=PIXEL_D4 Pin=IC1-64
+Added Pin To Net: NetName=PIXEL_D4 Pin=IC3-16
+Added Net: Name=PIXEL_D4
+Added Pin To Net: NetName=PIXEL_D5 Pin=IC1-1
+Added Pin To Net: NetName=PIXEL_D5 Pin=IC3-17
+Added Net: Name=PIXEL_D5
+Added Pin To Net: NetName=PIXEL_D6 Pin=IC1-2
+Added Pin To Net: NetName=PIXEL_D6 Pin=IC3-18
+Added Net: Name=PIXEL_D6
+Added Pin To Net: NetName=PIXEL_D7 Pin=IC1-3
+Added Pin To Net: NetName=PIXEL_D7 Pin=IC3-19
+Added Net: Name=PIXEL_D7
+Added Pin To Net: NetName=SCL Pin=IC1-42
+Added Pin To Net: NetName=SCL Pin=IC3-25
+Added Pin To Net: NetName=SCL Pin=IC4-15
+Added Pin To Net: NetName=SCL Pin=P2-2
+Added Pin To Net: NetName=SCL Pin=R15-1
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=IC1-41
+Added Pin To Net: NetName=SDA Pin=IC3-24
+Added Pin To Net: NetName=SDA Pin=IC4-12
+Added Pin To Net: NetName=SDA Pin=P2-1
+Added Pin To Net: NetName=SDA Pin=R16-1
+Added Net: Name=SDA
+Added Pin To Net: NetName=TOUCH_C\H\A\N\G\E\ Pin=IC1-43
+Added Pin To Net: NetName=TOUCH_C\H\A\N\G\E\ Pin=IC4-14
+Added Pin To Net: NetName=TOUCH_C\H\A\N\G\E\ Pin=R27-1
+Added Net: Name=TOUCH_C\H\A\N\G\E\
+Added Pin To Net: NetName=TOUCH_R\E\S\E\T\ Pin=IC4-13
+Added Pin To Net: NetName=TOUCH_R\E\S\E\T\ Pin=R26-1
+Added Net: Name=TOUCH_R\E\S\E\T\
+Added Member To Class: ClassName=ESP32 Member=Component C1 GRM1885C1H101JA01D
+Added Member To Class: ClassName=ESP32 Member=Component C2 GRM1885C1H101JA01D
+Added Member To Class: ClassName=power Member=Component C3 C1206C104K1RACTU
+Added Member To Class: ClassName=power Member=Component C4 CAP 22uF 6.3V 1206(3216)
+Added Member To Class: ClassName=power Member=Component C5 GRM188R60J106ME47D
+Added Member To Class: ClassName=power Member=Component C6 C1206C104K1RACTU
+Added Member To Class: ClassName=power Member=Component C7 GRM155R60J475ME47D
+Added Member To Class: ClassName=power Member=Component C8 GRM155R60J475ME47D
+Added Member To Class: ClassName=MCU Member=Component C15 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C16 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C17 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C18 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C19 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C20 0.1uF
+Added Member To Class: ClassName=U_optics Member=Component C21 0.1uF
+Added Member To Class: ClassName=U_optics Member=Component C22 0.1uF
+Added Member To Class: ClassName=U_optics Member=Component C23 0.1uF
+Added Member To Class: ClassName=U_optics Member=Component C24 0.1uF
+Added Member To Class: ClassName=U_main UI Member=Component C25 0.1uF
+Added Member To Class: ClassName=U_main UI Member=Component C26 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C27 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C28 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C29 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C30 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C31 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C32 0.1uF
+Added Member To Class: ClassName=U_main UI Member=Component C33 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C34 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C35 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C36 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C37 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C38 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C39 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C40 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C41 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C42 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C43 10nF
+Added Member To Class: ClassName=U_main UI Member=Component C44 10nF
+Added Member To Class: ClassName=U_optics Member=Component IC3 MT9V034C12STM
+Added Member To Class: ClassName=U_main UI Member=Component IC4 AT42QT1070-MMH
+Added Member To Class: ClassName=U_main UI Member=Component IC5 TLC5947
+Added Member To Class: ClassName=interconnect Member=Component J1 503480-1000
+Added Member To Class: ClassName=interconnect Member=Component J2 473460001
+Added Member To Class: ClassName=ESP32 Member=Component J3 Socket
+Added Member To Class: ClassName=ESP32 Member=Component J4 503480-1000
+Added Member To Class: ClassName=ESP32 Member=Component J5 Socket
+Added Member To Class: ClassName=ESP32 Member=Component J6 Socket
+Added Member To Class: ClassName=ESP32 Member=Component J7 Socket
+Added Member To Class: ClassName=ESP32 Member=Component J8 Socket
+Added Member To Class: ClassName=ESP32 Member=Component J9 Socket
+Added Member To Class: ClassName=U_main UI Member=Component K1 SELF-CAP-TOUCH-SENSOR-PAD
+Added Member To Class: ClassName=U_main UI Member=Component K2 SELF-CAP-TOUCH-SENSOR-PAD
+Added Member To Class: ClassName=U_main UI Member=Component K3 SELF-CAP-TOUCH-SENSOR-PAD
+Added Member To Class: ClassName=U_main UI Member=Component K4 SELF-CAP-TOUCH-SENSOR-PAD
+Added Member To Class: ClassName=U_main UI Member=Component K5 SELF-CAP-TOUCH-SENSOR-PAD
+Added Member To Class: ClassName=U_main UI Member=Component K6 SELF-CAP-TOUCH-SENSOR-PAD
+Added Member To Class: ClassName=power Member=Component L1 SRN3015-4R7M
+Added Member To Class: ClassName=U_main UI Member=Component LED1 ASMB-MTB0-0A3A2 reverse mount as through hole
+Added Member To Class: ClassName=U_main UI Member=Component LED2 ASMB-MTB0-0A3A2 reverse mount as through hole
+Added Member To Class: ClassName=U_main UI Member=Component LED3 ASMB-MTB0-0A3A2 reverse mount as through hole
+Added Member To Class: ClassName=U_main UI Member=Component LED4 ASMB-MTB0-0A3A2 reverse mount as through hole
+Added Member To Class: ClassName=U_main UI Member=Component LED5 ASMB-MTB0-0A3A2 reverse mount as through hole
+Added Member To Class: ClassName=U_main UI Member=Component LED6 ASMB-MTB0-0A3A2 reverse mount as through hole
+Added Member To Class: ClassName=ESP32 Member=Component MD1 ESP32-WROOM-32
+Added Member To Class: ClassName=interconnect Member=Component P1 Header 3
+Added Member To Class: ClassName=interconnect Member=Component P2 811-S1-006-30-015101
+Added Member To Class: ClassName=ESP32 Member=Component P3 Header 2
+Added Member To Class: ClassName=ESP32 Member=Component P4 LED_strip
+Added Member To Class: ClassName=MCU Member=Component P5 Connector 5
+Added Member To Class: ClassName=U_optics Member=Component Q5 BSS138BK
+Added Member To Class: ClassName=ESP32 Member=Component R1 ERJ-3EKF1001V
+Added Member To Class: ClassName=ESP32 Member=Component R2 ERJ-3EKF1001V
+Added Member To Class: ClassName=power Member=Component R3 ERJ-3EKF2004V
+Added Member To Class: ClassName=power Member=Component R4 ERJ-3EKF2004V
+Added Member To Class: ClassName=power Member=Component R5 ERJ-3EKF2203V
+Added Member To Class: ClassName=power Member=Component R6 ERJ-3EKF2203V
+Added Member To Class: ClassName=MCU Member=Component R15 1K5
+Added Member To Class: ClassName=MCU Member=Component R16 1K5
+Added Member To Class: ClassName=MCU Member=Component R17 10K
+Added Member To Class: ClassName=MCU Member=Component R18 Unpopulated
+Added Member To Class: ClassName=MCU Member=Component R19 10K
+Added Member To Class: ClassName=U_optics Member=Component R20 1K
+Added Member To Class: ClassName=U_optics Member=Component R21 1K
+Added Member To Class: ClassName=U_optics Member=Component R22 10K
+Added Member To Class: ClassName=U_optics Member=Component R23 330
+Added Member To Class: ClassName=U_optics Member=Component R24 10K
+Added Member To Class: ClassName=U_main UI Member=Component R25 4K7
+Added Member To Class: ClassName=U_main UI Member=Component R26 47K
+Added Member To Class: ClassName=U_main UI Member=Component R27 47K
+Added Member To Class: ClassName=U_main UI Member=Component R28 4K7
+Added Member To Class: ClassName=U_main UI Member=Component R29 4K7
+Added Member To Class: ClassName=U_main UI Member=Component R30 4K7
+Added Member To Class: ClassName=U_main UI Member=Component R31 4K7
+Added Member To Class: ClassName=U_main UI Member=Component R32 4K7
+Added Member To Class: ClassName=U_main UI Member=Component R33 4K99
+Added Member To Class: ClassName=ESP32 Member=Component SW1 B3U-1000P
+Added Member To Class: ClassName=ESP32 Member=Component SW2 B3U-1000P
+Added Member To Class: ClassName=power Member=Component U1 TPS61200DRCT
+Added Member To Class: ClassName=power Member=Component U2 LP2980AIM5-3.3/NOPB
+Added Member To Class: ClassName=PIXEL_D[0..7] Member=Element[0]: PIXEL_D
+Added Member To Class: ClassName=PIXEL_D[0..7] Member=Element[1]: PIXEL_D
+Added Member To Class: ClassName=PIXEL_D[0..7] Member=Element[2]: PIXEL_D
+Added Member To Class: ClassName=PIXEL_D[0..7] Member=Element[3]: PIXEL_D
+Added Member To Class: ClassName=PIXEL_D[0..7] Member=Element[4]: PIXEL_D
+Added Member To Class: ClassName=PIXEL_D[0..7] Member=Element[5]: PIXEL_D
+Added Member To Class: ClassName=PIXEL_D[0..7] Member=Element[6]: PIXEL_D
+Added Member To Class: ClassName=PIXEL_D[0..7] Member=Element[7]: PIXEL_D
+Added Room: Name=ESP32
+Added Room: Name=interconnect
+Added Room: Name=MCU
+Added Room: Name=power
+Added Room: Name=U_main UI
+Added Room: Name=U_optics

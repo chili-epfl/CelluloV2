@@ -1,0 +1,36 @@
+Added Component: Designator=LED1(PLCC2_WITH_HEATSINK)
+Add component (AddParameter): Name = "Post-assembly job"; Value = "Extend to a VSMY3850-GS08 with cables"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Unpopulated"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(PLCC2_WITH_HEATSINK)
+Add component (AddParameter): Name = "Post-assembly job"; Value = "Extend to a VSMY3850-GS08 with cables"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Unpopulated"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(PLCC2_WITH_HEATSINK)
+Add component (AddParameter): Name = "Post-assembly job"; Value = "Extend to a VSMY3850-GS08 with cables"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Unpopulated"; VariantName = "[No Variations]"
+Added Component: Designator=R26(2012[0805]_M)
+Add component (AddParameter): Name = "Value"; Value = "26R1, 0.1%, 1/8W"; VariantName = "[No Variations]"
+Added Component: Designator=R27(2012[0805]_M)
+Add component (AddParameter): Name = "Value"; Value = "26R1, 0.1%, 1/8W"; VariantName = "[No Variations]"
+Added Component: Designator=R28(2012[0805]_M)
+Add component (AddParameter): Name = "Value"; Value = "26R1, 0.1%, 1/8W"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=LED1-1
+Added Pin To Net: NetName=3V3 Pin=LED2-1
+Added Pin To Net: NetName=3V3 Pin=LED3-1
+Added Pin To Net: NetName=NetJ1_9 Pin=R26-1
+Added Pin To Net: NetName=NetJ1_9 Pin=R27-1
+Added Pin To Net: NetName=NetJ1_9 Pin=R28-1
+Added Pin To Net: NetName=NetLED1_K Pin=R26-2
+Added Pin To Net: NetName=NetLED1_K Pin=LED1-2
+Added Net: Name=NetLED1_K
+Added Pin To Net: NetName=NetLED2_K Pin=R27-2
+Added Pin To Net: NetName=NetLED2_K Pin=LED2-2
+Added Net: Name=NetLED2_K
+Added Pin To Net: NetName=NetLED3_K Pin=R28-2
+Added Pin To Net: NetName=NetLED3_K Pin=LED3-2
+Added Net: Name=NetLED3_K
+Added Member To Class: ClassName=U_optics Member=Component LED1 Unpopulated
+Added Member To Class: ClassName=U_optics Member=Component LED2 Unpopulated
+Added Member To Class: ClassName=U_optics Member=Component LED3 Unpopulated
+Added Member To Class: ClassName=U_optics Member=Component R26 26R1, 0.1%, 1/8W
+Added Member To Class: ClassName=U_optics Member=Component R27 26R1, 0.1%, 1/8W
+Added Member To Class: ClassName=U_optics Member=Component R28 26R1, 0.1%, 1/8W

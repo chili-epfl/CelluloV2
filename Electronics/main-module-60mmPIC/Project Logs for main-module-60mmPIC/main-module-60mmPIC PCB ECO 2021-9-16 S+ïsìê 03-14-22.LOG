@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=3V3 Pin=LED1-1
+Removed Pin From Net: NetName=NetLED1_K Pin=LED1-2
+Removed Pin From Net: NetName=3V3 Pin=LED2-1
+Removed Pin From Net: NetName=NetLED2_K Pin=LED2-2
+Removed Pin From Net: NetName=3V3 Pin=LED3-1
+Removed Pin From Net: NetName=NetLED3_K Pin=LED3-2
+Change Component Footprint: Designator=LED1 Old Footprint=PLCC2_WITH_HEATSINK New Footprint=CABLE-TERMINAL1x2
+Change Component Footprint: Designator=LED2 Old Footprint=PLCC2_WITH_HEATSINK New Footprint=CABLE-TERMINAL1x2
+Change Component Footprint: Designator=LED3 Old Footprint=PLCC2_WITH_HEATSINK New Footprint=CABLE-TERMINAL1x2

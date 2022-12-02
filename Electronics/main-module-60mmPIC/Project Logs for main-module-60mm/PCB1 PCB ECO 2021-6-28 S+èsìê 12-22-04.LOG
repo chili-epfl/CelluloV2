@@ -1,0 +1,78 @@
+Removed Pin From Net: NetName=GND Pin=NT1-1
+Removed Pin From Net: NetName=GND Pin=NT1-2
+Removed Member From Class: ClassName=power Member=NT1
+Added Component: Designator=D1(3.5X2.8X1.9)
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "16-Apr-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Dec-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "PCB Footprint replaced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SM LED; 2 C-Bend Leads; Body 3.5 x 2.8 x 1.9 mm, inc leads (LxWxH typ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.5X2.8X1.9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "16-Apr-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D2(3.5X2.8X1.9)
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "16-Apr-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Dec-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "PCB Footprint replaced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SM LED; 2 C-Bend Leads; Body 3.5 x 2.8 x 1.9 mm, inc leads (LxWxH typ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.5X2.8X1.9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "16-Apr-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D3(3.5X2.8X1.9)
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "16-Apr-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Dec-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "PCB Footprint replaced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SM LED; 2 C-Bend Leads; Body 3.5 x 2.8 x 1.9 mm, inc leads (LxWxH typ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.5X2.8X1.9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "16-Apr-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R4(J1-0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(J1-0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(J1-0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=3V3 Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=3V3 Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetJ1_9 Pin=R4-1
+Added Pin To Net: NetName=NetD1_2 Pin=R4-2
+Added Pin To Net: NetName=NetJ1_9 Pin=R5-1
+Added Pin To Net: NetName=NetD2_2 Pin=R5-2
+Added Pin To Net: NetName=NetJ1_9 Pin=R6-1
+Added Pin To Net: NetName=NetD3_2 Pin=R6-2
+Added Member To Class: ClassName=Optics Member=Component D1 LED3
+Added Member To Class: ClassName=Optics Member=Component D2 LED3
+Added Member To Class: ClassName=Optics Member=Component D3 LED3
+Added Member To Class: ClassName=ESP32 Member=Component J8 Socket
+Added Member To Class: ClassName=Optics Member=Component R4 Res3
+Added Member To Class: ClassName=Optics Member=Component R5 Res3
+Added Member To Class: ClassName=Optics Member=Component R6 Res3
+Added Room: Name=ESP32
+Added Room: Name=interconnect
+Added Room: Name=Optics
+Added Room: Name=power
+Added Room: Name=stm32F7

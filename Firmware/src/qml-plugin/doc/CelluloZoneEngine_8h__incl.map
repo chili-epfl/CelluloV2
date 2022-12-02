@@ -1,0 +1,13 @@
+<map id="src/zones/CelluloZoneEngine.h" name="src/zones/CelluloZoneEngine.h">
+<area shape="rect" id="node8" href="$CelluloZoneCircle_8h.html" title="Header for circle zone. " alt="" coords="377,80,513,107"/>
+<area shape="rect" id="node24" href="$CelluloZoneRectangle_8h.html" title="Header for the rectangular zone. " alt="" coords="537,80,699,107"/>
+<area shape="rect" id="node25" href="$CelluloZoneLine_8h.html" title="Header for the line zone. " alt="" coords="723,80,849,107"/>
+<area shape="rect" id="node26" href="$CelluloZonePoint_8h.html" title="Header for the point zone. " alt="" coords="873,80,1005,107"/>
+<area shape="rect" id="node27" href="$CelluloZonePolygon_8h.html" title="Header for the polygon zone. " alt="" coords="1229,80,1378,107"/>
+<area shape="rect" id="node29" href="$CelluloZoneJsonHandler_8h.html" title="Header for zone JSON tools. " alt="" coords="1029,80,1204,107"/>
+<area shape="rect" id="node9" href="$CelluloZone_8h.html" title="Header for base class zone architecture. " alt="" coords="568,155,671,181"/>
+<area shape="rect" id="node15" href="$CelluloZoneTypes_8h.html" title="Header for zone type tools. " alt="" coords="681,229,819,256"/>
+<area shape="rect" id="node20" href="$CelluloZoneClient_8h.html" title="Header for the Cellulo zone client. " alt="" coords="89,229,225,256"/>
+<area shape="rect" id="node21" href="$CelluloZonePaintedItem_8h.html" title="Header for a QML compatible QQuickPaintedItem for Cellulo zones. " alt="" coords="300,229,472,256"/>
+<area shape="rect" id="node17" href="$CelluloEnumDecl_8h.html" title="Header for CelluloBluetooth enums. " alt="" coords="1131,304,1278,331"/>
+</map>

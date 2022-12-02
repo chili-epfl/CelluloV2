@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:38:49 On 12/07/2022
+
+Output: P-CAD ASCII (AutoPCB)
+Type  : Exporter Wrapper
+From  : PCB Document [main-module-60mmPIC.PcbDoc]
+   Generated File[main-module-60mmPIC.PCB]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:39:25 On 12/07/2022

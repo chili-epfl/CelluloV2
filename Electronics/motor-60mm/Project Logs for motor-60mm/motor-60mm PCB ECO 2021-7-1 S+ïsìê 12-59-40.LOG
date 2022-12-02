@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=3V3 Pin=C11-2
+Removed Pin From Net: NetName=NetC3_1 Pin=M1-1
+Removed Pin From Net: NetName=NetC3_2 Pin=M1-2
+Removed Pin From Net: NetName=NetC6_1 Pin=M2-1
+Removed Pin From Net: NetName=NetC6_2 Pin=M2-2
+Removed Pin From Net: NetName=NetC9_1 Pin=M3-1
+Removed Pin From Net: NetName=NetC9_2 Pin=M3-2
+Removed Pin From Net: NetName=GND Pin=U4-1
+Removed Pin From Net: NetName=3V3 Pin=U4-2
+Removed Pin From Net: NetName=3V3 Pin=U4-4
+Removed Member From Class: ClassName=motor Member=C10
+Removed Member From Class: ClassName=motor Member=C11
+Removed Member From Class: ClassName=motor Member=U4
+Added Pin To Net: NetName=3V3 Pin=J1-7

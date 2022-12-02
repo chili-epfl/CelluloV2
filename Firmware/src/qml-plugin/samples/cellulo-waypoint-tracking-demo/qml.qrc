@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/main.qml</file>
+        <file>assets/redHexagon.svg</file>
+        <file>assets/greenHexagon.svg</file>
+        <file>src/PolyBezierVisual.qml</file>
+    </qresource>
+</RCC>

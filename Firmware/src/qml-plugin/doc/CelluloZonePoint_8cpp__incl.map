@@ -1,0 +1,8 @@
+<map id="src/zones/CelluloZonePoint.cpp" name="src/zones/CelluloZonePoint.cpp">
+<area shape="rect" id="node2" href="$CelluloZonePoint_8h.html" title="Header for the point zone. " alt="" coords="423,80,555,107"/>
+<area shape="rect" id="node3" href="$CelluloZone_8h.html" title="Header for base class zone architecture. " alt="" coords="437,155,540,181"/>
+<area shape="rect" id="node10" href="$CelluloZoneTypes_8h.html" title="Header for zone type tools. " alt="" coords="618,229,757,256"/>
+<area shape="rect" id="node16" href="$CelluloZoneClient_8h.html" title="Header for the Cellulo zone client. " alt="" coords="35,229,171,256"/>
+<area shape="rect" id="node17" href="$CelluloZonePaintedItem_8h.html" title="Header for a QML compatible QQuickPaintedItem for Cellulo zones. " alt="" coords="832,229,1004,256"/>
+<area shape="rect" id="node12" href="$CelluloEnumDecl_8h.html" title="Header for CelluloBluetooth enums. " alt="" coords="585,304,731,331"/>
+</map>

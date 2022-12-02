@@ -1,0 +1,11 @@
+<map id="src/robot/CelluloRobot.h" name="src/robot/CelluloRobot.h">
+<area shape="rect" id="node2" href="$PolyBezierTracker_8h.html" title="Makes CelluloRobots track PolyBezier curves. " alt="" coords="312,80,507,107"/>
+<area shape="rect" id="node3" href="$PolyBezierTrackerConstVel_8h.html" title="Makes CelluloRobots track PolyBezier curves with constant velocity. " alt="" coords="5,155,189,196"/>
+<area shape="rect" id="node5" href="$PolyBezierTrackerConstAccel_8h.html" title="Makes CelluloRobots track PolyBezier curves with constant velocity and finite constant acceleration..." alt="" coords="213,155,397,196"/>
+<area shape="rect" id="node7" href="$PolyBezierTrackerAdaptiveVel_8h.html" title="Makes CelluloRobots track PolyBezier curves with adaptive velocity, i.e decreases velocity when turni..." alt="" coords="421,155,605,196"/>
+<area shape="rect" id="node9" href="$PolyBezierTrackerProfiledVel_8h.html" title="Makes CelluloRobots track PolyBezier curves with the desired velocity profile. " alt="" coords="629,155,813,196"/>
+<area shape="rect" id="node4" href="$PolyBezierTrackerConstVel_8cpp.html" title="Makes CelluloRobots track PolyBezier curves with constant velocity. " alt="" coords="5,244,189,285"/>
+<area shape="rect" id="node6" href="$PolyBezierTrackerConstAccel_8cpp.html" title="Makes CelluloRobots track PolyBezier curves with constant velocity and finite constant acceleration..." alt="" coords="213,244,397,285"/>
+<area shape="rect" id="node8" href="$PolyBezierTrackerAdaptiveVel_8cpp.html" title="Makes CelluloRobots track PolyBezier curves with constant velocity. " alt="" coords="421,244,605,285"/>
+<area shape="rect" id="node10" href="$PolyBezierTrackerProfiledVel_8cpp.html" title="Makes CelluloRobots track PolyBezier curves with the desired velocity profile. " alt="" coords="629,244,813,285"/>
+</map>

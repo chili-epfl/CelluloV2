@@ -1,0 +1,66 @@
+Change Component Footprint: Designator=R10 Old Footprint=FP-CSS2725FT2L00-MFG New Footprint=RESC1608X55X30ML15T15
+Change Component Footprint: Designator=R9 Old Footprint=FP-CSS2725FT2L00-MFG New Footprint=RESC1608X55X30NL15T15
+Change Component Footprint: Designator=R11 Old Footprint=RESC3216X70X50NL05T20 New Footprint=RESC1608X55X30ML15T15
+Change Component Footprint: Designator=R12 Old Footprint=RESC3216X70X50NL05T20 New Footprint=RESC1608X55X30ML15T15
+Change Component Comment : Designator=R10 Old Comment=CSS2725FT2L00 New Comment=ERJ-3EKF1204V
+Change Component Comment : Designator=R9 Old Comment=CSS2725FT2L00 New Comment=ERJ-3EKF2004V
+Change Component Comment : Designator=R11 Old Comment=ERJ8ENF2203V New Comment=ERJ-3EKF2203V
+Change Component Comment : Designator=R12 Old Comment=ERJ8ENF2203V New Comment=ERJ-3EKF2203V
+Change Managed Component Library Link : Designator=R9 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=ABB7D502-8BCC-4807-9934-516E37F9486F New ItemGUID=C081A076-AE18-4A31-9B5A-8BA2D94828DF Old RevisionGUID=A3DD4D9C-B5E0-461F-AD27-7F6084ACC0B0 New RevisionGUID=66C9C686-33E1-4ECB-80B5-575916EB87A5
+Change Managed Component Library Link : Designator=R10 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=ABB7D502-8BCC-4807-9934-516E37F9486F New ItemGUID=C9A7FC97-5B8C-4541-99C8-88FA4E47A6B3 Old RevisionGUID=A3DD4D9C-B5E0-461F-AD27-7F6084ACC0B0 New RevisionGUID=87B9E5F4-EBF7-4977-BA3A-DA2CEC12A987
+Change Managed Component Library Link : Designator=R11 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=0FFB850B-B016-4C7E-80F6-F890551D68E9 New ItemGUID=E6307F08-63A2-4618-BFFD-14E28C9EF26B Old RevisionGUID=D628DB6F-88D8-4E23-8221-E432FD005747 New RevisionGUID=2DF367E4-86E2-4B4E-B9C6-254C890CF53B
+Change Managed Component Library Link : Designator=R12 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=0FFB850B-B016-4C7E-80F6-F890551D68E9 New ItemGUID=E6307F08-63A2-4618-BFFD-14E28C9EF26B Old RevisionGUID=D628DB6F-88D8-4E23-8221-E432FD005747 New RevisionGUID=2DF367E4-86E2-4B4E-B9C6-254C890CF53B
+Change component parameters: Designator = "R9" ("R9"); Footprint = "FP-CSS2725FT2L00-MFG"; UniqueID = "\QXEQFBWU\DHOXFGNZ" ("\QXEQFBWU\DHOXFGNZ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-3EKF2004V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "FP-CSS2725FT2L00-MFG"; UniqueID = "\QXEQFBWU\TCZCSAEF" ("\QXEQFBWU\TCZCSAEF")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-3EKF1204V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "RESC3216X70X50NL05T20"; UniqueID = "\QXEQFBWU\RYKWBVVT" ("\QXEQFBWU\RYKWBVVT")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Apr-15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = "2450 MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.5 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "50 Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "3.2 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "80degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-20degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 1.6 x 0.85 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHSCompliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.6 mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RESC3216X70X50NL05T20"; UniqueID = "\QXEQFBWU\KQPOBMPR" ("\QXEQFBWU\KQPOBMPR")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C86.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Apr-15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = "2450 MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.5 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "50 Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "3.2 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "80degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-20degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 1.6 x 0.85 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHSCompliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.6 mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetMD1_28 Pin=MD1-28
+Added Pin To Net: NetName=NetMD1_28 Pin=R13-2
+Added Pin To Net: NetName=NetMD1_28 Pin=U3-94
+Added Net: Name=NetMD1_28

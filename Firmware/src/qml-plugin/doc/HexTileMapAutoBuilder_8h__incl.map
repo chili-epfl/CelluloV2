@@ -1,0 +1,9 @@
+<map id="src/tile/HexTileMapAutoBuilder.h" name="src/tile/HexTileMapAutoBuilder.h">
+<area shape="rect" id="node5" href="$AxialHexCoords_8h.html" title="Header for a hexagonal tile axial coordinates definition. " alt="" coords="39,244,167,271"/>
+<area shape="rect" id="node6" href="$HexTileStdSourceCoords_8h_source.html" title="HexTileStdSourceCoords.h" alt="" coords="150,80,331,107"/>
+<area shape="rect" id="node9" href="$HexTileMap_8h.html" title="Header for a hexagonal multi&#45;tile map. " alt="" coords="613,80,716,107"/>
+<area shape="rect" id="node7" href="$HexTile_8h.html" title="Header for a hexagonal tile definition. " alt="" coords="201,162,280,189"/>
+<area shape="rect" id="node13" href="$PoseRemapper_8h.html" title="Header for pose remapper base. " alt="" coords="603,162,726,189"/>
+<area shape="rect" id="node14" href="$CoordSpaceConverter_8h.html" title="Header for any space to any space converter. " alt="" coords="750,162,913,189"/>
+<area shape="rect" id="node15" href="$CelluloMathUtil_8h.html" title="Header for mathematical and geometrical utilities. " alt="" coords="987,155,1145,196"/>
+</map>

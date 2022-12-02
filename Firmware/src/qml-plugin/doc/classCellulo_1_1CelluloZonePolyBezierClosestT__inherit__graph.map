@@ -1,0 +1,7 @@
+<map id="Cellulo::CelluloZonePolyBezierClosestT" name="Cellulo::CelluloZonePolyBezierClosestT">
+<area shape="rect" id="node5" href="$group__zone.html#classCellulo_1_1CelluloZonePolyBezierDistance" title="Calculates the distance to a composite Bézier curve. " alt="" coords="759,5,924,47"/>
+<area shape="rect" id="node6" href="$group__zone.html#classCellulo_1_1CelluloZonePolyBezierXT" title="Calculates the parameter t of the point on the composite Bézier curve with the same x coordinate as t..." alt="" coords="759,71,924,112"/>
+<area shape="rect" id="node7" href="$group__zone.html#classCellulo_1_1CelluloZonePolyBezierYT" title="Calculates the parameter t of the point on the composite Bézier curve with the same y coordinate as t..." alt="" coords="759,136,924,177"/>
+<area shape="rect" id="node2" href="$group__zone.html#classCellulo_1_1CelluloZonePolyBezier" title="CelluloZone Base class for composite cubic Bézier curve. " alt="" coords="332,71,497,112"/>
+<area shape="rect" id="node3" href="$group__zone.html#classCellulo_1_1CelluloZone" title="CelluloZone Base Class for zones. " alt="" coords="145,78,284,105"/>
+</map>

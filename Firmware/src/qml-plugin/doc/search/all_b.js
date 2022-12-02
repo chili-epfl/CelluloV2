@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['languagelist',['languageList',['../group__util.html#ae9be279823bda83156d8771a6ece9e00',1,'Cellulo::TranslationTool']]],
+  ['lasttimestamp',['lastTimestamp',['../group__comm.html#a7884ff94eaf821db9310d20f95024ad5',1,'Cellulo::CelluloBluetooth']]],
+  ['ledresponsemode',['LEDResponseMode',['../group__comm.html#a57ece08557723b6428a74ba3b1265b29',1,'Cellulo::CelluloBluetoothEnums']]],
+  ['ledresponsemodeabsolute',['LEDResponseModeAbsolute',['../group__comm.html#a57ece08557723b6428a74ba3b1265b29a5ed1272946fd147941beef855bf5c3a0',1,'Cellulo::CelluloBluetoothEnums']]],
+  ['ledresponsemoderesponsivehold',['LEDResponseModeResponsiveHold',['../group__comm.html#a57ece08557723b6428a74ba3b1265b29afc42162c802bf319eb3091c8ad906505',1,'Cellulo::CelluloBluetoothEnums']]],
+  ['ledresponsemoderesponsiveindividual',['LEDResponseModeResponsiveIndividual',['../group__comm.html#a57ece08557723b6428a74ba3b1265b29a74a2c9d22170e8ba77dc999cc9091093',1,'Cellulo::CelluloBluetoothEnums']]],
+  ['limits',['limits',['../group__tile.html#ac8575e3e3728ab0970c6a2d4eec36d09',1,'Cellulo::AxialHexCoords']]],
+  ['lineborder',['LINEBORDER',['../group__zone.html#acb24a099726e8d59124afd691c86f9cfaa3bd5e3876b5b6eba074ff2dcb9fd919',1,'Cellulo::CelluloZoneTypes']]],
+  ['linedistancesigned',['LINEDISTANCESIGNED',['../group__zone.html#acb24a099726e8d59124afd691c86f9cfa9cb3ab203bb923e53d453d52fe407813',1,'Cellulo::CelluloZoneTypes']]],
+  ['linesegmentdistance',['LINESEGMENTDISTANCE',['../group__zone.html#acb24a099726e8d59124afd691c86f9cfa81ff84f59b86738c1203ca80d27d9c25',1,'Cellulo::CelluloZoneTypes']]],
+  ['listen',['listen',['../group__comm-relay.html#a501f390e6c5c9c88e92c8dee8550e14f',1,'Cellulo::CelluloRelayServer']]],
+  ['listenerror',['listenError',['../group__comm-relay.html#af2e77447b8d331edcd1156cc378ecb43',1,'Cellulo::CelluloRelayServer']]],
+  ['loadfromfile',['loadFromFile',['../group__util.html#a03a1f7fa25c9d853c91ee1ca24e09ca0',1,'Cellulo::PolyBezier']]],
+  ['loadtilesfromjson',['loadTilesFromJSON',['../group__tile.html#aa7523937976e024e986776a276fbe106',1,'Cellulo::HexTileMap']]],
+  ['loadzonesqml',['loadZonesQML',['../group__util.html#ab2e7db8bc5c58aa058f42cef70ce78c9',1,'Cellulo::CelluloSVGUtil::loadZonesQML()'],['../group__zone.html#a5f7aeb79df9bcd76770f4661ed2b086e',1,'Cellulo::CelluloZoneJsonHandler::loadZonesQML()']]],
+  ['localadapteraddresses',['localAdapterAddresses',['../group__util.html#ab6d8fb8aa6a09d389b94e06750218dfb',1,'Cellulo::MacAddrSelector']]],
+  ['localadaptermacaddr',['localAdapterMacAddr',['../group__comm.html#a31ca21c1a395893cbfe0e4ea4bb6e590',1,'Cellulo::CelluloBluetooth']]],
+  ['localadapters',['localAdapters',['../group__comm-relay.html#a69ce4d7ddb4d47aa8a0710260ace8240',1,'Cellulo::CelluloRelayClient']]],
+  ['locomotioninteractivitymode',['LocomotionInteractivityMode',['../group__comm.html#ae5126bceecb95ffc8846e8c72f379812',1,'Cellulo::CelluloBluetoothEnums']]],
+  ['locomotioninteractivitymodenormal',['LocomotionInteractivityModeNormal',['../group__comm.html#ae5126bceecb95ffc8846e8c72f379812a1f3279369d8bc2a8c51f159b4b547590',1,'Cellulo::CelluloBluetoothEnums']]],
+  ['locomotioninteractivitymoderequireshold',['LocomotionInteractivityModeRequiresHold',['../group__comm.html#ae5126bceecb95ffc8846e8c72f379812aac163411ca6e6f8faa88686346b5e40f',1,'Cellulo::CelluloBluetoothEnums']]],
+  ['longtouch',['longTouch',['../group__comm.html#afdc4c2e93958e1402e1adc55a1883b37',1,'Cellulo::CelluloBluetooth']]],
+  ['lowbattery',['lowBattery',['../group__comm.html#a843abaab9ef1d26ecea9f6328e522e38',1,'Cellulo::CelluloBluetooth']]]
+];

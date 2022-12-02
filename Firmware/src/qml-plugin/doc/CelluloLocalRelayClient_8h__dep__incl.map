@@ -1,0 +1,5 @@
+<map id="src/comm/relay/CelluloLocalRelayClient.h" name="src/comm/relay/CelluloLocalRelayClient.h">
+<area shape="rect" id="node2" href="$CelluloRobotPoolClient_8h.html" title="Uses the robots at a cellulo&#45;robot&#45;pool. " alt="" coords="5,95,196,136"/>
+<area shape="rect" id="node4" href="$CelluloLocalRelayClient_8cpp.html" title="Relays packets between a server and virtual robot objects over a Unix domain socket. " alt="" coords="221,95,407,136"/>
+<area shape="rect" id="node3" href="$CelluloRobotPoolClient_8cpp.html" title="Uses the robots at a cellulo&#45;robot&#45;pool. " alt="" coords="5,184,196,225"/>
+</map>

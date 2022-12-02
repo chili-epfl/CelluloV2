@@ -1,0 +1,4 @@
+<map id="Cellulo::CelluloTcpRelayClient" name="Cellulo::CelluloTcpRelayClient">
+<area shape="rect" id="node4" href="$group__comm-relay.html#classCellulo_1_1CelluloRobotHubClient" title="Object that uses the robots connected to a cellulorobothubd. " alt="" coords="10,244,179,285"/>
+<area shape="rect" id="node2" href="$group__comm-relay.html#classCellulo_1_1CelluloRelayClient" title="Object that relays packets between a CelluloRelayServer and virtual robot objects. " alt="" coords="5,80,184,107"/>
+</map>
