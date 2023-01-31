@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=3V3 Pin=P1-3
+Added Component: Designator=SJ?(SJUMPER3POS-Footprint-1)
+Added Pin To Net: NetName=NetC5_1 Pin=SJ?-1
+Added Pin To Net: NetName=3V3 Pin=SJ?-3
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=SJ?-2
+Added Net: Name=NetP1_3
+Added Member To Class: ClassName=battery-module-60mm-side Member=Component P2 620102131822
+Added Member To Class: ClassName=battery-module-60mm-side Member=Component SJ? SJUMPER3POS
+Added Member To Class: ClassName=battery-module-60mm-side Member=Component U1 BQ27441DRZT-G1A

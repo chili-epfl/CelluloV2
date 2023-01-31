@@ -1,0 +1,445 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<style type="text/css">
+		h1, h2, h3, h4, h5, h6 {
+			font-family : segoe ui;
+			color : black;
+			background-color : #EDE7D9;
+			padding: 0.3em;
+		}
+
+		h1 {
+			font-size: 1.2em;
+		}		
+
+		h2 {
+			font-size: 1.2em;
+		}
+
+		body {
+			font-family : segoe ui;
+		}
+
+		td, th {
+			padding: 0.5em;
+			text-align : left;
+			width: 10em;
+		}
+		th {
+			background-color : #EEEEEE;
+
+		}
+		th.column1, td.column1 {
+			text-align: left;
+			width : auto;
+		}
+		table {
+			width : 100%;
+			font-size: 0.9em;
+		}
+
+		.DRC_summary_header {
+			padding-bottom : 0.1em;
+			border : 0px solid black;
+			width: 100%;
+			align: left;
+		}
+
+		.DRC_summary_header_col1,
+		.DRC_summary_header_col2, 
+		.DRC_summary_header_col3 {
+			color : black;
+			font-size:100%;
+			padding : 0em;
+			padding-top : 0.2em;
+			padding-bottom 0.2em;
+			border : 0px solid black;
+			vertical-align: top;
+			text-align: left;
+		}
+
+		.DRC_summary_header_col1 {
+			font-weight: bold;
+			width: 8em;
+		}
+
+		.DRC_summary_header_col2 {
+			width: 0.1em;
+		
+		}
+
+		.DRC_summary_header_col3 {
+			width : auto;
+		}
+
+		.header_holder {
+		    Width = 100%;
+		    border = 0px solid green;
+		    padding = 0;
+		}
+
+
+		.front_matter, .front_matter_column1, .front_matter_column2, .front_matter_column3
+		{
+			left : 0;
+			top : 0;
+			padding: 0em;
+			padding-top : 0.1em;
+			border : 0px solid black;
+			width : 100%;
+			vertical-align: top;
+			text-align: left;
+		}
+
+		.front_matter_column1 {
+			width : 8em;
+			font-weight: bold;
+		}
+
+		.front_matter_column2 {
+			width: 0.1em;
+		}
+
+		.front_matter_column3 {
+			width : auto;
+		}
+
+		.total_column1, .total_column {
+			font-weight : bold;
+		}
+		.total_column1 {
+			text-align : left;
+		}
+		.warning, .error {
+			color : red;
+			font-weight : bold;
+		}
+		tr.onmouseout_odd {
+			background-color : #white;
+		}
+		tr.onmouseout_even { 
+			background-color : #FAFAFA;
+		}
+		tr.onmouseover_odd, tr.onmouseover_even { 
+			background-color : #EEEEEE;
+		} 
+		a:link, a:visited, .q a:link,.q a:active,.q {
+			color: #21489e; 
+		}
+		a:link.callback, a:visited.callback { 
+			color: #21489e;
+		}
+		a:link.customize, a:visited.customize {
+			color: #C0C0C0;
+			position: absolute; 
+			right: 10px;
+		}	
+		p.contents_level1 {
+			font-weight : bold;
+			font-size : 110%;
+			margin : 0.5em;
+		}
+		p.contents_level2 {
+			position : relative;
+			left : 20px;
+			margin : 0.5em;
+		}
+	</style><script type="text/javascript">
+		function coordToMils(coord) {
+			var number = coord / 10000;
+			
+			if (number != number.toFixed(3))
+				number = number.toFixed(3);
+
+			return number + 'mil'
+		}
+
+		function coordToMM(coord) {
+			var number = 0.0254 * coord / 10000;
+			
+			if (number != number.toFixed(4))
+				number = number.toFixed(4);
+			
+			return number + 'mm'
+		}
+	
+		function convertCoord(coordNode, units) {
+			for (var i = 0; i < coordNode.childNodes.length; i++) {
+				coordNode.removeChild(coordNode.childNodes[i]);
+			}
+
+			var coord = coordNode.getAttribute('value');
+			if (coord != null) {
+				if (units == 'mm') {
+					textNode = document.createTextNode(coordToMM(coord));
+					coordNode.appendChild(textNode);
+				} else if (units == 'mil') {
+					textNode = document.createTextNode(coordToMils(coord));		
+					coordNode.appendChild(textNode);	
+				}
+			}
+		}
+	
+		function convertUnits(unitNode, units) {
+			for (var i = 0; i < unitNode.childNodes.length; i++) {
+				unitNode.removeChild(unitNode.childNodes[i]);		
+			}
+		
+			textNode = document.createTextNode(units); 
+			unitNode.appendChild(textNode);
+		}
+	
+		function changeUnits(radio_input, units) {
+			if (radio_input.checked) {
+			
+				var elements = document.getElementsByName('coordinate');
+				if (elements) {
+					for (var i = 0; i < elements.length; i++) {
+						convertCoord(elements[i], units);
+					}
+				}
+	
+				var elements = document.getElementsByName('units');
+				if (elements) {
+					for (var i = 0; i < elements.length; i++) {
+						convertUnits(elements[i], units);
+					}
+				}
+			}
+		}
+	</script><title>Design Rule Verification Report</title>
+</head>
+<body onload=""><img ALT="Altium" src="
+			file://C:\Users\Public\Documents\Altium\AD21\Templates\AD_logo.png
+		"><h1>Design Rule Verification Report</h1>
+<table class="header_holder">
+<td class="column1">
+<table class="front_matter">
+<tr class="front_matter">
+<td class="front_matter_column1">Date:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">2022/5/8</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Time:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">¤U¤È 10:59:33</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Elapsed Time:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">00:00:01</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Filename:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3"><a href="file:///C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc" class="file"><acronym title="C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc">C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc</acronym></a></td>
+</tr>
+</table>
+</td>
+<td class="column2">
+<table class="DRC_summary_header">
+<tr>
+<td class="DRC_summary_header_col1">Warnings:</td>
+<td class="DRC_summary_header_col2"></td>
+<td class="DRC_summary_header_col3">0</td></tr>
+<tr>
+<td class="DRC_summary_header_col1">Rule Violations:</td>
+<td class="DRC_summary_header_col2"></td>
+<td class="DRC_summary_header_col3" style="color : red">31</td></tr>
+</table>
+</td>
+</table><a name="IDCS23FWVRHSZFHZ4LI3F4EHUEYPMSFDLOJVCBYLFCME1CKHMOHO1M"><h2>Summary</h2></a><table>
+<tr>
+<th class="column1">Warnings</th>
+<th class="column2">Count</th>
+</tr>
+<tr>
+<td style="font-weight : bold; text-align : right" class="column1">Total</td>
+<td style="font-weight : bold" class="column2">0</td>
+</tr>
+</table><br><table>
+<tr>
+<th class="column1">Rule Violations</th>
+<th class="column2">Count</th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDUWJ5CGDW23B0MZEEHFTRP5JJOJY3CLBLOYHNTJVQHWSUHLF2T5O">Clearance Constraint (Gap=0.127mm) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDSLYGMDD21113LSQJH1P0PEPVJQM02E3SPHCE4KFQ3BIVV1NHZIG">Short-Circuit Constraint (Allowed=No) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDMVFNHY5KDVY4LLEOZUZQAXJNC40EVOSJQNSUPBIIAWHTF3YWBN">Un-Routed Net Constraint ( (All) )</a></td>
+<td class="column2">1</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDBZGPYFMGFFLDINI4353GDAPUSEVXXLWCTDKEPUMMW0UJBR0WC2XF">Modified Polygon (Allow modified: No), (Allow shelved: No)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#ID0K02YXUONKXKPRTY25UZVOPLRJJEWBAIVCUWBNOXNSZZ5NMGNE1E">Width Constraint (Min=0.127mm) (Max=25.4mm) (Preferred=0.127mm) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDFV0KIZTUJX4ROTSEG0SFU5H4YOTON4ZNOKVFLGLUKYUTXP3N1V0M">Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (InPadClass('PowerPads'))</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDVFHPEBFPGDJXN3UFWMQ0MWQT4GZPR3ARPQTW5ZHVDDYE2FT4H1HC">Power Plane Connect Rule(Relief Connect )(Expansion=0.3mm) (Conductor Width=0.127mm) (Air Gap=0.127mm) (Entries=4) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#ID0LP2Y5JJXWWE3AM2C0GZLHFBXZ5BOK45CKBRCAIXPHIKBTTW2C">Minimum Annular Ring (Minimum=0.076mm) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDJFCHO1MJGVB4NWH045B22BH25D5XOXCJBKGDFDIF2AFIP1VMFP0H">Hole Size Constraint (Min=0.3mm) (Max=6.3mm) (All)</a></td>
+<td class="column2">5</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDXVIHT131WOFSJH1UKWDNIFJ3HCA0G50JVLQKGXKI211PMKQY44OJ">Hole To Hole Clearance (Gap=0.25mm) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDB3L211JZXKJ1BCQA3WPGIKPBQCRMIFLA5FVPZTI2MJ2QDQDLZVXH">Minimum Solder Mask Sliver (Gap=0mm) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#ID5Z4IX3WCGRG4BVJB3ILXFE5J0DAF5Z4Q2YWV0WLRK0IJ4W52EDNB">Silk To Solder Mask (Clearance=0.127mm) (IsPad),(All)</a></td>
+<td class="column2">21</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDUHF5IHU1O1F0OAT04SR4P3ULQBSS2T232H2QOFHBAHBJPB0IENFE">Silk to Silk (Clearance=0mm) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDVBIVUVSUZH3REP5ROZW0FPYLNPSH31YMMCDDAUEHI51JP4YFQTTM">Net Antennae (Tolerance=0mm) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDYA4CS1BVHRUYOTMWYZRRJGQ3UNW5D2PHO4QPRKBKPJK0CK5EL1WD">Board Clearance Constraint (Gap=0mm) (All)</a></td>
+<td class="column2">4</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDKMQRCDD3YAYTB45MR401EVP5ADNFLQ2UACEGGQIIKVPEIUY4QPZI">Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr>
+<td style="font-weight : bold; text-align : right" class="column1">Total</td>
+<td style="font-weight : bold" class="column2">31</td>
+</tr>
+</table><br><a name="IDMVFNHY5KDVY4LLEOZUZQAXJNC40EVOSJQNSUPBIIAWHTF3YWBN"><table>
+<tr>
+<th style="text-align : left" colspan="1" class="rule">Un-Routed Net Constraint ( (All) )</th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1663.622mil|Location2.X=1721.711mil|Location1.Y=758.504mil|Location2.Y=785.669mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1663.622mil|Location2.X=1721.711mil|Location1.Y=758.504mil|Location2.Y=785.669mil|Absolute=True">Un-Routed Net Constraint: Net GND Between Via (42.556mm,19.566mm) from Top Layer to Bottom Layer And Pad U1-3(43.641mm,19.866mm) on Top Layer </acronym></a><br></td>
+</tr>
+</table></a><hr color="#EEEEEE"><a href="#top" style="font-size: 0.9em">Back to top</a><br><br><a name="IDJFCHO1MJGVB4NWH045B22BH25D5XOXCJBKGDFDIF2AFIP1VMFP0H"><table>
+<tr>
+<th style="text-align : left" colspan="1" class="rule">Hole Size Constraint (Min=0.3mm) (Max=6.3mm) (All)</th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=876.54mil|Location2.X=885.664mil|Location1.Y=887.682mil|Location2.Y=896.806mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=876.54mil|Location2.X=885.664mil|Location1.Y=887.682mil|Location2.Y=896.806mil|Absolute=True">Hole Size Constraint: (0.2mm &lt; 0.3mm) Via (22.38mm,22.663mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=876.54mil|Location2.X=885.664mil|Location1.Y=927.052mil|Location2.Y=936.176mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=876.54mil|Location2.X=885.664mil|Location1.Y=927.052mil|Location2.Y=936.176mil|Absolute=True">Hole Size Constraint: (0.2mm &lt; 0.3mm) Via (22.38mm,23.663mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=906.068mil|Location2.X=915.192mil|Location1.Y=907.368mil|Location2.Y=916.492mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=906.068mil|Location2.X=915.192mil|Location1.Y=907.368mil|Location2.Y=916.492mil|Absolute=True">Hole Size Constraint: (0.2mm &lt; 0.3mm) Via (23.13mm,23.163mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=935.596mil|Location2.X=944.72mil|Location1.Y=887.682mil|Location2.Y=896.806mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=935.596mil|Location2.X=944.72mil|Location1.Y=887.682mil|Location2.Y=896.806mil|Absolute=True">Hole Size Constraint: (0.2mm &lt; 0.3mm) Via (23.88mm,22.663mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=935.596mil|Location2.X=944.72mil|Location1.Y=927.052mil|Location2.Y=936.176mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=935.596mil|Location2.X=944.72mil|Location1.Y=927.052mil|Location2.Y=936.176mil|Absolute=True">Hole Size Constraint: (0.2mm &lt; 0.3mm) Via (23.88mm,23.663mm) from Top Layer to Bottom Layer Actual Hole Size = 0.2mm</acronym></a><br></td>
+</tr>
+</table></a><hr color="#EEEEEE"><a href="#top" style="font-size: 0.9em">Back to top</a><br><br><a name="ID5Z4IX3WCGRG4BVJB3ILXFE5J0DAF5Z4Q2YWV0WLRK0IJ4W52EDNB"><table>
+<tr>
+<th style="text-align : left" colspan="1" class="rule">Silk To Solder Mask (Clearance=0.127mm) (IsPad),(All)</th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1582.51mil|Location2.X=1588.76mil|Location1.Y=393.864mil|Location2.Y=400.114mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1582.51mil|Location2.X=1588.76mil|Location1.Y=393.864mil|Location2.Y=400.114mil|Absolute=True">Silk To Solder Mask Clearance Constraint: (0.102mm &lt; 0.127mm) Between Pad Free-1(40mm,8mm) on Multi-Layer And Text "BAT" (41.964mm,10.233mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.102mm]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1275.35mil|Location2.X=1281.6mil|Location1.Y=496.875mil|Location2.Y=503.125mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1275.35mil|Location2.X=1281.6mil|Location1.Y=496.875mil|Location2.Y=503.125mil|Absolute=True">Silk To Solder Mask Clearance Constraint: (0.093mm &lt; 0.127mm) Between Pad P1-1(33.57mm,12.7mm) on Multi-Layer And Track (32.3mm,11.43mm)(32.3mm,13.97mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.093mm]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1318.529mil|Location2.X=1324.779mil|Location1.Y=453.696mil|Location2.Y=459.946mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1318.529mil|Location2.X=1324.779mil|Location1.Y=453.696mil|Location2.Y=459.946mil|Absolute=True">Silk To Solder Mask Clearance Constraint: (0.093mm &lt; 0.127mm) Between Pad P1-1(33.57mm,12.7mm) on Multi-Layer And Track (32.3mm,11.43mm)(47.54mm,11.43mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.093mm]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1318.529mil|Location2.X=1324.779mil|Location1.Y=540.054mil|Location2.Y=546.304mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1318.529mil|Location2.X=1324.779mil|Location1.Y=540.054mil|Location2.Y=546.304mil|Absolute=True">Silk To Solder Mask Clearance Constraint: (0.093mm &lt; 0.127mm) Between Pad P1-1(33.57mm,12.7mm) on Multi-Layer And Track (32.3mm,13.97mm)(47.54mm,13.97mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.093mm]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1418.529mil|Location2.X=1424.779mil|Location1.Y=453.696mil|Location2.Y=459.946mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1418.529mil|Location2.X=1424.779mil|Location1.Y=453.696mil|Location2.Y=459.946mil|Absolute=True">Silk To Solder Mask Clearance Constraint: (0.093mm &lt; 0.127mm) Between Pad P1-2(36.11mm,12.7mm) on Multi-Layer And Track (32.3mm,11.43mm)(47.54mm,11.43mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.093mm]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1418.529mil|Location2.X=1424.779mil|Location1.Y=540.054mil|Location2.Y=546.304mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1418.529mil|Location2.X=1424.779mil|Location1.Y=540.054mil|Location2.Y=546.304mil|Absolute=True">Silk To Solder Mask Clearance Constraint: (0.093mm &lt; 0.127mm) Between Pad P1-2(36.11mm,12.7mm) on Multi-Layer And Track (32.3mm,13.97mm)(47.54mm,13.97mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.093mm]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1518.529mil|Location2.X=1524.779mil|Location1.Y=453.696mil|Location2.Y=459.946mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1518.529mil|Location2.X=1524.779mil|Location1.Y=453.696mil|Location2.Y=459.946mil|Absolute=True">Silk To Solder Mask Clearance Constraint: (0.093mm &lt; 0.127mm) Between Pad P1-3(38.65mm,12.7mm) on Multi-Layer And Track (32.3mm,11.43mm)(47.54mm,11.43mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.093mm]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1518.529mil|Location2.X=1524.779mil|Location1.Y=540.054mil|Location2.Y=546.304mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1518.529mil|Location2.X=1524.779mil|Location1.Y=540.054mil|Location2.Y=546.304mil|Absolute=True">Silk To Solder Mask Clearance Constraint: (0.093mm &lt; 0.127mm) Between Pad P1-3(38.65mm,12.7mm) on Multi-Layer And Track (32.3mm,13.97mm)(47.54mm,13.97mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.093mm]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1618.529mil|Location2.X=1624.779mil|Location1.Y=453.696mil|Location2.Y=459.946mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1618.529mil|Location2.X=1624.779mil|Location1.Y=453.696mil|Location2.Y=459.946mil|Absolute=True">Silk To Solder Mask Clearance Constraint: (0.093mm &lt; 0.127mm) Between Pad P1-4(41.19mm,12.7mm) on Multi-Layer And Track (32.3mm,11.43mm)(47.54mm,11.43mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.093mm]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1618.529mil|Location2.X=1624.779mil|Location1.Y=540.054mil|Location2.Y=546.304mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1618.529mil|Location2.X=1624.779mil|Location1.Y=540.054mil|Location2.Y=546.304mil|Absolute=True">Silk To Solder Mask Clearance Constraint: (0.093mm &lt; 0.127mm) Between Pad P1-4(41.19mm,12.7mm) on Multi-Layer And Track (32.3mm,13.97mm)(47.54mm,13.97mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.093mm]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1718.529mil|Location2.X=1724.779mil|Location1.Y=453.696mil|Location2.Y=459.946mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1718.529mil|Location2.X=1724.779mil|Location1.Y=453.696mil|Location2.Y=459.946mil|Absolute=True">Silk To Solder Mask Clearance Constraint: (0.093mm &lt; 0.127mm) Between Pad P1-5(43.73mm,12.7mm) on Multi-Layer And Track (32.3mm,11.43mm)(47.54mm,11.43mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.093mm]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1718.529mil|Location2.X=1724.779mil|Location1.Y=540.054mil|Location2.Y=546.304mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1718.529mil|Location2.X=1724.779mil|Location1.Y=540.054mil|Location2.Y=546.304mil|Absolute=True">Silk To Solder Mask Clearance Constraint: (0.093mm &lt; 0.127mm) Between Pad P1-5(43.73mm,12.7mm) on Multi-Layer And Track (32.3mm,13.97mm)(47.54mm,13.97mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.093mm]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1818.529mil|Location2.X=1824.779mil|Location1.Y=453.696mil|Location2.Y=459.946mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1818.529mil|Location2.X=1824.779mil|Location1.Y=453.696mil|Location2.Y=459.946mil|Absolute=True">Silk To Solder Mask Clearance Constraint: (0.093mm &lt; 0.127mm) Between Pad P1-6(46.27mm,12.7mm) on Multi-Layer And Track (32.3mm,11.43mm)(47.54mm,11.43mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.093mm]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1818.529mil|Location2.X=1824.779mil|Location1.Y=540.054mil|Location2.Y=546.304mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1818.529mil|Location2.X=1824.779mil|Location1.Y=540.054mil|Location2.Y=546.304mil|Absolute=True">Silk To Solder Mask Clearance Constraint: (0.093mm &lt; 0.127mm) Between Pad P1-6(46.27mm,12.7mm) on Multi-Layer And Track (32.3mm,13.97mm)(47.54mm,13.97mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.093mm]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1861.708mil|Location2.X=1867.958mil|Location1.Y=496.875mil|Location2.Y=503.125mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1861.708mil|Location2.X=1867.958mil|Location1.Y=496.875mil|Location2.Y=503.125mil|Absolute=True">Silk To Solder Mask Clearance Constraint: (0.093mm &lt; 0.127mm) Between Pad P1-6(46.27mm,12.7mm) on Multi-Layer And Track (47.54mm,11.43mm)(47.54mm,13.97mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.093mm]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1475.35mil|Location2.X=1481.6mil|Location1.Y=630.733mil|Location2.Y=636.983mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1475.35mil|Location2.X=1481.6mil|Location1.Y=630.733mil|Location2.Y=636.983mil|Absolute=True">Silk To Solder Mask Clearance Constraint: (0.093mm &lt; 0.127mm) Between Pad P3-1(38.65mm,16.1mm) on Multi-Layer And Track (37.38mm,14.83mm)(37.38mm,17.37mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.093mm]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1518.529mil|Location2.X=1524.779mil|Location1.Y=587.554mil|Location2.Y=593.804mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1518.529mil|Location2.X=1524.779mil|Location1.Y=587.554mil|Location2.Y=593.804mil|Absolute=True">Silk To Solder Mask Clearance Constraint: (0.093mm &lt; 0.127mm) Between Pad P3-1(38.65mm,16.1mm) on Multi-Layer And Track (37.38mm,14.83mm)(42.46mm,14.83mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.093mm]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1518.529mil|Location2.X=1524.779mil|Location1.Y=673.912mil|Location2.Y=680.162mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1518.529mil|Location2.X=1524.779mil|Location1.Y=673.912mil|Location2.Y=680.162mil|Absolute=True">Silk To Solder Mask Clearance Constraint: (0.093mm &lt; 0.127mm) Between Pad P3-1(38.65mm,16.1mm) on Multi-Layer And Track (37.38mm,17.37mm)(42.46mm,17.37mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.093mm]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1618.529mil|Location2.X=1624.779mil|Location1.Y=587.554mil|Location2.Y=593.804mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1618.529mil|Location2.X=1624.779mil|Location1.Y=587.554mil|Location2.Y=593.804mil|Absolute=True">Silk To Solder Mask Clearance Constraint: (0.093mm &lt; 0.127mm) Between Pad P3-2(41.19mm,16.1mm) on Multi-Layer And Track (37.38mm,14.83mm)(42.46mm,14.83mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.093mm]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1618.529mil|Location2.X=1624.779mil|Location1.Y=673.912mil|Location2.Y=680.162mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1618.529mil|Location2.X=1624.779mil|Location1.Y=673.912mil|Location2.Y=680.162mil|Absolute=True">Silk To Solder Mask Clearance Constraint: (0.093mm &lt; 0.127mm) Between Pad P3-2(41.19mm,16.1mm) on Multi-Layer And Track (37.38mm,17.37mm)(42.46mm,17.37mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.093mm]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1661.708mil|Location2.X=1667.958mil|Location1.Y=630.733mil|Location2.Y=636.983mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1661.708mil|Location2.X=1667.958mil|Location1.Y=630.733mil|Location2.Y=636.983mil|Absolute=True">Silk To Solder Mask Clearance Constraint: (0.093mm &lt; 0.127mm) Between Pad P3-2(41.19mm,16.1mm) on Multi-Layer And Track (42.46mm,14.83mm)(42.46mm,17.37mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.093mm]</acronym></a><br></td>
+</tr>
+</table></a><hr color="#EEEEEE"><a href="#top" style="font-size: 0.9em">Back to top</a><br><br><a name="IDYA4CS1BVHRUYOTMWYZRRJGQ3UNW5D2PHO4QPRKBKPJK0CK5EL1WD"><table>
+<tr>
+<th style="text-align : left" colspan="1" class="rule">Board Clearance Constraint (Gap=0mm) (All)</th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2244.47mil|Location2.X=2250.719mil|Location1.Y=572.762mil|Location2.Y=579.012mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2244.47mil|Location2.X=2250.719mil|Location1.Y=572.762mil|Location2.Y=579.012mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (57.018mm,14.766mm) on Top Overlay And Board Edge </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=662.415mil|Location2.X=671.903mil|Location1.Y=710.453mil|Location2.Y=719.577mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=662.415mil|Location2.X=671.903mil|Location1.Y=710.453mil|Location2.Y=719.577mil|Absolute=True">Board Outline Clearance(Outline Edge): (0.143mm &lt; 0.2mm) Between Board Edge And Pad Free-2(18mm,20mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2478.069mil|Location2.X=2487.507mil|Location1.Y=710.449mil|Location2.Y=719.573mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2478.069mil|Location2.X=2487.507mil|Location1.Y=710.449mil|Location2.Y=719.573mil|Absolute=True">Board Outline Clearance(Outline Edge): (0.144mm &lt; 0.2mm) Between Board Edge And Pad Free-3(62mm,20mm) on Multi-Layer </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1928.622mil|Location2.X=1934.871mil|Location1.Y=391.398mil|Location2.Y=397.647mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\battery-module-60mm-side.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1928.622mil|Location2.X=1934.871mil|Location1.Y=391.398mil|Location2.Y=397.647mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Board Edge And Text "3V3" (48.958mm,10.168mm) on Bottom Overlay </acronym></a><br></td>
+</tr>
+</table></a><hr color="#EEEEEE"><a href="#top" style="font-size: 0.9em">Back to top</a><br><br></body>
+</html>

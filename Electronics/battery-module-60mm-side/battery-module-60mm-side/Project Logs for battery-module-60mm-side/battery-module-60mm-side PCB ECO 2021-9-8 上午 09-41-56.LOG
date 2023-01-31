@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetC2_2 Pin=P2-1
+Removed Pin From Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=NetC2_2 Pin=P2-2
+Added Member To Class: ClassName=battery-module-60mm-side Member=Component C7 CAP 22uF 6.3V 1206(3216)
+Added Member To Class: ClassName=battery-module-60mm-side Member=Component C8 GRM188R60J106ME47D
+Added Member To Class: ClassName=battery-module-60mm-side Member=Component C9 C1206C104K1RACTU
+Added Member To Class: ClassName=battery-module-60mm-side Member=Component P3 811-S1-002-30-015101
+Added Member To Class: ClassName=battery-module-60mm-side Member=Component R10 ERJ-3EKF5903V
+Added Member To Class: ClassName=battery-module-60mm-side Member=Component R11 ERJ-3EKF2203V
+Added Room: Name=battery-module-60mm-side

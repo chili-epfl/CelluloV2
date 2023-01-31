@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: battery-module-60mm-side.PcbDoc   2022/5/5  ¤U¤È 04:36:38
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : battery-module-60mm-side.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.201mm)                                            Round             5         PTH        0.15inch (3.80mm)
+T2      12mil (0.3mm)                                             Round             22        PTH        4.15inch (105.38mm)
+T3      24mil (0.599mm)                                           Round             8         PTH        0.77inch (19.50mm)
+T4      32mil (0.8mm)                                             Round             3         PTH        0.16inch (4.00mm)
+T5      39mil (1.001mm)                                           Round             2         PTH        0.31inch (8.00mm)
+T6      83mil (2.101mm)                                           Round             3         PTH        1.97inch (50.12mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              43
+
+Total Processing Time (hh:mm:ss) : 00:00:00

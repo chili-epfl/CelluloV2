@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetP1_3 Pin=3V3-2
+Removed Pin From Net: NetName=V_BATT Pin=R4-2
+Removed Pin From Net: NetName=GND Pin=SW1-1
+Removed Member From Class: ClassName=battery-module-60mm-side Member=R4
+Change Component Designator: OldDesignator=3V3 NewDesignator=SJ1
+Added Pin To Net: NetName=NetP1_3 Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=U2-15
+Added Pin To Net: NetName=NetSJ1_2 Pin=SJ1-2
+Added Pin To Net: NetName=NetSJ1_2 Pin=SW1-1
+Added Net: Name=NetSJ1_2
+Added Room: Name=battery-module-60mm-side

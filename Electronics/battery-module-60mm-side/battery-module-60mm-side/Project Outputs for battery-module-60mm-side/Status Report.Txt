@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At ¤U¤È 04:38:08 On 2022/5/5
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : PCB Document [battery-module-60mm-side.PcbDoc]
+   Generated File[Pick Place for battery-module-60mm-side.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At ¤U¤È 04:38:09 On 2022/5/5

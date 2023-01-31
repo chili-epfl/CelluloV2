@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=5V Pin=R11-2
+Added Pin To Net: NetName=5V Pin=U3-2
+Change Net Name : Old Net Name=5V New Net Name=+5
+Added Member To Class: ClassName=Sheet2 Member=Component C8 Cap Semi
+Added Room: Name=Sheet2

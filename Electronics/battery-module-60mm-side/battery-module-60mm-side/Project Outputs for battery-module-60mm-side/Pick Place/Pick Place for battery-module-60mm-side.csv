@@ -1,0 +1,42 @@
+Altium Designer Pick and Place Locations
+C:\Users\alan8\OneDrive - epfl.ch\Master project\battery-module-60mm-side\Project Outputs for battery-module-60mm-side\Pick Place\Pick Place for battery-module-60mm-side.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       05/05/22
+Time:       16:38
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"SJ1","SJUMPER3POS","BottomLayer","SJUMPER3POS-Footprint-1","44.1960","10.2870","0","3 pins solder jumper"
+"U1","BQ27441DRZT-G1A","TopLayer","FP-DRZ0012A-MFG","41.6560","20.0660","90","IC BATT FUEL GAUGE LICOO2 12SON"
+"P2","620102131822","BottomLayer","620102131822","50.0070","21.4000","270","Male Shrouded Header WR-WTB, SMT, Right Angled, pitch 2 mm, 1 x 2 position"
+"R1","ERJ-3EKF1001V","TopLayer","RESC1608X55X30ML15T15","44.5770","10.0330","180",""
+"D1","LTST-S270KGKT","TopLayer","FP-LTST-S270KGKT-MFG","34.7885","9.6015","150","LED GREEN CLEAR CHIP SMD R/A"
+"R6","ERJ-3EKF1101V","TopLayer","RESC1608X55X30ML15T15","29.8450","20.5740","270",""
+"C6","CAP 22uF 6.3V 1206(3216)","BottomLayer","CAPC1206(3216)190_L","46.3550","15.3670","0","CAP 22uF 6.3V ¡Ó20% 1206 (3216 Metric) Thickness 1.9mm SMD"
+"C1","C0805C474K4RACTU","TopLayer","FP-C0805C-DN-MFG","46.3550","20.8280","180","CAP CER 0.47UF 16V 10% X7R 0805"
+"C8","C1206C104K1RACTU","BottomLayer","FP-C1206C-EB-MFG","27.1780","21.3360","0","CAP CER 0.1UF 100V X7R 1206"
+"U3","TPS61201DRCT","BottomLayer","DRC0010J_V","23.1300","23.1630","90","Boost Voltage Converter with 0.3 to 5.5 V Input and 3.3 V Output, -40 to 85 degC, 10-Pin SON (DRC), Green (RoHS & no Sb/Br)"
+"U2","BQ24075RGTR","TopLayer","FP-RGT0016C-IPC_A","27.9280","17.2211","0","IC LI-ION CHARGE MGMT 16-QFN"
+"SW1","1825232-1","TopLayer","FP-1825232-1-MFG","53.8480","16.2560","210","SWITCH SLIDE SPDT 200MA 30V"
+"R9","ERJ3EKF1800V","TopLayer","FP-ERJ3EK-MFG","29.7180","14.2240","180","RES SMD 180 OHM 1% 1/10W 0603"
+"R8","ERJ-3EKF1001V","TopLayer","RESC1608X55X30ML15T15","29.9720","12.8270","180",""
+"R7","ERJ-3EKF5903V","TopLayer","RESC1608X55X30ML15T15","26.1620","20.8280","0",""
+"R5","ERJ3EKF1002V","TopLayer","RESC1609X55X30ML15T15","21.4630","19.9390","270","Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"R4","ERJ3EKF1002V","TopLayer","RESC1609X55X30ML15T15","35.5600","19.1770","90","Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"R3","ERJ3EKF1002V","TopLayer","RESC1609X55X30ML15T15","37.7010","19.8660","270","Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"R2","ERJ8BWFR010V","TopLayer","RESC3216X70X50NL05T20","41.2750","23.2410","0",""
+"P1","811-S1-006-30-015101","TopLayer","New_footprint_1","39.9200","12.7000","0","Conn Spring Piston 6POS SMD"
+"P3","811-S1-002-30-015101","TopLayer","811-S1-002-30-015101-Footprint-1","39.9200","16.1000","0","Conn Spring Loaded Connector HDR 2 POS 2.54mm Solder ST SMD T/R"
+"L1","LQH3NPN2R2MJRL","BottomLayer","FP-LQH3NPN_JR-MFG","22.2250","18.7960","0","Wire Wound Ferrite Inductor for Power Lines 2.2£gH ¡Ó20% 0.0816£[ 2200mA 1212"
+"D3","LTST-S270KRKT","TopLayer","FP-LTST-S270KRKT-MFG","26.5335","14.3005","150","LED RED CLEAR CHIP SMD R/A"
+"D2","LTST-S270KGKT","TopLayer","FP-LTST-S270KGKT-MFG","22.5965","16.4595","150","LED GREEN CLEAR CHIP SMD R/A"
+"C5","GRM188R60J106ME47D","TopLayer","FP-GRM188-0_1-e0_2_0_55-IPC_A","32.5120","17.2720","0","Chip Multilayer Ceramic Capacitors for General Purpose, 0603, 10uF, X5R, 15%, 20%, 6.3V"
+"C7","GRM188R60J106ME47D","TopLayer","FP-GRM188-0_1-e0_2_0_55-IPC_A","32.5120","20.8280","0","Chip Multilayer Ceramic Capacitors for General Purpose, 0603, 10uF, X5R, 15%, 20%, 6.3V"
+"C3","C0805C105K4PACTU","TopLayer","CAPC2013X145X50ML20T25","27.3050","23.6220","180",""
+"C4","GRM188R60J106ME47D","TopLayer","FP-GRM188-0_1-e0_2_0_55-IPC_A","36.5760","23.3680","0","Chip Multilayer Ceramic Capacitors for General Purpose, 0603, 10uF, X5R, 15%, 20%, 6.3V"
+"C2","C0805C105K4PACTU","TopLayer","CAPC2013X145X50ML20T25","46.6090","23.3680","180",""
