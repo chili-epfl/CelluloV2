@@ -64,8 +64,7 @@ Due to the limitations in electronic availability, the core MCU used was the sam
 
 
 ## Next Steps
-
-
+Version 2 of Cellulo is functional and introduces new modularity, as well as features that were spotted from the previous version, however, it is far to be completed, and it is encouraged to put emphasis on new electronics, based on the feedback provided in the version electronics. Additionally, it is encouraged to do field tests with real users to iterate on the mechanical design and assess its robustness and usability.
 
 
 
